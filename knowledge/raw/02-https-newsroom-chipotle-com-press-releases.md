@@ -1,0 +1,162 @@
+---
+title: chipotle news releases
+url: https://newsroom.chipotle.com/press-releases
+scraped_at: 2026-05-01T01:46:06
+---
+
+[Skip to main content](https://newsroom.chipotle.com/press-releases#content)
+
+# CHIPOTLE NEWS RELEASES
+
+News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases.
+
+April 2026
+
+| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+| --- | --- | --- | --- | --- | --- | --- |
+| 29 | 30 | 31 | 1 | 2 | 3 | 4 |
+| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+| 26 | 27 | 28 | 29 | 30 | 1 | 2 |
+| 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+
+Cancel Go
+
+April 2026
+
+| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+| --- | --- | --- | --- | --- | --- | --- |
+| 29 | 30 | 31 | 1 | 2 | 3 | 4 |
+| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+| 26 | 27 | 28 | 29 | 30 | 1 | 2 |
+| 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+
+Cancel Go
+
+[Alerts![](https://newsroom.chipotle.com/images/webdriver/email_alerts.png)Opens in new window](https://newsroom.chipotle.com/alerts?type=2)
+
+YearAll Years20262025202420232022202120202019201820172016KeywordsGo
+
+[Advanced Search](https://newsroom.chipotle.com/press-releases#)
+
+Search
+
+Search Headlines Only
+
+From
+
+To
+
+Asset Types
+
+PhotosVideoAudioDocumentsEventsStandard
+
+[Basic Search](https://newsroom.chipotle.com/press-releases#)
+
+- Apr 29, 2026
+
+
+
+[CHIPOTLE ANNOUNCES FIRST QUARTER 2026 RESULTSOpens in new window](https://newsroom.chipotle.com/2026-04-29-CHIPOTLE-ANNOUNCES-FIRST-QUARTER-2026-RESULTS)
+
+
+
+
+
+RETURN TO POSITIVE TRANSACTIONS DRIVES 0.5% COMPARABLE RESTAURANT SALES GROWTH; REVENUE INCREASES 7.4% TO $3.1 BILLION NEWPORT BEACH, Calif., April 29, 2026 /PRNewswire/ -- Chipotle Mexican Grill,...
+
+- [![](https://newsroom.chipotle.com/file.php/180969/CincoCampaignPR_SEO.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-04-29-CHIPOTLE-BRINGS-REAL-INGREDIENTS-TO-CINCO-DE-MAYO-WITH-FREE-CHIPS-AND-SIDES)
+
+
+
+Apr 29, 2026
+
+
+
+[CHIPOTLE BRINGS REAL INGREDIENTS TO CINCO DE MAYO WITH FREE CHIPS AND SIDESOpens in new window](https://newsroom.chipotle.com/2026-04-29-CHIPOTLE-BRINGS-REAL-INGREDIENTS-TO-CINCO-DE-MAYO-WITH-FREE-CHIPS-AND-SIDES)
+
+
+
+
+
+Digital guests can score free Chips and Queso Blanco or free Chips and Guacamole with an entrée purchase on May 5 using code CINCO26 on the Chipotle app and Chipotle.com\* NEWPORT BEACH, Calif.,...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-04-29-CHIPOTLE-BRINGS-REAL-INGREDIENTS-TO-CINCO-DE-MAYO-WITH-FREE-CHIPS-AND-SIDES#assets_20295_122857-117)
+
+- [![](https://mma.prnewswire.com/media/2968503/Chipotle_Teacher_Healthcare_Giftcards.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-04-29-CHIPOTLE-TO-GIVE-AWAY-UP-TO-2-MILLION-IN-FREE-BURRITOS-TO-TEACHERS-AND-HEALTHCARE-WORKERS)
+
+
+
+Apr 29, 2026
+
+
+
+[CHIPOTLE TO GIVE AWAY UP TO $2 MILLION IN FREE BURRITOS TO TEACHERS AND HEALTHCARE WORKERSOpens in new window](https://newsroom.chipotle.com/2026-04-29-CHIPOTLE-TO-GIVE-AWAY-UP-TO-2-MILLION-IN-FREE-BURRITOS-TO-TEACHERS-AND-HEALTHCARE-WORKERS)
+
+
+
+
+
+To celebrate Teacher Appreciation Week (May 4 through May 8) and National Nurses Week (May 6 through May 12), up to 100,000 healthcare workers and 100,000 teachers, randomly selected and verified...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-04-29-CHIPOTLE-TO-GIVE-AWAY-UP-TO-2-MILLION-IN-FREE-BURRITOS-TO-TEACHERS-AND-HEALTHCARE-WORKERS#assets_20295_122858-117)
+
+- Apr 27, 2026
+
+
+
+[CHIPOTLE TAPS AWARD-WINNING FERNANDO MACHADO AS CHIEF BRAND OFFICEROpens in new window](https://newsroom.chipotle.com/2026-04-27-CHIPOTLE-TAPS-AWARD-WINNING-FERNANDO-MACHADO-AS-CHIEF-BRAND-OFFICER)
+
+
+
+
+
+Appoints Arlie Sisson to newly formed Chief Digital Officer role to accelerate innovation efforts tied to Recipe for Growth strategy NEWPORT BEACH, Calif., April 27, 2026 /PRNewswire/ -- Chipotle...
+
+- [![](https://newsroom.chipotle.com/file.php/180960/1200SustainabilityReportPR.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-04-22-CHIPOTLE-REPORTS-FIRST-CUMULATIVE-REAL-FOODPRINT-RESULTS,-INCLUDING-OVER-616-MILLION-GALLONS-OF-WATER-SAVED-IN-2025)
+
+
+
+Apr 22, 2026
+
+
+
+[CHIPOTLE REPORTS FIRST CUMULATIVE REAL FOODPRINT RESULTS, INCLUDING OVER 616 MILLION GALLONS OF WATER SAVED IN 2025Opens in new window](https://newsroom.chipotle.com/2026-04-22-CHIPOTLE-REPORTS-FIRST-CUMULATIVE-REAL-FOODPRINT-RESULTS,-INCLUDING-OVER-616-MILLION-GALLONS-OF-WATER-SAVED-IN-2025)
+
+
+
+
+
+For the first time, Chipotle is reporting cumulative Real Foodprint results across all digital orders in 2025, quantifying the estimated environmental impact of its ingredient sourcing standards...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-04-22-CHIPOTLE-REPORTS-FIRST-CUMULATIVE-REAL-FOODPRINT-RESULTS,-INCLUDING-OVER-616-MILLION-GALLONS-OF-WATER-SAVED-IN-2025#assets_20295_122855-117)
+
+Show
+
+5
+
+per page
+
+- [print](https://newsroom.chipotle.com/press-releases#print "print")
+- [Opens in new window](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnewsroom.chipotle.com%2Findex.php%3Fs%3D20295 "Facebook Share")
+- [Opens in new window](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fnewsroom.chipotle.com%2Findex.php%3Fs%3D20295 "Linkedin Share")
+- [Opens in new window](https://twitter.com/share?url=https%3A%2F%2Fnewsroom.chipotle.com%2Findex.php%3Fs%3D20295 "Twitter Share")
+- [email](https://newsroom.chipotle.com/press-releases#email "email")
+- [Opens in new window](https://newsroom.chipotle.com/index.php?s=20324&rsspage=20295 "rss")
+
+[5Opens in new window](https://newsroom.chipotle.com/press-releases?l=5) [10Opens in new window](https://newsroom.chipotle.com/press-releases?l=10) [25Opens in new window](https://newsroom.chipotle.com/press-releases?l=25) [50Opens in new window](https://newsroom.chipotle.com/press-releases?l=50) [100Opens in new window](https://newsroom.chipotle.com/press-releases?l=100)

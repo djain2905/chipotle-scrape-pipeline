@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/Users/dhwanijain/Desktop/isba-4715/chipotle-scrape-pipeline/venv/bin/pytest *)"
+    ]
+  }
+}
