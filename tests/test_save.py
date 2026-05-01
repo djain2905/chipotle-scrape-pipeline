@@ -21,7 +21,7 @@ def _run_pipeline(tmp_path, results, monkeypatch):
     with patch("requests.post", return_value=_make_response(results)):
         if "scrape_pipeline" in sys.modules:
             del sys.modules["scrape_pipeline"]
-        sys.path.insert(0, str(Path(__file__).parent.parent))
+        monkeypatch.syspath_prepend(str(Path(__file__).parent.parent))
         importlib.import_module("scrape_pipeline")
 
 
@@ -39,7 +39,7 @@ def test_file_created_with_frontmatter(tmp_path, monkeypatch):
     content = files[0].read_text()
     assert "title: Chipotle News" in content
     assert "url: https://ir.chipotle.com/news-releases" in content
-    assert "scraped_at:" in content
+    assert re.search(r"scraped_at:\s*\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}", content)
     assert "## Q4 Results" in content
 
 
