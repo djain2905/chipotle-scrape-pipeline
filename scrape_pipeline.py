@@ -19,7 +19,7 @@ headers = {
 }
 
 payload = {
-    "query": "Chipotle investor relations press releases",
+    "query": "Chipotle Mexican Grill new menu items food innovation 2025",
     "limit": 5,
     "scrapeOptions": {"formats": ["markdown"]}
 }
