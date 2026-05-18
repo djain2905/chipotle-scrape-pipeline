@@ -1,8 +1,11 @@
 ---
-title: Chipotle Makes Big Menu Update - Newsweek
+title: Chipotle Makes Big Menu Update
 url: https://www.newsweek.com/chipotle-makes-big-menu-update-11713266
-scraped_at: 2026-05-04T08:21:40
+scraped_at: 2026-05-18T09:46:00
 ---
+
+[Latest\\
+How Ebola Compares to Hantavirus as ‘Small Number’ of Americans Impacted in DRC](https://www.newsweek.com/how-ebola-compares-to-hantavirus-as-small-number-of-americans-impacted-in-drc-11961711)
 
 - U.S.
 
@@ -53,6 +56,20 @@ The Cilantro Lime Sauce offers a bright, herb‑forward flavor with balanced ci
 
 The creamy sauce, which blends hand‑chopped cilantro, lime, Mexican spices, sour cream and roasted jalapeños, on Thursday became available at Chipotle restaurants across the U.S. and Canada.
 
+#### Read More on [Food & Drink](https://www.newsweek.com/food-drink)
+
+[Trump Orders Beef Import Surge to Slash Record-High Grocery Bills5 min read\\
+\\
+![Trump Orders Beef Import Surge to Slash Record-High Grocery Bills](https://assets.newsweek.com/wp-content/uploads/2026/05/AP091117066802.jpg?w=1600&quality=80&webp=1)](https://www.newsweek.com/trump-moves-to-lowe-rbeef-import-tariffs-amid-record-high-prices-11937944)
+
+[Nationwide Recall of Muffins Over Undeclared Allergens—‘Life-Threatening’3 min read\\
+\\
+![Nationwide Recall of Muffins Over Undeclared Allergens—‘Life-Threatening’](https://assets.newsweek.com/wp-content/uploads/2026/05/Copy-of-32-image-2026-05-11T092259.531.png?w=1600&quality=80&webp=1)](https://www.newsweek.com/nationwide-recall-muffins-undeclared-allergens-11935283)
+
+[Chocolate Bars’ Nationwide Recall Expanded Amid Salmonella Fears5 min read\\
+\\
+![Chocolate Bars’ Nationwide Recall Expanded Amid Salmonella Fears](https://assets.newsweek.com/wp-content/uploads/2026/05/Copy-of-32-image-2026-05-09T141738.243.png?w=1600&quality=80&webp=1)](https://www.newsweek.com/chocolate-bar-nationwide-recall-expanded-salmonella-fda-11932351)
+
 However, the [menu addition](https://www.newsweek.com/olive-garden-launches-menu-change-this-week-2097513) will only be there for a limited time.
 
 ## What To Know
@@ -67,7 +84,7 @@ The chain also likely hopes the sauce can boost foot traffic even as some Americ
 
 “This latest Cilantro Lime Sauce addition to their menu is a way of targeting customers who may have stopped coming to their stores over inflationary pressures.”
 
-![](https://assets.newsweek.com/wp-content/uploads/2026/03/GettyImages-2221388839.jpg?w=1600&quality=80&webp=1)
+![A Chipotle is pictured in Upland, California, on May 15, 2025. (GettyImages)](https://assets.newsweek.com/wp-content/uploads/2026/03/GettyImages-2221388839.jpg?w=1600&quality=80&webp=1)
 
 A Chipotle is pictured in Upland, California, on May 15, 2025. (GettyImages)
 
@@ -88,6 +105,46 @@ Laurie Schalow, chief corporate affairs officer for Chipotle, previously told _N
 “Since this consumer population is actively spending more at shops and restaurants today, Chipotle is giving them additional reasons to visit with new marketing and menu innovations as well as enhancing the digital experience for all guests,” Schalow added.
 
 ## Recommended For You
+
+[![Texas Roadhouse CEO Wants Servers Using Tablets](https://assets.newsweek.com/wp-content/uploads/2026/05/Copy-of-32-image-2026-05-09T102525.918.png?w=1600&quality=80&webp=1)](https://www.newsweek.com/texas-roadhouse-ceo-servers-tablets-11932045)
+
+[News](https://www.newsweek.com/news)
+
+[**Texas Roadhouse CEO Wants Servers Using Tablets**](https://www.newsweek.com/texas-roadhouse-ceo-servers-tablets-11932045)
+
+7 min read
+
+[![SNAP Benefit Requirements To Change for Retailers: What’s Included](https://assets.newsweek.com/wp-content/uploads/2026/05/GettyImages-1470222785.jpg?w=1600&quality=80&webp=1)](https://www.newsweek.com/snap-benefit-requirements-to-change-for-retailers-whats-included-11926925)
+
+[News](https://www.newsweek.com/news)
+
+[**SNAP Benefit Requirements To Change for Retailers: What’s Included**](https://www.newsweek.com/snap-benefit-requirements-to-change-for-retailers-whats-included-11926925)
+
+5 min read
+
+[![Multiple Snacks Recalled Over Salmonella Risk](https://assets.newsweek.com/wp-content/uploads/2026/05/Copy-of-32-image-2026-05-07T132659.707.png?w=1600&quality=80&webp=1)](https://www.newsweek.com/snacks-recalled-salmonella-risk-11923373)
+
+[Food & Drink](https://www.newsweek.com/food-drink)
+
+[**Multiple Snacks Recalled Over Salmonella Risk**](https://www.newsweek.com/snacks-recalled-salmonella-risk-11923373)
+
+3 min read
+
+[![List of Products From Coca‑Cola, Oreo and More Rebranded for America250](https://assets.newsweek.com/wp-content/uploads/2026/05/Copy-of-32-Split-Screen-wSquare-inset-1-3.png?w=1600&quality=80&webp=1)](https://www.newsweek.com/list-products-coca-cola-oreo-rebranded-america250-11919820)
+
+[News](https://www.newsweek.com/news)
+
+[**List of Products From Coca‑Cola, Oreo and More Rebranded for America250**](https://www.newsweek.com/list-products-coca-cola-oreo-rebranded-america250-11919820)
+
+3 min read
+
+[![Glass Found in Popular Aldi Dessert—7 States Affected](https://assets.newsweek.com/wp-content/uploads/2026/05/GettyImages-2241184437.jpeg?w=1600&quality=80&webp=1)](https://www.newsweek.com/aldi-creme-brulee-recalled-glass-seven-states-11918531)
+
+[Food & Drink](https://www.newsweek.com/food-drink)
+
+[**Glass Found in Popular Aldi Dessert—7 States Affected**](https://www.newsweek.com/aldi-creme-brulee-recalled-glass-seven-states-11918531)
+
+3 min read
 
 [![Smokey Bones Chain Closes All Restaurants Nationwide](https://assets.newsweek.com/wp-content/uploads/2025/11/GettyImages-528779944.jpg?w=1600&quality=80&webp=1)](https://www.newsweek.com/smokey-bones-chain-closes-all-restaurants-nationwide-11897570)
 
@@ -142,46 +199,6 @@ Laurie Schalow, chief corporate affairs officer for Chipotle, previously told _N
 [Food & Drink](https://www.newsweek.com/food-drink)
 
 [**Who Is Michael Boes? Steak ‘n Shake Hires Chief MAHA Officer**](https://www.newsweek.com/who-is-michael-boes-steak-n-shake-hires-chief-maha-officer-11860450)
-
-3 min read
-
-[![Arby’s Updates Menu With New Mac-and-Cheese Option](https://assets.newsweek.com/wp-content/uploads/2026/04/GettyImages-2240434277-1.jpg?w=1600&quality=80&webp=1)](https://www.newsweek.com/arbys-updates-menu-new-mac-and-cheese-option-11854060)
-
-[Food & Drink](https://www.newsweek.com/food-drink)
-
-[**Arby’s Updates Menu With New Mac-and-Cheese Option**](https://www.newsweek.com/arbys-updates-menu-new-mac-and-cheese-option-11854060)
-
-3 min read
-
-[![SNAP Benefits Update: Thousands Get Major Food Option Boost](https://assets.newsweek.com/wp-content/uploads/2026/04/GettyImages-2244208854.jpg?w=1600&quality=80&webp=1)](https://www.newsweek.com/snap-benefits-update-hawaii-kona-low-11848992)
-
-[News](https://www.newsweek.com/news)
-
-[**SNAP Benefits Update: Thousands Get Major Food Option Boost**](https://www.newsweek.com/snap-benefits-update-hawaii-kona-low-11848992)
-
-3 min read
-
-[![Vitamin Recall Update as FDA Sets Risk Level](https://assets.newsweek.com/wp-content/uploads/2026/04/Copy-of-32-image-2026-04-17T123258.046.png?w=1600&quality=80&webp=1)](https://www.newsweek.com/vitamin-recall-update-fda-sets-risk-level-11844464)
-
-[Food & Drink](https://www.newsweek.com/food-drink)
-
-[**Vitamin Recall Update as FDA Sets Risk Level**](https://www.newsweek.com/vitamin-recall-update-fda-sets-risk-level-11844464)
-
-3 min read
-
-[![Major Steakhouse Chain Faces Threat Amid Closure As Bankruptcy Looms](https://assets.newsweek.com/wp-content/uploads/2026/04/GettyImages-500466008.jpg?w=1600&quality=80&webp=1)](https://www.newsweek.com/major-steakhouse-chain-faces-threat-amid-closure-bankruptcy-looms-11844755)
-
-[Business](https://www.newsweek.com/business)
-
-[**Major Steakhouse Chain Faces Threat Amid Closure As Bankruptcy Looms**](https://www.newsweek.com/major-steakhouse-chain-faces-threat-amid-closure-bankruptcy-looms-11844755)
-
-3 min read
-
-[![Man Wakes to ‘Crime Scene’ in Kitchen—Then Discovers What Really Happened](https://assets.newsweek.com/wp-content/uploads/2026/04/syrup2.png?w=1600&quality=80&webp=1)](https://www.newsweek.com/man-wakes-crime-scene-kitchen-discovers-happened-11837763)
-
-[Life](https://www.newsweek.com/life)
-
-[**Man Wakes to ‘Crime Scene’ in Kitchen—Then Discovers What Really Happened**](https://www.newsweek.com/man-wakes-crime-scene-kitchen-discovers-happened-11837763)
 
 3 min read
 
