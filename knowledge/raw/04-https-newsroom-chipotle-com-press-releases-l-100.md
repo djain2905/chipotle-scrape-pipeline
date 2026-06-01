@@ -1,46 +1,38 @@
 ---
 title: chipotle news releases
 url: https://newsroom.chipotle.com/press-releases?l=100
-scraped_at: 2026-05-01T02:35:26
+scraped_at: 2026-06-01T11:14:32
 ---
 
-### Your Privacy Preferences
-
-If you would like to submit a Data Subject Request, please click here: [Data Subject Request Form](https://www.chipotle.com/privacy-request)
-
-We use cookies to enhance your website and app experience, improve functionality and support our marketing efforts. You can manage your cookie preferences by clicking “Do Not Sell or Share My Personal Information / Opt Out.” If you wish to opt out of Chipotle’s sharing your personal information directly with third parties for the purpose of targeted advertising, please click on “Your Privacy Choices” link in the footer of our website and complete the US Consumer Data Request Form found under the Data Subject Rights tab. To learn more, please review our [Cookie Policy](https://www.chipotle.com/cookie-policy) and our visit our recently updated [Privacy Policy,](https://www.chipotle.com/privacy-policy) [including California Privacy Rights](https://www.chipotle.com/privacy-policy). By continuing to access or use our website, you agree to our [Terms of Use](https://www.chipotle.com/terms-of-use) including the arbitration and class action waiver.
-
-Do Not Sell or Share My Personal Information / Opt OutAccept AllPrivacy Preferences
-
- [Skip to main content](https://newsroom.chipotle.com/press-releases?l=100#content)
+[Skip to main content](https://newsroom.chipotle.com/press-releases?l=100#content)
 
 # CHIPOTLE NEWS RELEASES
 
 News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases.
 
-April 2026
+May 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 29 | 30 | 31 | 1 | 2 | 3 | 4 |
-| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 1 | 2 |
 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+| 17 | 18 | 19 | 20 | 21 | 22 | 23 |
+| 24 | 25 | 26 | 27 | 28 | 29 | 30 |
+| 31 | 1 | 2 | 3 | 4 | 5 | 6 |
 
 Cancel Go
 
-April 2026
+May 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 29 | 30 | 31 | 1 | 2 | 3 | 4 |
-| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 1 | 2 |
 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+| 17 | 18 | 19 | 20 | 21 | 22 | 23 |
+| 24 | 25 | 26 | 27 | 28 | 29 | 30 |
+| 31 | 1 | 2 | 3 | 4 | 5 | 6 |
 
 Cancel Go
 
@@ -63,6 +55,72 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases?l=100#)
+
+- [![](https://mmx.prnewswire.com/media/MS1850047/Chipotle_Summer_of_Extras.jpg?id=OA2643175&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-05-28-CHIPOTLES-SUMMER-OF-EXTRAS-RETURNS,-WITH-STREAK-BASED-REWARDS-AND-LOCAL-RANKINGS-TO-GAMIFY-THE-REWARDS-EXPERIENCE)
+
+
+
+May 28, 2026
+
+
+
+[CHIPOTLE'S "SUMMER OF EXTRAS" RETURNS, WITH STREAK-BASED REWARDS AND LOCAL RANKINGS TO GAMIFY THE REWARDS EXPERIENCEOpens in new window](https://newsroom.chipotle.com/2026-05-28-CHIPOTLES-SUMMER-OF-EXTRAS-RETURNS,-WITH-STREAK-BASED-REWARDS-AND-LOCAL-RANKINGS-TO-GAMIFY-THE-REWARDS-EXPERIENCE)
+
+
+
+
+
+The 2026 program introduces simplified monthly rewards, local leaderboards and shareable stats designed to engage loyal fans this summer NEWPORT BEACH, Calif., May 28, 2026 /PRNewswire/ --...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-05-28-CHIPOTLES-SUMMER-OF-EXTRAS-RETURNS,-WITH-STREAK-BASED-REWARDS-AND-LOCAL-RANKINGS-TO-GAMIFY-THE-REWARDS-EXPERIENCE#assets_20295_122862-117)
+
+- [![](https://newsroom.chipotle.com/image/Graduation_PRAsset__mid.jpg)Opens in new window](https://newsroom.chipotle.com/2026-05-11-CHIPOTLE-REVEALS-AMERICAS-MOST-CHIPOTLE-OBSESSED-COLLEGE-TOWNS-AND-CELEBRATES-THE-CLASS-OF-2026-WITH-GIFT-CARD-OFFER)
+
+
+
+May 11, 2026
+
+
+
+[CHIPOTLE REVEALS AMERICA’S MOST CHIPOTLE-OBSESSED COLLEGE TOWNS AND CELEBRATES THE CLASS OF 2026 WITH GIFT CARD OFFER Opens in new window](https://newsroom.chipotle.com/2026-05-11-CHIPOTLE-REVEALS-AMERICAS-MOST-CHIPOTLE-OBSESSED-COLLEGE-TOWNS-AND-CELEBRATES-THE-CLASS-OF-2026-WITH-GIFT-CARD-OFFER)
+
+
+
+
+
+New Chipotle U Rewards data highlights top group-order campuses, delivery hotspots and regional flavor trends Starting May 14, the first 10,000 guests who purchase $40 or more in graduation-themed...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-05-11-CHIPOTLE-REVEALS-AMERICAS-MOST-CHIPOTLE-OBSESSED-COLLEGE-TOWNS-AND-CELEBRATES-THE-CLASS-OF-2026-WITH-GIFT-CARD-OFFER#assets_20295_122861-117)
+
+- [![](https://newsroom.chipotle.com/file.php/180989/Chipotle-Cobra-Image_1200px.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-05-05-MAX-HOMA-BRINGS-BACK-VIRAL-CHIPOTLE-X-COBRA-BURRITO-HEADCOVER-TO-THE-PGA-TOUR)
+
+
+
+May 5, 2026
+
+
+
+[MAX HOMA BRINGS BACK VIRAL CHIPOTLE X COBRA BURRITO HEADCOVER TO THE PGA TOUROpens in new window](https://newsroom.chipotle.com/2026-05-05-MAX-HOMA-BRINGS-BACK-VIRAL-CHIPOTLE-X-COBRA-BURRITO-HEADCOVER-TO-THE-PGA-TOUR)
+
+
+
+
+
+NEWPORT BEACH, Calif., May 5, 2026 – Max Homa is giving fans another shot at one of golf’s most talked-about accessories. After selling out in under three hours last year, the limited-edition...
+
+
+
+
+
+  - [Photos2Opens in new window](https://newsroom.chipotle.com/2026-05-05-MAX-HOMA-BRINGS-BACK-VIRAL-CHIPOTLE-X-COBRA-BURRITO-HEADCOVER-TO-THE-PGA-TOUR#assets_20295_122860-117)
 
 - Apr 29, 2026
 
@@ -1991,71 +2049,6 @@ This is one of the biggest stock splits in New York Stock Exchange (NYSE) histor
 
 Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, July 24, 2024 at 4:30 PM Eastern time to discuss second quarter financial results and provide a business update for the...
 
-- [![](https://mma.prnewswire.com/media/2429164/CMG_FreeThrows_FreeCodes_PR_ASSET.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2024-06-04-FREE-THROWS,-FREE-CODES-CHIPOTLE-WILL-REWARD-FANS-WITH-FREE-BURRITOS-DURING-THE-2024-MENS-PROFESSIONAL-BASKETBALL-CHAMPIONSHIP-SERIES)
-
-
-
-Jun 4, 2024
-
-
-
-[FREE THROWS, FREE CODES: CHIPOTLE WILL REWARD FANS WITH FREE BURRITOS DURING THE 2024 MEN'S PROFESSIONAL BASKETBALL CHAMPIONSHIP SERIESOpens in new window](https://newsroom.chipotle.com/2024-06-04-FREE-THROWS,-FREE-CODES-CHIPOTLE-WILL-REWARD-FANS-WITH-FREE-BURRITOS-DURING-THE-2024-MENS-PROFESSIONAL-BASKETBALL-CHAMPIONSHIP-SERIES)
-
-
-
-
-
-Each time a player makes all their free throws, Chipotle will drop 500 free entrée codes\* via X/Twitter Free Throws, Free Codes aims to reward fans for made free throws amid a season where missed...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2024-06-04-FREE-THROWS,-FREE-CODES-CHIPOTLE-WILL-REWARD-FANS-WITH-FREE-BURRITOS-DURING-THE-2024-MENS-PROFESSIONAL-BASKETBALL-CHAMPIONSHIP-SERIES#assets_20295_122756-117)
-
-- [![](https://newsroom.chipotle.com/file.php/180230/Pride2024_US_PRAsset_1920x1080z_1000.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2024-05-29-CHIPOTLES-LOVE-WHAT-MAKES-YOU-REAL-CAMPAIGN-RETURNS-FOR-PRIDE-MONTH-AND-BEYOND)
-
-
-
-May 29, 2024
-
-
-
-[CHIPOTLE’S ‘LOVE WHAT MAKES YOU REAL’ CAMPAIGN RETURNS FOR PRIDE MONTH AND BEYOND Opens in new window](https://newsroom.chipotle.com/2024-05-29-CHIPOTLES-LOVE-WHAT-MAKES-YOU-REAL-CAMPAIGN-RETURNS-FOR-PRIDE-MONTH-AND-BEYOND)
-
-
-
-
-
-Chipotle is offering a limited-edition crew uniform option featuring the ‘Love What Makes Your Real’ tagline to highlight allyship and acceptance in its restaurants The company is also...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2024-05-29-CHIPOTLES-LOVE-WHAT-MAKES-YOU-REAL-CAMPAIGN-RETURNS-FOR-PRIDE-MONTH-AND-BEYOND#assets_20295_122755-117)
-
-- [![](https://mma.prnewswire.com/media/2402291/2024_Healthcare_Heroes_PR_Asset.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2024-05-01-REAL-FOOD-FOR-REAL-HEROES-CHIPOTLE-SERVES-UP-MORE-THAN-1-MILLION-IN-FREE-BURRITOS-TO-THE-HEALTHCARE-COMMUNITY)
-
-
-
-May 1, 2024
-
-
-
-[REAL FOOD FOR REAL HEROES: CHIPOTLE SERVES UP MORE THAN $1 MILLION IN FREE BURRITOS TO THE HEALTHCARE COMMUNITYOpens in new window](https://newsroom.chipotle.com/2024-05-01-REAL-FOOD-FOR-REAL-HEROES-CHIPOTLE-SERVES-UP-MORE-THAN-1-MILLION-IN-FREE-BURRITOS-TO-THE-HEALTHCARE-COMMUNITY)
-
-
-
-
-
-The brand is inviting healthcare professionals to sign up for a chance to receive free burritos in celebration of National Nurses Week A total of 100,000 verified healthcare workers will receive...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2024-05-01-REAL-FOOD-FOR-REAL-HEROES-CHIPOTLE-SERVES-UP-MORE-THAN-1-MILLION-IN-FREE-BURRITOS-TO-THE-HEALTHCARE-COMMUNITY#assets_20295_122754-117)
 
 Show
 
