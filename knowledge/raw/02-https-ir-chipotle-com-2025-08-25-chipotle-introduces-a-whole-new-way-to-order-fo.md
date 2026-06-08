@@ -1,7 +1,7 @@
 ---
 title: BUILD-YOUR-OWN CHIPOTLE - Aug 25, 2025
 url: https://ir.chipotle.com/2025-08-25-CHIPOTLE-INTRODUCES-A-WHOLE-NEW-WAY-TO-ORDER-FOR-A-SMALL-GROUP-BUILD-YOUR-OWN-CHIPOTLE
-scraped_at: 2026-05-25T09:54:11
+scraped_at: 2026-06-08T10:22:58
 ---
 
 [Back to News Releases](https://ir.chipotle.com/news-releases)

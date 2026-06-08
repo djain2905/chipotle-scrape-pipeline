@@ -1,38 +1,46 @@
 ---
 title: chipotle news releases
 url: https://newsroom.chipotle.com/press-releases?l=100
-scraped_at: 2026-05-25T09:54:11
+scraped_at: 2026-06-08T10:22:58
 ---
 
-[Skip to main content](https://newsroom.chipotle.com/press-releases?l=100#content)
+### Your Privacy Preferences
+
+If you would like to submit a Data Subject Request, please click here: [Data Subject Request Form](https://www.chipotle.com/privacy-request)
+
+We use cookies to enhance your website and app experience, improve functionality and support our marketing efforts. You can manage your cookie preferences by clicking “Do Not Sell or Share My Personal Information / Opt Out.” If you wish to opt out of Chipotle’s sharing your personal information directly with third parties for the purpose of targeted advertising, please click on “Your Privacy Choices” link in the footer of our website and complete the US Consumer Data Request Form found under the Data Subject Rights tab. To learn more, please review our [Cookie Policy](https://www.chipotle.com/cookie-policy) and our visit our recently updated [Privacy Policy,](https://www.chipotle.com/privacy-policy) [including California Privacy Rights](https://www.chipotle.com/privacy-policy). By continuing to access or use our website, you agree to our [Terms of Use](https://www.chipotle.com/terms-of-use) including the arbitration and class action waiver.
+
+Do Not Sell or Share My Personal Information / Opt OutAccept AllPrivacy Preferences
+
+ [Skip to main content](https://newsroom.chipotle.com/press-releases?l=100#content)
 
 # CHIPOTLE NEWS RELEASES
 
 News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases.
 
-May 2026
+June 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 26 | 27 | 28 | 29 | 30 | 1 | 2 |
-| 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-| 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-| 17 | 18 | 19 | 20 | 21 | 22 | 23 |
-| 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 | 1 | 2 | 3 | 4 | 5 | 6 |
+| 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| 21 | 22 | 23 | 24 | 25 | 26 | 27 |
+| 28 | 29 | 30 | 1 | 2 | 3 | 4 |
+| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
 
 Cancel Go
 
-May 2026
+June 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 26 | 27 | 28 | 29 | 30 | 1 | 2 |
-| 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-| 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-| 17 | 18 | 19 | 20 | 21 | 22 | 23 |
-| 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 | 1 | 2 | 3 | 4 | 5 | 6 |
+| 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| 21 | 22 | 23 | 24 | 25 | 26 | 27 |
+| 28 | 29 | 30 | 1 | 2 | 3 | 4 |
+| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
 
 Cancel Go
 
@@ -55,6 +63,62 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases?l=100#)
+
+- [![](https://mmx.prnewswire.com/media/MS1853469/53_Years-53_Real_Ingredients.jpg?id=OA2644601&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-06-03-53-YEARS-53-REAL-INGREDIENTS-CHIPOTLE-TO-GIVE-AWAY-53,000-FREE-BURRITOS-FOR-THE-MENS-PROFESSIONAL-BASKETBALL-CHAMPIONSHIP-SERIES)
+
+
+
+Jun 3, 2026
+
+
+
+[53 YEARS. 53 REAL INGREDIENTS: CHIPOTLE TO GIVE AWAY 53,000 FREE BURRITOS FOR THE MEN'S PROFESSIONAL BASKETBALL CHAMPIONSHIP SERIESOpens in new window](https://newsroom.chipotle.com/2026-06-03-53-YEARS-53-REAL-INGREDIENTS-CHIPOTLE-TO-GIVE-AWAY-53,000-FREE-BURRITOS-FOR-THE-MENS-PROFESSIONAL-BASKETBALL-CHAMPIONSHIP-SERIES)
+
+
+
+
+
+Chipotle is tying New York and San Antonio's 53-year connection to its real ingredients New York's Josh Hart and Mikal Bridges' go-to high protein orders are featured as limited-time digital menu...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-06-03-53-YEARS-53-REAL-INGREDIENTS-CHIPOTLE-TO-GIVE-AWAY-53,000-FREE-BURRITOS-FOR-THE-MENS-PROFESSIONAL-BASKETBALL-CHAMPIONSHIP-SERIES#assets_20295_122864-117)
+
+- Jun 2, 2026
+
+
+
+[CHIPOTLE MEXICAN GRILL TO ANNOUNCE SECOND QUARTER 2026 RESULTS ON JULY 29, 2026Opens in new window](https://newsroom.chipotle.com/2026-06-02-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-SECOND-QUARTER-2026-RESULTS-ON-JULY-29,-2026)
+
+
+
+
+
+Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, July 29, 2026, at 4:30 p.m. ET to discuss second quarter 2026 financial results and provide a business update for the...
+
+- [![](https://mmx.prnewswire.com/media/MS1850047/Chipotle_Summer_of_Extras.jpg?id=OA2643175&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-05-28-CHIPOTLES-SUMMER-OF-EXTRAS-RETURNS,-WITH-STREAK-BASED-REWARDS-AND-LOCAL-RANKINGS-TO-GAMIFY-THE-REWARDS-EXPERIENCE)
+
+
+
+May 28, 2026
+
+
+
+[CHIPOTLE'S "SUMMER OF EXTRAS" RETURNS, WITH STREAK-BASED REWARDS AND LOCAL RANKINGS TO GAMIFY THE REWARDS EXPERIENCEOpens in new window](https://newsroom.chipotle.com/2026-05-28-CHIPOTLES-SUMMER-OF-EXTRAS-RETURNS,-WITH-STREAK-BASED-REWARDS-AND-LOCAL-RANKINGS-TO-GAMIFY-THE-REWARDS-EXPERIENCE)
+
+
+
+
+
+The 2026 program introduces simplified monthly rewards, local leaderboards and shareable stats designed to engage loyal fans this summer NEWPORT BEACH, Calif., May 28, 2026 /PRNewswire/ --...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-05-28-CHIPOTLES-SUMMER-OF-EXTRAS-RETURNS,-WITH-STREAK-BASED-REWARDS-AND-LOCAL-RANKINGS-TO-GAMIFY-THE-REWARDS-EXPERIENCE#assets_20295_122862-117)
 
 - [![](https://newsroom.chipotle.com/image/Graduation_PRAsset__mid.jpg)Opens in new window](https://newsroom.chipotle.com/2026-05-11-CHIPOTLE-REVEALS-AMERICAS-MOST-CHIPOTLE-OBSESSED-COLLEGE-TOWNS-AND-CELEBRATES-THE-CLASS-OF-2026-WITH-GIFT-CARD-OFFER)
 
@@ -2002,52 +2066,6 @@ For more than 20 years, Chipotle's iconic Celebrity Card has been primarily gift
 
 
   - [Photos1Opens in new window](https://newsroom.chipotle.com/2024-06-24-CHIPOTLE-EXTENDS-CELEBRITY-STATUS-TO-BRAND-SUPERFANS,-LAUNCHES-CARD-APPLICATION#assets_20295_122759-117)
-
-- Jun 6, 2024
-
-
-
-[CHIPOTLE SHAREHOLDER APPROVAL PAVES WAY FOR HISTORIC 50-FOR-1 STOCK SPLITOpens in new window](https://newsroom.chipotle.com/2024-06-06-CHIPOTLE-SHAREHOLDER-APPROVAL-PAVES-WAY-FOR-HISTORIC-50-FOR-1-STOCK-SPLIT)
-
-
-
-
-
-This is one of the biggest stock splits in New York Stock Exchange (NYSE) history The record date is June 18 and the stock will begin trading on a post-split basis on June 26 NEWPORT BEACH,...
-
-- Jun 5, 2024
-
-
-
-[CHIPOTLE MEXICAN GRILL TO ANNOUNCE SECOND QUARTER 2024 RESULTS ON JULY 24, 2024Opens in new window](https://newsroom.chipotle.com/2024-06-05-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-SECOND-QUARTER-2024-RESULTS-ON-JULY-24,-2024)
-
-
-
-
-
-Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Wednesday, July 24, 2024 at 4:30 PM Eastern time to discuss second quarter financial results and provide a business update for the...
-
-- [![](https://mma.prnewswire.com/media/2429164/CMG_FreeThrows_FreeCodes_PR_ASSET.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2024-06-04-FREE-THROWS,-FREE-CODES-CHIPOTLE-WILL-REWARD-FANS-WITH-FREE-BURRITOS-DURING-THE-2024-MENS-PROFESSIONAL-BASKETBALL-CHAMPIONSHIP-SERIES)
-
-
-
-Jun 4, 2024
-
-
-
-[FREE THROWS, FREE CODES: CHIPOTLE WILL REWARD FANS WITH FREE BURRITOS DURING THE 2024 MEN'S PROFESSIONAL BASKETBALL CHAMPIONSHIP SERIESOpens in new window](https://newsroom.chipotle.com/2024-06-04-FREE-THROWS,-FREE-CODES-CHIPOTLE-WILL-REWARD-FANS-WITH-FREE-BURRITOS-DURING-THE-2024-MENS-PROFESSIONAL-BASKETBALL-CHAMPIONSHIP-SERIES)
-
-
-
-
-
-Each time a player makes all their free throws, Chipotle will drop 500 free entrée codes\* via X/Twitter Free Throws, Free Codes aims to reward fans for made free throws amid a season where missed...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2024-06-04-FREE-THROWS,-FREE-CODES-CHIPOTLE-WILL-REWARD-FANS-WITH-FREE-BURRITOS-DURING-THE-2024-MENS-PROFESSIONAL-BASKETBALL-CHAMPIONSHIP-SERIES#assets_20295_122756-117)
 
 Show
 
