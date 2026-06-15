@@ -1,18 +1,10 @@
 ---
 title: chipotle news releases
 url: https://newsroom.chipotle.com/press-releases?l=100
-scraped_at: 2026-06-08T10:22:58
+scraped_at: 2026-06-15T11:50:36
 ---
 
-### Your Privacy Preferences
-
-If you would like to submit a Data Subject Request, please click here: [Data Subject Request Form](https://www.chipotle.com/privacy-request)
-
-We use cookies to enhance your website and app experience, improve functionality and support our marketing efforts. You can manage your cookie preferences by clicking “Do Not Sell or Share My Personal Information / Opt Out.” If you wish to opt out of Chipotle’s sharing your personal information directly with third parties for the purpose of targeted advertising, please click on “Your Privacy Choices” link in the footer of our website and complete the US Consumer Data Request Form found under the Data Subject Rights tab. To learn more, please review our [Cookie Policy](https://www.chipotle.com/cookie-policy) and our visit our recently updated [Privacy Policy,](https://www.chipotle.com/privacy-policy) [including California Privacy Rights](https://www.chipotle.com/privacy-policy). By continuing to access or use our website, you agree to our [Terms of Use](https://www.chipotle.com/terms-of-use) including the arbitration and class action waiver.
-
-Do Not Sell or Share My Personal Information / Opt OutAccept AllPrivacy Preferences
-
- [Skip to main content](https://newsroom.chipotle.com/press-releases?l=100#content)
+[Skip to main content](https://newsroom.chipotle.com/press-releases?l=100#content)
 
 # CHIPOTLE NEWS RELEASES
 
@@ -63,6 +55,28 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases?l=100#)
+
+- [![](https://mmx.prnewswire.com/media/MS1858810/Soccer_BOGO_Lockup_PR_Asset.jpg?id=OA2690089&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-06-08-CHIPOTLE-KICKS-OFF-SUMMERS-BIGGEST-TOURNAMENT-WITH-ITS-FIRST-EVER-MATCHDAY-BOGO-FOR-FANS-WEARING-SOCCER-JERSEYS)
+
+
+
+Jun 8, 2026
+
+
+
+[CHIPOTLE KICKS OFF SUMMER'S BIGGEST TOURNAMENT WITH ITS FIRST-EVER MATCHDAY BOGO FOR FANS WEARING SOCCER JERSEYSOpens in new window](https://newsroom.chipotle.com/2026-06-08-CHIPOTLE-KICKS-OFF-SUMMERS-BIGGEST-TOURNAMENT-WITH-ITS-FIRST-EVER-MATCHDAY-BOGO-FOR-FANS-WEARING-SOCCER-JERSEYS)
+
+
+
+
+
+All fans who wear a soccer jersey to Chipotle restaurants in the U.S., Canada and U.K. on June 11, after 3 p.m. local time, can receive a buy-one-get-one free entrée1 Chipotle is releasing its...
+
+
+
+
+
+  - [Photos2Opens in new window](https://newsroom.chipotle.com/2026-06-08-CHIPOTLE-KICKS-OFF-SUMMERS-BIGGEST-TOURNAMENT-WITH-ITS-FIRST-EVER-MATCHDAY-BOGO-FOR-FANS-WEARING-SOCCER-JERSEYS#assets_20295_122865-117)
 
 - [![](https://mmx.prnewswire.com/media/MS1853469/53_Years-53_Real_Ingredients.jpg?id=OA2644601&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-06-03-53-YEARS-53-REAL-INGREDIENTS-CHIPOTLE-TO-GIVE-AWAY-53,000-FREE-BURRITOS-FOR-THE-MENS-PROFESSIONAL-BASKETBALL-CHAMPIONSHIP-SERIES)
 
@@ -2045,27 +2059,6 @@ Anthony Edwards, Sophia Smith, Taylor Fritz, Sara Hughes, and Jagger Eaton will 
 
 CMG will begin trading following the company's historic 50-for-1 stock split After market close yesterday, shareholders of record as of June 18, 2024, received 49 additional shares for each share held
 
-- [![](https://mma.prnewswire.com/media/2445739/CMG_CelebCard_PR_ASSET.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2024-06-24-CHIPOTLE-EXTENDS-CELEBRITY-STATUS-TO-BRAND-SUPERFANS,-LAUNCHES-CARD-APPLICATION)
-
-
-
-Jun 24, 2024
-
-
-
-[CHIPOTLE EXTENDS CELEBRITY STATUS TO BRAND SUPERFANS, OPENS SUBMISSIONS FOR CELEBRITY CARD ON SOCIAL MEDIA Opens in new window](https://newsroom.chipotle.com/2024-06-24-CHIPOTLE-EXTENDS-CELEBRITY-STATUS-TO-BRAND-SUPERFANS,-LAUNCHES-CARD-APPLICATION)
-
-
-
-
-
-For more than 20 years, Chipotle's iconic Celebrity Card has been primarily gifted to brand superfans who are athletes, artists, musicians, or influencers At a time when social media and the speed...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2024-06-24-CHIPOTLE-EXTENDS-CELEBRITY-STATUS-TO-BRAND-SUPERFANS,-LAUNCHES-CARD-APPLICATION#assets_20295_122759-117)
 
 Show
 

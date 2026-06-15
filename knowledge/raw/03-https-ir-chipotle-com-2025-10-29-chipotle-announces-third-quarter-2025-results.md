@@ -1,7 +1,7 @@
 ---
 title: CHIPOTLE ANNOUNCES THIRD QUARTER 2025 RESULTS
 url: https://ir.chipotle.com/2025-10-29-CHIPOTLE-ANNOUNCES-THIRD-QUARTER-2025-RESULTS
-scraped_at: 2026-06-08T10:22:58
+scraped_at: 2026-06-15T11:50:36
 ---
 
 [Back to News Releases](https://ir.chipotle.com/news-releases)
