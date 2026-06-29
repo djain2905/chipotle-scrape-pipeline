@@ -1,7 +1,7 @@
 ---
 title: chipotle news releases
 url: https://newsroom.chipotle.com/press-releases?l=100
-scraped_at: 2026-06-15T11:50:36
+scraped_at: 2026-06-29T10:28:31
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases?l=100#content)
@@ -55,6 +55,28 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases?l=100#)
+
+- [![](https://newsroom.chipotle.com/file.php/181019/2XKO-+buy+get+2026+16x9_v2+copy_800.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-06-16-CHIPOTLE-AND-RIOT-GAMES-SERVE-UP-THEIR-BIGGEST-COLLABORATION-YET-WITH-FIRST-EVER-BRANDED-LOBBY-IN-2XKO)
+
+
+
+Jun 16, 2026
+
+
+
+[CHIPOTLE AND RIOT GAMES SERVE UP THEIR BIGGEST COLLABORATION YET WITH FIRST-EVER BRANDED LOBBY IN 2XKOOpens in new window](https://newsroom.chipotle.com/2026-06-16-CHIPOTLE-AND-RIOT-GAMES-SERVE-UP-THEIR-BIGGEST-COLLABORATION-YET-WITH-FIRST-EVER-BRANDED-LOBBY-IN-2XKO)
+
+
+
+
+
+Building on their 2025 collaboration, Chipotle and Riot Games are teaming up for the biggest 2XKO activation yet, giving players new ways to engage through the 2XKO Real Ones Event presented by...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-06-16-CHIPOTLE-AND-RIOT-GAMES-SERVE-UP-THEIR-BIGGEST-COLLABORATION-YET-WITH-FIRST-EVER-BRANDED-LOBBY-IN-2XKO#assets_20295_122866-117)
 
 - [![](https://mmx.prnewswire.com/media/MS1858810/Soccer_BOGO_Lockup_PR_Asset.jpg?id=OA2690089&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-06-08-CHIPOTLE-KICKS-OFF-SUMMERS-BIGGEST-TOURNAMENT-WITH-ITS-FIRST-EVER-MATCHDAY-BOGO-FOR-FANS-WEARING-SOCCER-JERSEYS)
 
@@ -2046,19 +2068,6 @@ Anthony Edwards, Sophia Smith, Taylor Fritz, Sara Hughes, and Jagger Eaton will 
 
 
   - [Photos2Opens in new window](https://newsroom.chipotle.com/2024-07-01-TEAM-CHIPOTLE-RETURNS-WITH-A-NEW-LIMITED-TIME-MENU-FEATURING-THE-GO-TO-ORDERS-FOR-AMERICAS-TOP-ATHLETES#assets_20295_122761-117)
-
-- Jun 26, 2024
-
-
-
-[CHIPOTLE (NYSE: CMG) SHARES TO BEGIN TRADING ON A POST-SPLIT BASIS TODAYOpens in new window](https://newsroom.chipotle.com/2024-06-26-CHIPOTLE-NYSE-CMG-SHARES-TO-BEGIN-TRADING-ON-A-POST-SPLIT-BASIS-TODAY)
-
-
-
-
-
-CMG will begin trading following the company's historic 50-for-1 stock split After market close yesterday, shareholders of record as of June 18, 2024, received 49 additional shares for each share held
-
 
 Show
 
