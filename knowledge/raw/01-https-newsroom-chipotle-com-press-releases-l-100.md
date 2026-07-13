@@ -1,7 +1,7 @@
 ---
 title: chipotle news releases
 url: https://newsroom.chipotle.com/press-releases?l=100
-scraped_at: 2026-07-06T10:01:47
+scraped_at: 2026-07-13T08:54:40
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases?l=100#content)
@@ -10,29 +10,29 @@ scraped_at: 2026-07-06T10:01:47
 
 News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases.
 
-June 2026
+July 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 31 | 1 | 2 | 3 | 4 | 5 | 6 |
-| 7 | 8 | 9 | 10 | 11 | 12 | 13 |
-| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-| 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 1 | 2 | 3 | 4 |
 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+| 26 | 27 | 28 | 29 | 30 | 31 | 1 |
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 
 Cancel Go
 
-June 2026
+July 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 31 | 1 | 2 | 3 | 4 | 5 | 6 |
-| 7 | 8 | 9 | 10 | 11 | 12 | 13 |
-| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-| 21 | 22 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 1 | 2 | 3 | 4 |
 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+| 26 | 27 | 28 | 29 | 30 | 31 | 1 |
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 
 Cancel Go
 
@@ -55,6 +55,50 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases?l=100#)
+
+- [![2K Golfer](https://newsroom.chipotle.com/file.php/181036/2K+Golfer.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-07-08-CHIPOTLE-BRINGS-REAL-WORLD-FOOD-REWARDS-TO-PGA-TOUR-2K25-IN-FIRST-OF-ITS-KIND-QUEST-INTEGRATION)
+
+
+
+Jul 8, 2026
+
+
+
+[CHIPOTLE BRINGS REAL-WORLD FOOD REWARDS TO PGA TOUR 2K25 IN FIRST-OF-ITS-KIND QUEST INTEGRATIONOpens in new window](https://newsroom.chipotle.com/2026-07-08-CHIPOTLE-BRINGS-REAL-WORLD-FOOD-REWARDS-TO-PGA-TOUR-2K25-IN-FIRST-OF-ITS-KIND-QUEST-INTEGRATION)
+
+
+
+
+
+Chipotle’s new PGA TOUR 2K25 Quests will give players the chance to earn free food and unlock exclusive in-game gear1 The integration launches today with Season 7 of PGA TOUR 2K25 Chipotle will...
+
+
+
+
+
+  - [Photos3Opens in new window](https://newsroom.chipotle.com/2026-07-08-CHIPOTLE-BRINGS-REAL-WORLD-FOOD-REWARDS-TO-PGA-TOUR-2K25-IN-FIRST-OF-ITS-KIND-QUEST-INTEGRATION#assets_20295_122868-117)
+
+- [![](https://newsroom.chipotle.com/file.php/181031/Cultivate_Next.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-07-08-CHIPOTLES-CULTIVATE-NEXT-FUND-INVESTS-IN-SIX-EMERGING-COMPANIES-BUILDING-A-MORE-RESILIENT-FOOD-SYSTEM)
+
+
+
+Jul 8, 2026
+
+
+
+[CHIPOTLE’S CULTIVATE NEXT FUND INVESTS IN SIX EMERGING COMPANIES BUILDING A MORE RESILIENT FOOD SYSTEMOpens in new window](https://newsroom.chipotle.com/2026-07-08-CHIPOTLES-CULTIVATE-NEXT-FUND-INVESTS-IN-SIX-EMERGING-COMPANIES-BUILDING-A-MORE-RESILIENT-FOOD-SYSTEM)
+
+
+
+
+
+New investments support entrepreneurs working to advance food systems, climate resilience, regenerative agriculture, supply chain transparency, sustainability measurement and guest experience...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-07-08-CHIPOTLES-CULTIVATE-NEXT-FUND-INVESTS-IN-SIX-EMERGING-COMPANIES-BUILDING-A-MORE-RESILIENT-FOOD-SYSTEM#assets_20295_122867-117)
 
 - [![](https://newsroom.chipotle.com/file.php/181019/2XKO-+buy+get+2026+16x9_v2+copy_800.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-06-16-CHIPOTLE-AND-RIOT-GAMES-SERVE-UP-THEIR-BIGGEST-COLLABORATION-YET-WITH-FIRST-EVER-BRANDED-LOBBY-IN-2XKO)
 
@@ -2024,50 +2068,6 @@ The brand unveils its refreshed ready-to-drink beverage lineup featuring poppi, 
 
 
   - [Photos3Opens in new window](https://newsroom.chipotle.com/2024-07-22-CHIPOTLE-QUENCHES-SUMMERTIME-THIRST-WITH-NEW-BEVERAGE-LINEUP#assets_20295_122763-117)
-
-- [![](https://mma.prnewswire.com/media/2457506/Chipotle_CFO_Jack_Hartung.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2024-07-09-CHIPOTLE-ANNOUNCES-RETIREMENT-OF-CFO-JACK-HARTUNG-IN-2025)
-
-
-
-Jul 9, 2024
-
-
-
-[CHIPOTLE ANNOUNCES RETIREMENT OF CFO JACK HARTUNG IN 2025Opens in new window](https://newsroom.chipotle.com/2024-07-09-CHIPOTLE-ANNOUNCES-RETIREMENT-OF-CFO-JACK-HARTUNG-IN-2025)
-
-
-
-
-
-Chipotle Mexican Grill (NYSE: CMG) today announced that after nearly 25 years with the company, Jack Hartung has decided to retire, effective March 31, 2025. Hartung has served as Chief Financial...
-
-
-
-
-
-  - [Photos3Opens in new window](https://newsroom.chipotle.com/2024-07-09-CHIPOTLE-ANNOUNCES-RETIREMENT-OF-CFO-JACK-HARTUNG-IN-2025#assets_20295_122762-117)
-
-- [![](https://mma.prnewswire.com/media/2451560/team_chipotle_2024.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2024-07-01-TEAM-CHIPOTLE-RETURNS-WITH-A-NEW-LIMITED-TIME-MENU-FEATURING-THE-GO-TO-ORDERS-FOR-AMERICAS-TOP-ATHLETES)
-
-
-
-Jul 1, 2024
-
-
-
-["TEAM CHIPOTLE" RETURNS WITH A NEW LIMITED-TIME MENU FEATURING THE GO-TO ORDERS FOR AMERICA'S TOP ATHLETESOpens in new window](https://newsroom.chipotle.com/2024-07-01-TEAM-CHIPOTLE-RETURNS-WITH-A-NEW-LIMITED-TIME-MENU-FEATURING-THE-GO-TO-ORDERS-FOR-AMERICAS-TOP-ATHLETES)
-
-
-
-
-
-Anthony Edwards, Sophia Smith, Taylor Fritz, Sara Hughes, and Jagger Eaton will have their favorite orders featured on the Chipotle app and Chipotle.com as limited-edition menu items Chipotle has...
-
-
-
-
-
-  - [Photos2Opens in new window](https://newsroom.chipotle.com/2024-07-01-TEAM-CHIPOTLE-RETURNS-WITH-A-NEW-LIMITED-TIME-MENU-FEATURING-THE-GO-TO-ORDERS-FOR-AMERICAS-TOP-ATHLETES#assets_20295_122761-117)
 
 Show
 

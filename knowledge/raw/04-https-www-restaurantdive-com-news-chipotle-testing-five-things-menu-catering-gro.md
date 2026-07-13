@@ -1,7 +1,7 @@
 ---
-title: Chipotle is testing these 5 things to bring back buzz
+title: Chipotle is testing these 5 things to bring back buzz | Restaurant Dive
 url: https://www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/
-scraped_at: 2026-07-06T10:01:47
+scraped_at: 2026-07-13T08:54:40
 ---
 
 [Skip to main content](https://www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/#skip-link-target)
@@ -23,14 +23,6 @@ Let Restaurant Dive’s free newsletter keep you informed, straight from your in
 By signing up to receive our newsletter, you agree to our
 [Terms of Use](https://www.informatechtarget.com/terms-of-use/) and
 [Privacy Policy](https://www.informatechtarget.com/privacy-policy/). You can unsubscribe at anytime.
-
-reCAPTCHA
-
-Recaptcha requires verification.
-
-I'm not a robot
-
-reCAPTCHA
 
 [![Informa Tech Target Logo](https://d12v9rtnomnebu.cloudfront.net/logo/ITechTarget-Orbit-W_rgb.png)Informa TechTarget\|](https://www.informatechtarget.com/)
 
@@ -62,18 +54,18 @@ Published June 15, 2026
 
 [Julie Littman](https://www.restaurantdive.com/editors/jlittman/) Senior Editor
 
-- ![Share this article](https://www.restaurantdive.com/static/img/social_icons/share-icon.svg?313321260226)Share
+- ![](https://www.restaurantdive.com/static/img/social_icons/share-icon.svg?313321260226)Share
 
 
-  - ![Copy link](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/share-link-box.svg?313321260226)Copy link
-  - [![Email this page](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/email.svg?313321260226)Email](mailto:?Subject=Chipotle%20is%20testing%20these%205%20things%20to%20bring%20back%20buzz&Body=https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/)
-  - [![Post to LinkedIn](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/linkedin.svg?313321260226)LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/&title=Chipotle%20is%20testing%20these%205%20things%20to%20bring%20back%20buzz)
-  - [![Post on X](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/x.svg?313321260226)X/Twitter](https://twitter.com/intent/tweet?text=Chipotle%20is%20testing%20these%205%20things%20to%20bring%20back%20buzz%20https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/%20via%20@restaurantdive)
-  - [![Share on Facebook](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/facebook.svg?313321260226)Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/)
-  - ![Print this page](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/print.svg?313321260226)Print
+  - ![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/share-link-box.svg?313321260226)Copy link
+  - [![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/email.svg?313321260226)Email](mailto:?Subject=Chipotle%20is%20testing%20these%205%20things%20to%20bring%20back%20buzz&Body=https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/)
+  - [![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/linkedin.svg?313321260226)LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/&title=Chipotle%20is%20testing%20these%205%20things%20to%20bring%20back%20buzz)
+  - [![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/x.svg?313321260226)X/Twitter](https://twitter.com/intent/tweet?text=Chipotle%20is%20testing%20these%205%20things%20to%20bring%20back%20buzz%20https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/%20via%20@restaurantdive)
+  - [![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/facebook.svg?313321260226)Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/)
+  - ![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/print.svg?313321260226)Print
 
-- [![License this article](https://www.restaurantdive.com/static/img/social_icons/article_page/license-icon.svg?313321260226)License](https://www.restaurantdive.com/selfservice/article-licensing/submit/?newspostUrl=https://www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/)
-- [![Set preferred source](https://www.restaurantdive.com/static/img/social_icons/article_page/bookmark-add.svg?313321260226)Add us on Google](https://www.google.com/preferences/source?q=https://www.restaurantdive.com)
+- [![](https://www.restaurantdive.com/static/img/social_icons/article_page/license-icon.svg?313321260226)License](https://www.restaurantdive.com/selfservice/article-licensing/submit/?newspostUrl=https://www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/)
+- [![](https://www.restaurantdive.com/static/img/social_icons/article_page/bookmark-add.svg?313321260226)Add us on Google](https://www.google.com/preferences/source?q=https://www.restaurantdive.com)
 
 ![A sign on a Chipotle restaurant.](https://imgproxy.divecdn.com/Doa4cDfNYfFD5P5vHZsCGpeNFicM2G4T-XOXkABJhPc/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjExNjY0MjIyLmpwZw==.webp)
 
@@ -123,14 +115,6 @@ Keep up with the story. Subscribe to the Restaurant Dive free daily newsletter
 
 Email:
 
-reCAPTCHA
-
-Recaptcha requires verification.
-
-I'm not a robot
-
-reCAPTCHA
-
 - Select user consent:[ ]
 By signing up to receive our newsletter, you agree to our
 [Terms of Use](https://www.informatechtarget.com/terms-of-use/) and
@@ -159,6 +143,8 @@ The biggest concern has been if Chipotle could scale catering. Competitors have 
 
 ### Read More in Menu Development
 
+[![A photogrpah of a makeline at a Chipotle with salsa, sour cream and white cheese visible.](https://imgproxy.divecdn.com/4xGI0DzxltYg52MpNk4SKGZNY8mBh0ty7k8QFJ4ZfSw/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00NzEzNzE1MDQuanBn.webp)](https://www.restaurantdive.com/news/fresh-ideas-how-restaurants-can-overcome-the-challenge-of-seasonal-produce/824152/) July 8, 2026 [Fresh ideas: How restaurants can overcome the challenge of seasonal produce](https://www.restaurantdive.com/news/fresh-ideas-how-restaurants-can-overcome-the-challenge-of-seasonal-produce/824152/)
+
 [![A bunch of chicken nuggets, a drink and a side.](https://imgproxy.divecdn.com/Y-c88ros9Tf58PjqwvowCmiQTymNzQ9W8MLwu6LUTA4/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2xsaWJlZV9Db21ib19JbWFnZS5qcGc=.webp)](https://www.restaurantdive.com/news/jollibee-adds-chicken-nuggets-sauces-to-us-menu/824241/) July 2, 2026 [Jollibee’s new chicken nuggets could juice sales](https://www.restaurantdive.com/news/jollibee-adds-chicken-nuggets-sauces-to-us-menu/824241/)
 
 [![Four plastic cups with colorful beverages and ice inside sit on a white table, surrounded by fruit and against a pink patterned background.](https://imgproxy.divecdn.com/-OwQX3uww_dCQr2n5gq9_z5YpiJoWiwiG5J5M7vJkHU/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TaGVldHpfUmVmcmVzaGVyei5qcGc=.webp)](https://www.restaurantdive.com/news/sheetz-dash-in-lead-the-charge-as-refreshers-reshape-c-store-beverage-sale/824062/) June 30, 2026 [Sheetz, Dash In lead the charge as refreshers reshape c-store beverage sales](https://www.restaurantdive.com/news/sheetz-dash-in-lead-the-charge-as-refreshers-reshape-c-store-beverage-sale/824062/)
@@ -172,8 +158,6 @@ The biggest concern has been if Chipotle could scale catering. Competitors have 
 [![Three colorful sodas with white custard cream dribbling down the inside of the cups.](https://imgproxy.divecdn.com/j2lEwhOxCXlSYutwFE98KMs4WkSmtre2HuNl7yCRFpU/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDI2X0ZyZWRkeXNfQmV2aWVzX1RyaW8uanBn.webp)](https://www.restaurantdive.com/news/freddys-frozen-custard-and-steakburgers-adds-dirty-sodas-lemonades-teas/823562/) June 24, 2026 [Freddy’s adds dirty sodas with custard cream](https://www.restaurantdive.com/news/freddys-frozen-custard-and-steakburgers-adds-dirty-sodas-lemonades-teas/823562/)
 
 [![Six drinks, all colorful, comprising the vanguard of McDonald's post-CosMc's premium drinks lineup.](https://imgproxy.divecdn.com/yQnpGvQuJ3PgUlWEDZ3EnYVwEu1ZBOGQNSzJXA9aIQw/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NY0RvbmFsZHNfVVNBX0ZpcnN0X0V2ZXJfTGluZXVwX29mX1JlZnJlc2hlcnNfYW5kX0NyYWZ0ZWRfU29kYXMuanBn.webp)](https://www.restaurantdive.com/news/qsrs-gaining-ground-in-dispensed-beverages-c-stores/822889/) June 18, 2026 [QSRs are gaining ground in dispensed beverages](https://www.restaurantdive.com/news/qsrs-gaining-ground-in-dispensed-beverages-c-stores/822889/)
-
-[![Taco Bell chalupas and nacho fries with fajita elements.](https://imgproxy.divecdn.com/1MA3YMM0TdC61n29ZD5ubiu_O8XiD-AmEpmBIC2c3fw/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9FN18yNl9OQVRfRmFqaXRhc1N0cmVldENoYWx1cGFzX1BSX05ld3Nyb29tX0FMQzNfRmFtaWx5XzA2MDQtanBnLmpwZw==.webp)](https://www.restaurantdive.com/news/taco-bell-fajita-chalupa-nacho-fries-lto/823167/) June 17, 2026 [Taco Bell teases fajita future with LTO](https://www.restaurantdive.com/news/taco-bell-fajita-chalupa-nacho-fries-lto/823167/)
 
 [Want to see more stories in **Menu Development**?\\
 \\
@@ -208,17 +192,17 @@ The platform also was originally priced at $58. When it was first launched, Chip
 •
 Feb. 4, 2026
 
-- [![Set preferred source](https://www.restaurantdive.com/static/img/social_icons/article_page/bookmark-add.svg?313321260226)Add us on Google](https://www.google.com/preferences/source?q=https://www.restaurantdive.com)
-- ![Share this article](https://www.restaurantdive.com/static/img/social_icons/share-icon.svg?313321260226)Share
+- [![](https://www.restaurantdive.com/static/img/social_icons/article_page/bookmark-add.svg?313321260226)Add us on Google](https://www.google.com/preferences/source?q=https://www.restaurantdive.com)
+- ![](https://www.restaurantdive.com/static/img/social_icons/share-icon.svg?313321260226)Share
 
 
-  - ![Copy link](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/share-link-box.svg?313321260226)Copy link
-  - [![Email this page](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/email.svg?313321260226)Email](mailto:?Subject=Chipotle%20is%20testing%20these%205%20things%20to%20bring%20back%20buzz&Body=https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/)
-  - [![Post to LinkedIn](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/linkedin.svg?313321260226)LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/&title=Chipotle%20is%20testing%20these%205%20things%20to%20bring%20back%20buzz)
-  - [![Post on X](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/x.svg?313321260226)X/Twitter](https://twitter.com/intent/tweet?text=Chipotle%20is%20testing%20these%205%20things%20to%20bring%20back%20buzz%20https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/%20via%20@restaurantdive)
-  - [![Share on Facebook](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/facebook.svg?313321260226)Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/)
-  - ![Print this page](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/print.svg?313321260226)Print
-  - [![License this article](https://www.restaurantdive.com/static/img/social_icons/article_page/cart.svg?313321260226)License](https://www.restaurantdive.com/selfservice/article-licensing/submit/?newspostUrl=https://www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/)
+  - ![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/share-link-box.svg?313321260226)Copy link
+  - [![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/email.svg?313321260226)Email](mailto:?Subject=Chipotle%20is%20testing%20these%205%20things%20to%20bring%20back%20buzz&Body=https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/)
+  - [![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/linkedin.svg?313321260226)LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/&title=Chipotle%20is%20testing%20these%205%20things%20to%20bring%20back%20buzz)
+  - [![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/x.svg?313321260226)X/Twitter](https://twitter.com/intent/tweet?text=Chipotle%20is%20testing%20these%205%20things%20to%20bring%20back%20buzz%20https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/%20via%20@restaurantdive)
+  - [![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/facebook.svg?313321260226)Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/)
+  - ![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/print.svg?313321260226)Print
+  - [![](https://www.restaurantdive.com/static/img/social_icons/article_page/cart.svg?313321260226)License](https://www.restaurantdive.com/selfservice/article-licensing/submit/?newspostUrl=https://www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/)
 
 Filed Under:[Menu Development,](https://www.restaurantdive.com/topic/menu-development/)[Operations,](https://www.restaurantdive.com/topic/operations/)[Catering](https://www.restaurantdive.com/topic/catering/)
 
@@ -227,14 +211,6 @@ Filed Under:[Menu Development,](https://www.restaurantdive.com/topic/menu-develo
 Get the free daily newsletter read by industry experts
 
 Email:
-
-reCAPTCHA
-
-Recaptcha requires verification.
-
-I'm not a robot
-
-reCAPTCHA
 
 - Select user consent:[ ]
 By signing up to receive our newsletter, you agree to our
@@ -279,78 +255,8 @@ By Aneurin Canham-Clyne •
 
 
 
+
 Nov. 10, 2022
-
-- [![An image of a man and a woman looking at a tablet and doing financials in a restaurant.](https://imgproxy.divecdn.com/_mLsnsFQ2wA6z0Oz9WIpPR4ebgFGLE_lcNzDg6x3xc0/g:nowe:2:23/c:1197:676/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTY1MDc5NjA5LmpwZw==.webp)](https://www.restaurantdive.com/news/how-inflation-impacts-restaurants-what-data-shows/635647/)![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
-
-Getty Images
-
-![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
-
-
-
-### [How bad is restaurant inflation? Here’s what the data shows.](https://www.restaurantdive.com/news/how-inflation-impacts-restaurants-what-data-shows/635647/)
-
-
-
-As rising wages and operating costs push chains to increase menu prices, consumers are trading down and seeking more value-focused dining options.
-
-
-
-
-
-
-
-By Julie Littman •
-
-
-
-
-
-
-Nov. 3, 2022
-
-
-### Restaurant Dive news delivered to your inbox
-
-Get the free daily newsletter read by industry experts
-
-Email:
-
-reCAPTCHA
-
-Recaptcha requires verification.
-
-I'm not a robot
-
-reCAPTCHA
-
-- Select user consent:[ ]
-By signing up to receive our newsletter, you agree to our
-[Terms of Use](https://www.informatechtarget.com/terms-of-use/) and
-[Privacy Policy](https://www.informatechtarget.com/privacy-policy/). You can unsubscribe at anytime.
-
-
-Sign upA valid email address is required.Please select at least one newsletter.
-
-![Newsletter example on mobile](https://imgproxy.divecdn.com/z0agfhPf9yeDlWJQ7_a0VusOvY8N9cxF_IFU65IgX9M/raw:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL3NpdGV0aGVtZXMvZGl2ZS9hcnRpY2xlLXNpZ251cC5wbmc=)
-
-## Company Announcements
-
-[View all](https://www.restaurantdive.com/press-release/)
-
-\| [Post a press release](https://www.restaurantdive.com/press-release/get-started/)
-
-Want to share a company announcement with your peers?
-
-[Share your announcement\\
-\\
-➔](https://www.restaurantdive.com/press-release/get-started/)
-
-
-Editors’ picks
-
-
 
 - [![An image of a next gen Dunkin' in Woodstock, Georgia.](https://imgproxy.divecdn.com/tfYK_8455kADz4hSg7lPigyiXnAQdlShIS93a1Pch00/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EdW5raW5fbmV4dF9nZW5fdW5pdC5qcGc=.webp)](https://www.restaurantdive.com/news/did-dunkin-get-it-wrong-with-coffee-discount-loyalty-shakeup/635311/)![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
 
@@ -379,7 +285,51 @@ By Aneurin Canham-Clyne •
 
 
 
+
 Oct. 31, 2022
+
+
+### Restaurant Dive news delivered to your inbox
+
+Get the free daily newsletter read by industry experts
+
+Email:
+
+- Select user consent:[ ]
+By signing up to receive our newsletter, you agree to our
+[Terms of Use](https://www.informatechtarget.com/terms-of-use/) and
+[Privacy Policy](https://www.informatechtarget.com/privacy-policy/). You can unsubscribe at anytime.
+
+
+Sign upA valid email address is required.Please select at least one newsletter.
+
+![Newsletter example on mobile](https://imgproxy.divecdn.com/z0agfhPf9yeDlWJQ7_a0VusOvY8N9cxF_IFU65IgX9M/raw:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL3NpdGV0aGVtZXMvZGl2ZS9hcnRpY2xlLXNpZ251cC5wbmc=)
+
+## Company Announcements
+
+[View all](https://www.restaurantdive.com/press-release/)
+
+\| [Post a press release](https://www.restaurantdive.com/press-release/get-started/)
+
+[EverPass Media and Miller’s Ale House Expand Partnership, Turning Every Screen Into a 24/7 Spo…\\
+\\
+\\
+From EverPass Media\\
+\\
+July 06, 2026\\
+\\
+![EverPass Media logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1782840073/press_release/assets/company_logos/Screenshot_2026-06-30_at_11.56.48AM_etdjwn.png)](https://www.restaurantdive.com/press-release/20260630-everpass-media-and-millers-ale-house-expand-partnership-turning-every-scr-1/)
+
+Want to share a company announcement with your peers?
+
+[Get started\\
+\\
+➔](https://www.restaurantdive.com/press-release/get-started/)
+
+
+Editors’ picks
+
+
 
 - [![An image of a man and a woman looking at a tablet and doing financials in a restaurant.](https://imgproxy.divecdn.com/_mLsnsFQ2wA6z0Oz9WIpPR4ebgFGLE_lcNzDg6x3xc0/g:nowe:2:23/c:1197:676/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTY1MDc5NjA5LmpwZw==.webp)](https://www.restaurantdive.com/news/how-inflation-impacts-restaurants-what-data-shows/635647/)![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
 
@@ -408,10 +358,59 @@ By Julie Littman •
 
 
 
+
 Nov. 3, 2022
+
+- [![An image of a next gen Dunkin' in Woodstock, Georgia.](https://imgproxy.divecdn.com/tfYK_8455kADz4hSg7lPigyiXnAQdlShIS93a1Pch00/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EdW5raW5fbmV4dF9nZW5fdW5pdC5qcGc=.webp)](https://www.restaurantdive.com/news/did-dunkin-get-it-wrong-with-coffee-discount-loyalty-shakeup/635311/)![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
+
+Courtesy of Dunkin’
+
+![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
+
+
+
+### [Did Dunkin’ get its loyalty shakeup wrong?](https://www.restaurantdive.com/news/did-dunkin-get-it-wrong-with-coffee-discount-loyalty-shakeup/635311/)
+
+
+
+The revamped program’s emphasis on food items could be a play for higher check sizes, but making members pay a premium for coffee rewards could burn the chain.
+
+
+
+
+
+
+
+By Aneurin Canham-Clyne •
+
+
+
+
+
+
+
+Oct. 31, 2022
 
 
 Latest in Menu Development
+
+
+- [![A photogrpah of a makeline at a Chipotle with salsa, sour cream and white cheese visible.](https://imgproxy.divecdn.com/rfxkmXsXEYZOxz96GEXzm_oD-E5bEe2ZGPdV2CmIKa0/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00NzEzNzE1MDQuanBn.webp)](https://www.restaurantdive.com/news/fresh-ideas-how-restaurants-can-overcome-the-challenge-of-seasonal-produce/824152/)
+
+
+
+
+
+[Fresh ideas: How restaurants can overcome the challenge of seasonal produce](https://www.restaurantdive.com/news/fresh-ideas-how-restaurants-can-overcome-the-challenge-of-seasonal-produce/824152/)
+
+
+
+
+
+
+
+By Michael Brady
+
 
 
 - [![A bunch of chicken nuggets, a drink and a side.](https://imgproxy.divecdn.com/IXjLR88_ua10JpEB3cKWlzB79mpKzbpqGLuiYTKRlTA/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2xsaWJlZV9Db21ib19JbWFnZS5qcGc=.webp)](https://www.restaurantdive.com/news/jollibee-adds-chicken-nuggets-sauces-to-us-menu/824241/)
@@ -468,24 +467,6 @@ By Elise Russ
 
 
 
-- [![A daytime image of a building with beige bricks and a Tropical Smoothie Cafe sign.](https://imgproxy.divecdn.com/oCJ2dOZFyx-j5V8oLcjoovsigO7Pdd8CiR2sAD8RljI/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Ecml2ZV9UaHJ1X0V4dGVyaW9yXzQuanBn.webp)](https://www.restaurantdive.com/news/tropical-smoothie-cafe-ongoing-growth-blackstone-ownership/823535/)
-
-
-
-
-
-[How Tropical Smoothie Cafe has grown under Blackstone’s ownership](https://www.restaurantdive.com/news/tropical-smoothie-cafe-ongoing-growth-blackstone-ownership/823535/)
-
-
-
-
-
-
-
-By Julie Littman
-
-
-
 
 * * *
 
@@ -493,9 +474,11 @@ By Julie Littman
 
 [![Informa TechTarget](https://www.restaurantdive.com/static/img/ITechTarget-Logo.png?313321260226)](https://www.informatechtarget.com/)
 
+
 This website is owned and operated by
 [Informa TechTarget](https://www.informatechtarget.com/),
 a global network that informs, influences and connects the world’s technology buyers and sellers.
+
 
 
 © 2025 TechTarget, Inc. or its subsidiaries. All rights reserved. An Informa PLC company.
