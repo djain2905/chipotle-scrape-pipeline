@@ -1,7 +1,7 @@
 ---
 title: chipotle news releases
 url: https://newsroom.chipotle.com/press-releases?l=100
-scraped_at: 2026-07-13T08:54:40
+scraped_at: 2026-07-20T08:45:37
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases?l=100#content)
@@ -55,6 +55,50 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases?l=100#)
+
+- [![](https://mmx.prnewswire.com/media/MS1884012/1920x1080-Chipotle-Water-Break.jpg?id=OA2766770&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-07-16-CHIPOTLE-PUTS-A-NEW-TWIST-ON-SOCCERS-HYDRATION-BREAK-WITH-1-MILLION-IN-FREE-BURRITOS)
+
+
+
+Jul 16, 2026
+
+
+
+[CHIPOTLE PUTS A NEW TWIST ON SOCCER'S HYDRATION BREAK WITH $1 MILLION IN FREE BURRITOSOpens in new window](https://newsroom.chipotle.com/2026-07-16-CHIPOTLE-PUTS-A-NEW-TWIST-ON-SOCCERS-HYDRATION-BREAK-WITH-1-MILLION-IN-FREE-BURRITOS)
+
+
+
+
+
+During the second official hydration break of this summer's international tournament final on July 19, Chipotle will launch its first-ever Chipotle "Water" Break, giving viewers a chance to unlock...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-07-16-CHIPOTLE-PUTS-A-NEW-TWIST-ON-SOCCERS-HYDRATION-BREAK-WITH-1-MILLION-IN-FREE-BURRITOS#assets_20295_122871-117)
+
+- [![](https://mmx.prnewswire.com/media/MS1881435/Chipotle-Mexican-Grill.jpg?id=OA2759598&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-07-13-CHIPOTLE-ENTERS-MEXICO-WITH-FIRST-RESTAURANT-IN-NUEVO-LEON)
+
+
+
+Jul 13, 2026
+
+
+
+[CHIPOTLE ENTERS MEXICO WITH FIRST RESTAURANT IN NUEVO LEÓNOpens in new window](https://newsroom.chipotle.com/2026-07-13-CHIPOTLE-ENTERS-MEXICO-WITH-FIRST-RESTAURANT-IN-NUEVO-LEON)
+
+
+
+
+
+Chipotle and Alsea plan additional openings in Nuevo León this year and expansion into Mexico City in 2027 NEWPORT BEACH, Calif., July 13, 2026 /PRNewswire/ -- Chipotle Mexican Grill (NYSE: CMG)...
+
+
+
+
+
+  - [Photos2Opens in new window](https://newsroom.chipotle.com/2026-07-13-CHIPOTLE-ENTERS-MEXICO-WITH-FIRST-RESTAURANT-IN-NUEVO-LEON#assets_20295_122869-117)
 
 - [![2K Golfer](https://newsroom.chipotle.com/file.php/181036/2K+Golfer.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-07-08-CHIPOTLE-BRINGS-REAL-WORLD-FOOD-REWARDS-TO-PGA-TOUR-2K25-IN-FIRST-OF-ITS-KIND-QUEST-INTEGRATION)
 
@@ -2034,40 +2078,6 @@ Chipotle and Wonderskin are making burrito-proof lip stain dreams come true with
 
   - [Photos1Opens in new window](https://newsroom.chipotle.com/2024-07-29-CHIPOTLE-AND-WONDERSKIN-LAUNCH-LIPOTLE-LIP-STAIN-IN-CELEBRATION-OF-NATIONAL-AVOCADO-DAY#assets_20295_122765-117)
   - [Video1Opens in new window](https://newsroom.chipotle.com/2024-07-29-CHIPOTLE-AND-WONDERSKIN-LAUNCH-LIPOTLE-LIP-STAIN-IN-CELEBRATION-OF-NATIONAL-AVOCADO-DAY#assets_20295_122765-115)
-
-- Jul 24, 2024
-
-
-
-[CHIPOTLE ANNOUNCES SECOND QUARTER 2024 RESULTSOpens in new window](https://newsroom.chipotle.com/2024-07-24-CHIPOTLE-ANNOUNCES-SECOND-QUARTER-2024-RESULTS)
-
-
-
-
-
-COMPARABLE SALES INCREASE 11% DRIVEN BY OVER 8% TRANSACTION GROWTH AS MARGINS EXPAND NEWPORT BEACH, Calif., July 24, 2024 /PRNewswire/ -- Chipotle Mexican Grill, Inc. (NYSE: CMG) today reported...
-
-- [![](https://newsroom.chipotle.com/file.php/180290/Chipotle_Beverage_Assortment-1000px.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2024-07-22-CHIPOTLE-QUENCHES-SUMMERTIME-THIRST-WITH-NEW-BEVERAGE-LINEUP)
-
-
-
-Jul 22, 2024
-
-
-
-[CHIPOTLE QUENCHES SUMMERTIME THIRST WITH NEW BEVERAGE LINEUP Opens in new window](https://newsroom.chipotle.com/2024-07-22-CHIPOTLE-QUENCHES-SUMMERTIME-THIRST-WITH-NEW-BEVERAGE-LINEUP)
-
-
-
-
-
-The brand unveils its refreshed ready-to-drink beverage lineup featuring poppi, Open Water, and Coke Zero NEWPORT BEACH, Calif., July 22, 2024 —Chipotle Mexican Grill (NYSE: CMG) today announced...
-
-
-
-
-
-  - [Photos3Opens in new window](https://newsroom.chipotle.com/2024-07-22-CHIPOTLE-QUENCHES-SUMMERTIME-THIRST-WITH-NEW-BEVERAGE-LINEUP#assets_20295_122763-117)
 
 Show
 
