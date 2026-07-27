@@ -1,7 +1,7 @@
 ---
-title: Slideshow: New menu items from Chipotle, Chick-fil-A and Taco Bell
+title: Slideshow: New menu items from Chipotle, Chick-fil-A and ...
 url: https://www.foodbusinessnews.net/articles/27868-slideshow-new-menu-items-from-chipotle-chick-fil-a-and-taco-bell
-scraped_at: 2026-06-08T10:22:58
+scraped_at: 2026-07-27T09:36:28
 ---
 
 [Skip To Content](https://www.foodbusinessnews.net/articles/27868-slideshow-new-menu-items-from-chipotle-chick-fil-a-and-taco-bell#skip-target)
@@ -90,13 +90,13 @@ Adding us tells Google to prioritize _Food Business News_ stories.
 
 # [Featured Webinars](https://www.foodbusinessnews.net/events/category/355/range/12-months)
 
-- # 10
+- # 24
 
 
 
 
 
-Jun
+Jul
 
 
 
@@ -106,13 +106,61 @@ Jun
 
 
 
-[Register](https://www.foodbusinessnews.net/events/109-the-new-era-of-fiber-the-ingredient-fueling-food-innovation)
+[Register](https://www.foodbusinessnews.net/events/112-functionality-of-honey-solving-formulation-challenges-across-food-and-beverage)
 
 
 
 
 
-# [The New Era of Fiber: The Ingredient Fueling Food Innovation](https://www.foodbusinessnews.net/events/109-the-new-era-of-fiber-the-ingredient-fueling-food-innovation)
+# [Functionality of Honey: Solving Formulation Challenges Across Food and Beverage](https://www.foodbusinessnews.net/events/112-functionality-of-honey-solving-formulation-challenges-across-food-and-beverage)
+
+- # 13
+
+
+
+
+
+Aug
+
+
+
+2026
+
+
+
+
+
+[Register](https://www.foodbusinessnews.net/events/113-the-ai-reckoning-in-food-beverage)
+
+
+
+
+
+# [The AI Reckoning in Food & Beverage](https://www.foodbusinessnews.net/events/113-the-ai-reckoning-in-food-beverage)
+
+- # 26
+
+
+
+
+
+Aug
+
+
+
+2026
+
+
+
+
+
+[Register](https://www.foodbusinessnews.net/events/111-trends-innovations-the-state-of-product-innovation)
+
+
+
+
+
+# [Trends & Innovations: The State of Product Innovation](https://www.foodbusinessnews.net/events/111-trends-innovations-the-state-of-product-innovation)
 
 
 ## Current Issues & Directories
@@ -121,33 +169,33 @@ Jun
 
 # Popular Articles
 
-- # [IFF to sell Food Ingredients unit for $4.3 billion](https://www.foodbusinessnews.net/articles/30409-iff-to-sell-food-ingredients-unit-for-43-billion)
+- # [GLP-1 users spark product revamps](https://www.foodbusinessnews.net/articles/30680-glp-1-users-spark-product-revamps)
 
-- # [Smaller brands winning big with younger consumers](https://www.foodbusinessnews.net/articles/30352-smaller-brands-winning-big-with-younger-consumers)
+- # [‘Snealing’ reshapes snack category](https://www.foodbusinessnews.net/articles/30669-snealing-reshapes-snack-category)
 
-- # [Perception of private label products is shifting](https://www.foodbusinessnews.net/articles/30351-perception-of-private-label-products-is-shifting)
+- # [Is cheesecake the next Dubai chocolate?](https://www.foodbusinessnews.net/articles/30655-is-cheesecake-the-next-dubai-chocolate)
 
-- # [New regulations may accelerate shift to clean label](https://www.foodbusinessnews.net/articles/30338-new-regulations-may-accelerate-shift-to-clean-label)
+- # [Beverage makers battling to win afternoon occasion](https://www.foodbusinessnews.net/articles/30635-beverage-makers-battling-to-win-afternoon-occasion)
 
 
 # Popular Galleries
 
-- [![Welchs items](https://www.foodbusinessnews.net/ext/resources/2026/06/03/Welchs-items.webp?crop=true&height=300&t=1780609845&width=400)](https://www.foodbusinessnews.net/media/photos/4805-new-products-from-sweets-snacks-2026)
+- [![Red fox spices peak preserved meals](https://www.foodbusinessnews.net/ext/resources/2026/07/08/Red-Fox-Spices-Peak-Preserved-meals.webp?crop=true&height=300&t=1783518746&width=400)](https://www.foodbusinessnews.net/media/photos/4815-innovations-from-summer-fancy-food-show-part-1)
 
-## [New products from Sweets & Snacks 2026](https://www.foodbusinessnews.net/media/photos/4805-new-products-from-sweets-snacks-2026)
-
-
-
-
-
-Innovations at the show included new formats and formulations.
-
-- [![Lala plus yogurt smoothie](https://www.foodbusinessnews.net/ext/resources/2026/05/13/Lala-Plus-yogurt-smoothie.webp?crop=true&height=300&t=1778678656&width=400)](https://www.foodbusinessnews.net/media/photos/4798-protein-innovation-continues-to-trend)
-
-## [Protein innovation continues to trend](https://www.foodbusinessnews.net/media/photos/4798-protein-innovation-continues-to-trend)
+## [Innovations from Summer Fancy Food Show, part 1](https://www.foodbusinessnews.net/media/photos/4815-innovations-from-summer-fancy-food-show-part-1)
 
 
 
 
 
-Formulations are driving innovation in dairy and milk alternatives.
+New products include globally inspired offerings and convenience-based formats.
+
+- [![Watcharees noodle meals](https://www.foodbusinessnews.net/ext/resources/2026/07/15/Watcharees-noodle-meals.webp?crop=true&height=300&t=1784124621&width=400)](https://www.foodbusinessnews.net/media/photos/4817-summer-fancy-food-show-innovations-part-2)
+
+## [Summer Fancy Food Show innovations, part 2](https://www.foodbusinessnews.net/media/photos/4817-summer-fancy-food-show-innovations-part-2)
+
+
+
+
+
+Global flavors were trending on the show floor.
