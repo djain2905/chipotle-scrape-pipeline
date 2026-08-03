@@ -1,10 +1,18 @@
 ---
 title: chipotle news releases
 url: https://newsroom.chipotle.com/press-releases?l=100
-scraped_at: 2026-07-27T09:36:28
+scraped_at: 2026-08-03T09:29:03
 ---
 
-[Skip to main content](https://newsroom.chipotle.com/press-releases?l=100#content)
+### Your Privacy Preferences
+
+If you would like to submit a Data Subject Request, please click here: [Data Subject Request Form](https://www.chipotle.com/privacy-request)
+
+We use cookies to enhance your website and app experience, improve functionality and support our marketing efforts. You can manage your cookie preferences by clicking “Do Not Sell or Share My Personal Information / Opt Out.” If you wish to opt out of Chipotle’s sharing your personal information directly with third parties for the purpose of targeted advertising, please click on “Your Privacy Choices” link in the footer of our website and complete the US Consumer Data Request Form found under the Data Subject Rights tab. To learn more, please review our [Cookie Policy](https://www.chipotle.com/cookie-policy) and our visit our recently updated [Privacy Policy,](https://www.chipotle.com/privacy-policy) [including California Privacy Rights](https://www.chipotle.com/privacy-policy). By continuing to access or use our website, you agree to our [Terms of Use](https://www.chipotle.com/terms-of-use) including the arbitration and class action waiver.
+
+Do Not Sell or Share My Personal Information / Opt OutAccept AllPrivacy Preferences
+
+ [Skip to main content](https://newsroom.chipotle.com/press-releases?l=100#content)
 
 # CHIPOTLE NEWS RELEASES
 
@@ -55,6 +63,40 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases?l=100#)
+
+- Jul 29, 2026
+
+
+
+[CHIPOTLE RAISES FULL YEAR COMPARABLE SALES GUIDANCE ON STRONG Q2 MOMENTUMOpens in new window](https://newsroom.chipotle.com/2026-07-29-CHIPOTLE-RAISES-FULL-YEAR-COMPARABLE-SALES-GUIDANCE-ON-STRONG-Q2-MOMENTUM)
+
+
+
+
+
+"RECIPE FOR GROWTH" STRATEGY YIELDS COMPARABLE RESTAURANT SALES OF 2.2% ON SECOND CONSECUTIVE QUARTER OF IMPROVING TRANSACTION COMP NEWPORT BEACH, Calif., July 29, 2026 /PRNewswire/ -- Chipotle...
+
+- [![](https://mmx.prnewswire.com/media/MS1958648/Chipotle-Mexican-Grill-National-Avocado-Day.jpg?id=OA2794606&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-07-27-CHIPOTLE-CELEBRATES-NATIONAL-AVOCADO-DAY-WITH-FREE-CHIPS-AND-GUAC)
+
+
+
+Jul 27, 2026
+
+
+
+[CHIPOTLE CELEBRATES NATIONAL AVOCADO DAY WITH FREE CHIPS AND GUACOpens in new window](https://newsroom.chipotle.com/2026-07-27-CHIPOTLE-CELEBRATES-NATIONAL-AVOCADO-DAY-WITH-FREE-CHIPS-AND-GUAC)
+
+
+
+
+
+For the first time ever, Chipotle is pairing free chips with its National Avocado Day guac offer and extending the celebration to two days Digital guests can score free chips and guac with an...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-07-27-CHIPOTLE-CELEBRATES-NATIONAL-AVOCADO-DAY-WITH-FREE-CHIPS-AND-GUAC#assets_20295_122872-117)
 
 - [![](https://mmx.prnewswire.com/media/MS1884012/1920x1080-Chipotle-Water-Break.jpg?id=OA2766770&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-07-16-CHIPOTLE-PUTS-A-NEW-TWIST-ON-SOCCERS-HYDRATION-BREAK-WITH-1-MILLION-IN-FREE-BURRITOS)
 
@@ -2043,41 +2085,6 @@ Chipotle Rewards members in the U.S. and Canada can play daily from Tuesday, Aug
 
 
   - [Photos1Opens in new window](https://newsroom.chipotle.com/2024-08-19-CALLING-ALL-SCHOLARS-CHIPOTLE-IQ-IS-BACK-WITH-MORE-THAN-1-MILLION-IN-BOGOS-AND-FREE-BURRITOS#assets_20295_122767-117)
-
-- Aug 13, 2024
-
-
-
-[CHIPOTLE ANNOUNCES CEO DEPARTUREOpens in new window](https://newsroom.chipotle.com/2024-08-13-CHIPOTLE-ANNOUNCES-CEO-DEPARTURE)
-
-
-
-
-
-SCOTT BOATWRIGHT, COO AND 7-YEAR CHIPOTLE VETERAN, NAMED INTERIM CEO JACK HARTUNG TO REMAIN WITH COMPANY AS PRESIDENT, STRATEGY, FINANCE & SUPPLY CHAIN NEWPORT BEACH, Calif., Aug. 13, 2024 /PRNewswire
-
-- [![](https://mma.prnewswire.com/media/2470210/Lipotle_PR_Asset.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2024-07-29-CHIPOTLE-AND-WONDERSKIN-LAUNCH-LIPOTLE-LIP-STAIN-IN-CELEBRATION-OF-NATIONAL-AVOCADO-DAY)
-
-
-
-Jul 29, 2024
-
-
-
-[CHIPOTLE AND WONDERSKIN LAUNCH 'LIPOTLE' LIP STAIN IN CELEBRATION OF NATIONAL AVOCADO DAYOpens in new window](https://newsroom.chipotle.com/2024-07-29-CHIPOTLE-AND-WONDERSKIN-LAUNCH-LIPOTLE-LIP-STAIN-IN-CELEBRATION-OF-NATIONAL-AVOCADO-DAY)
-
-
-
-
-
-Chipotle and Wonderskin are making burrito-proof lip stain dreams come true with 'Lipotle,' a new, limited-edition green Wonder Blading Peel and Reveal Lip Stain Kit launching on Tuesday, July 30...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2024-07-29-CHIPOTLE-AND-WONDERSKIN-LAUNCH-LIPOTLE-LIP-STAIN-IN-CELEBRATION-OF-NATIONAL-AVOCADO-DAY#assets_20295_122765-117)
-  - [Video1Opens in new window](https://newsroom.chipotle.com/2024-07-29-CHIPOTLE-AND-WONDERSKIN-LAUNCH-LIPOTLE-LIP-STAIN-IN-CELEBRATION-OF-NATIONAL-AVOCADO-DAY#assets_20295_122765-115)
 
 Show
 
