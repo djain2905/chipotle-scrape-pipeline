@@ -1,7 +1,7 @@
 ---
 title: chipotle news releases
 url: https://newsroom.chipotle.com/press-releases?l=100
-scraped_at: 2026-08-03T09:29:03
+scraped_at: 2026-08-10T07:16:26
 ---
 
 ### Your Privacy Preferences
@@ -18,29 +18,29 @@ Do Not Sell or Share My Personal Information / Opt OutAccept AllPrivacy Preferen
 
 News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases.
 
-July 2026
+August 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 28 | 29 | 30 | 1 | 2 | 3 | 4 |
-| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 | 1 |
 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
 
 Cancel Go
 
-July 2026
+August 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 28 | 29 | 30 | 1 | 2 | 3 | 4 |
-| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 | 18 |
-| 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 | 31 | 1 |
 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
 
 Cancel Go
 
@@ -63,6 +63,18 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases?l=100#)
+
+- Aug 5, 2026
+
+
+
+[A Statement from Chipotle on Food SafetyOpens in new window](https://newsroom.chipotle.com/2026-08-04-A-Statement-from-Chipotle-on-Food-Safety)
+
+
+
+
+
+The health and safety of our guests and employees is our highest priority. We have a robust ingredient traceability system and, upon learning of a potential Salmonella outbreak in the supply chain impacting wholesalers...
 
 - Jul 29, 2026
 
@@ -2063,28 +2075,6 @@ The new, limited time protein is available now in Nashville and Sacramento NEWPO
 
 
   - [Photos1Opens in new window](https://newsroom.chipotle.com/2024-08-27-CHIPOTLE-TESTS-CHIPOTLE-HONEY-CHICKEN-IN-SELECT-MARKETS#assets_20295_122768-117)
-
-- [![](https://mma.prnewswire.com/media/2484000/Chipotle_IQ.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2024-08-19-CALLING-ALL-SCHOLARS-CHIPOTLE-IQ-IS-BACK-WITH-MORE-THAN-1-MILLION-IN-BOGOS-AND-FREE-BURRITOS)
-
-
-
-Aug 19, 2024
-
-
-
-[CALLING ALL SCHOLARS! CHIPOTLE IQ IS BACK WITH MORE THAN $1 MILLION IN BOGOS AND FREE BURRITOSOpens in new window](https://newsroom.chipotle.com/2024-08-19-CALLING-ALL-SCHOLARS-CHIPOTLE-IQ-IS-BACK-WITH-MORE-THAN-1-MILLION-IN-BOGOS-AND-FREE-BURRITOS)
-
-
-
-
-
-Chipotle Rewards members in the U.S. and Canada can play daily from Tuesday, August 20 through Thursday, August 22 for the opportunity to win a BUY-ONE-GET-ONE free entrée code\* Superfans can...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2024-08-19-CALLING-ALL-SCHOLARS-CHIPOTLE-IQ-IS-BACK-WITH-MORE-THAN-1-MILLION-IN-BOGOS-AND-FREE-BURRITOS#assets_20295_122767-117)
 
 Show
 

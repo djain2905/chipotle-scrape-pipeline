@@ -1,7 +1,7 @@
 ---
 title: Chipotle is testing these 5 things to bring back buzz | Restaurant Dive
 url: https://www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/
-scraped_at: 2026-07-13T08:54:40
+scraped_at: 2026-08-10T07:16:26
 ---
 
 [Skip to main content](https://www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/#skip-link-target)
@@ -143,21 +143,21 @@ The biggest concern has been if Chipotle could scale catering. Competitors have 
 
 ### Read More in Menu Development
 
-[![A photogrpah of a makeline at a Chipotle with salsa, sour cream and white cheese visible.](https://imgproxy.divecdn.com/4xGI0DzxltYg52MpNk4SKGZNY8mBh0ty7k8QFJ4ZfSw/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00NzEzNzE1MDQuanBn.webp)](https://www.restaurantdive.com/news/fresh-ideas-how-restaurants-can-overcome-the-challenge-of-seasonal-produce/824152/) July 8, 2026 [Fresh ideas: How restaurants can overcome the challenge of seasonal produce](https://www.restaurantdive.com/news/fresh-ideas-how-restaurants-can-overcome-the-challenge-of-seasonal-produce/824152/)
+[![QDOBA Burrito](https://imgproxy.divecdn.com/OsqD7VdG2ssoiTw6w0Dpk54E96MvJ6Zhf6CGwIzg_0M/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9RRE9CQV9CdXJyaXRvLmpwZw==.webp)](https://www.restaurantdive.com/news/chipotle-qdoba-sweetgreen-salmonella-jalapeno-outbreak/827360/) Aug. 7, 2026 [Jalapeños served at Qdoba, Chipotle tied to Salmonella outbreak](https://www.restaurantdive.com/news/chipotle-qdoba-sweetgreen-salmonella-jalapeno-outbreak/827360/)
 
-[![A bunch of chicken nuggets, a drink and a side.](https://imgproxy.divecdn.com/Y-c88ros9Tf58PjqwvowCmiQTymNzQ9W8MLwu6LUTA4/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2xsaWJlZV9Db21ib19JbWFnZS5qcGc=.webp)](https://www.restaurantdive.com/news/jollibee-adds-chicken-nuggets-sauces-to-us-menu/824241/) July 2, 2026 [Jollibee’s new chicken nuggets could juice sales](https://www.restaurantdive.com/news/jollibee-adds-chicken-nuggets-sauces-to-us-menu/824241/)
+[![A close-up photograph of coure wraps on a yellow table in front of an orange titled background.](https://imgproxy.divecdn.com/8y-4uE8Q7zzK828F1wirs2yy1iKIgQ10FFC9OMzcMKE/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS80X2Y0YkxYQ3QuanBn.webp)](https://www.restaurantdive.com/news/sweetgreen-turnaround-progress-starts-stalls-cyclospora-salmonella/827320/) Aug. 7, 2026 [Sweetgreen says turnaround is working, despite soft sales](https://www.restaurantdive.com/news/sweetgreen-turnaround-progress-starts-stalls-cyclospora-salmonella/827320/)
 
-[![Four plastic cups with colorful beverages and ice inside sit on a white table, surrounded by fruit and against a pink patterned background.](https://imgproxy.divecdn.com/-OwQX3uww_dCQr2n5gq9_z5YpiJoWiwiG5J5M7vJkHU/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TaGVldHpfUmVmcmVzaGVyei5qcGc=.webp)](https://www.restaurantdive.com/news/sheetz-dash-in-lead-the-charge-as-refreshers-reshape-c-store-beverage-sale/824062/) June 30, 2026 [Sheetz, Dash In lead the charge as refreshers reshape c-store beverage sales](https://www.restaurantdive.com/news/sheetz-dash-in-lead-the-charge-as-refreshers-reshape-c-store-beverage-sale/824062/)
+[![A black and purple restaurant exterior.](https://imgproxy.divecdn.com/efATdr8x0hQOx5kBwmPRSNcBAxDZ8bWl_Lmy7hIG5k8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjM3OTY0MjE3LmpwZw==.webp)](https://www.restaurantdive.com/news/taco-bell-cyclosporiasis-15-states-six-thousand-cases/827240/) Aug. 6, 2026 [Taco Bell, Taylor Farms Cyclospora case count hits 6K](https://www.restaurantdive.com/news/taco-bell-cyclosporiasis-15-states-six-thousand-cases/827240/)
 
-[![A person stands over dishes of chocolate dessert inside a restaurant kitchen.](https://imgproxy.divecdn.com/rga1nz4TF9IQWvlcMvO1o5hENUzilqHzP-fumhdiv8w/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lZGl0LWpodXNraW4tODQ4MS1oaWdocmVzMi5qcGc=.webp)](https://www.restaurantdive.com/news/elise-russ-scratch-cooking-dying-art/823784/) June 29, 2026 [Why from-scratch cooking is a radical choice in 2026](https://www.restaurantdive.com/news/elise-russ-scratch-cooking-dying-art/823784/)
+[![A picture of Burger King signs.](https://imgproxy.divecdn.com/vAuLDy6tfCL8p5zXLkeDmArFVqHH2UeMMBLGMvialbs/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzcwNzgxODkyLmpwZw==.webp)](https://www.restaurantdive.com/news/burger-king-sales-success-popeyes-brand-turnaround-continues/827199/) Aug. 6, 2026 [Burger King sales surge, but Popeyes faces uphill battle](https://www.restaurantdive.com/news/burger-king-sales-success-popeyes-brand-turnaround-continues/827199/)
 
-[![A daytime image of a building with beige bricks and a Tropical Smoothie Cafe sign.](https://imgproxy.divecdn.com/pXQjsrBd5P_8rA2wxfQVVJ6HGjrot1D_Zz-XJkMSt70/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Ecml2ZV9UaHJ1X0V4dGVyaW9yXzQuanBn.webp)](https://www.restaurantdive.com/news/tropical-smoothie-cafe-ongoing-growth-blackstone-ownership/823535/) June 29, 2026 [How Tropical Smoothie Cafe has grown under Blackstone’s ownership](https://www.restaurantdive.com/news/tropical-smoothie-cafe-ongoing-growth-blackstone-ownership/823535/)
+[![A sign on a Chipotle restaurant.](https://imgproxy.divecdn.com/Doa4cDfNYfFD5P5vHZsCGpeNFicM2G4T-XOXkABJhPc/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjExNjY0MjIyLmpwZw==.webp)](https://www.restaurantdive.com/news/chipotle-minnesota-jalapeno-salmonella-outbreak/827016/) Aug. 5, 2026 [Chipotle pulls some jalapeños over Salmonella concerns](https://www.restaurantdive.com/news/chipotle-minnesota-jalapeno-salmonella-outbreak/827016/)
 
-[![BJ's Restaurants' new chicken sandwiches](https://imgproxy.divecdn.com/IRsf2Qzxaggt_N6Ct5Fwey1E9xc3BIaH4tPVveY4bp4/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CSnNfUmVzdGF1cmFudHNfTmV3X0NoaWNrZW5fU2FuZHdpY2hfTGluZXVwLmpwZw==.webp)](https://www.restaurantdive.com/news/bjs-restaurants-chicken-sandwiches-original-saucy-crispy-korean/823667/) June 25, 2026 [BJ’s fuels menu revamp with chicken sandwiches](https://www.restaurantdive.com/news/bjs-restaurants-chicken-sandwiches-original-saucy-crispy-korean/823667/)
+[![Six drinks, all colorful, comprising the vanguard of McDonald's post-CosMc's premium drinks lineup.](https://imgproxy.divecdn.com/yQnpGvQuJ3PgUlWEDZ3EnYVwEu1ZBOGQNSzJXA9aIQw/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NY0RvbmFsZHNfVVNBX0ZpcnN0X0V2ZXJfTGluZXVwX29mX1JlZnJlc2hlcnNfYW5kX0NyYWZ0ZWRfU29kYXMuanBn.webp)](https://www.restaurantdive.com/news/mcdonalds-us-business-slows-operations-execution-problems/826920/) Aug. 4, 2026 [McDonald’s CEO blames US traffic drop on execution problems](https://www.restaurantdive.com/news/mcdonalds-us-business-slows-operations-execution-problems/826920/)
 
-[![Three colorful sodas with white custard cream dribbling down the inside of the cups.](https://imgproxy.divecdn.com/j2lEwhOxCXlSYutwFE98KMs4WkSmtre2HuNl7yCRFpU/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDI2X0ZyZWRkeXNfQmV2aWVzX1RyaW8uanBn.webp)](https://www.restaurantdive.com/news/freddys-frozen-custard-and-steakburgers-adds-dirty-sodas-lemonades-teas/823562/) June 24, 2026 [Freddy’s adds dirty sodas with custard cream](https://www.restaurantdive.com/news/freddys-frozen-custard-and-steakburgers-adds-dirty-sodas-lemonades-teas/823562/)
+[![BJ's Restaurants' new chicken sandwiches](https://imgproxy.divecdn.com/IRsf2Qzxaggt_N6Ct5Fwey1E9xc3BIaH4tPVveY4bp4/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CSnNfUmVzdGF1cmFudHNfTmV3X0NoaWNrZW5fU2FuZHdpY2hfTGluZXVwLmpwZw==.webp)](https://www.restaurantdive.com/news/bjs-restaurants-sales-growth-unit-openings-turnaround-success/826811/) Aug. 3, 2026 [BJ’s posts strongest traffic gains in 4 years](https://www.restaurantdive.com/news/bjs-restaurants-sales-growth-unit-openings-turnaround-success/826811/)
 
-[![Six drinks, all colorful, comprising the vanguard of McDonald's post-CosMc's premium drinks lineup.](https://imgproxy.divecdn.com/yQnpGvQuJ3PgUlWEDZ3EnYVwEu1ZBOGQNSzJXA9aIQw/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NY0RvbmFsZHNfVVNBX0ZpcnN0X0V2ZXJfTGluZXVwX29mX1JlZnJlc2hlcnNfYW5kX0NyYWZ0ZWRfU29kYXMuanBn.webp)](https://www.restaurantdive.com/news/qsrs-gaining-ground-in-dispensed-beverages-c-stores/822889/) June 18, 2026 [QSRs are gaining ground in dispensed beverages](https://www.restaurantdive.com/news/qsrs-gaining-ground-in-dispensed-beverages-c-stores/822889/)
+[![A rendering of a KFC next-generation restaurant that includes pink neon lights and black facade.](https://imgproxy.divecdn.com/E-xFMM4L3hwygo7MYqj7AgOtyFoKenn1PHnR_6_X_VA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9LRkNfUmVzdGF1cmFudF9OZXdfRGVzaWduX1JlbW9kZWxfSW5zcG9fRGF5LnBuZw==.webp)](https://www.restaurantdive.com/news/kfc-pizza-hut-strategic-transformations/826638/) July 31, 2026 [Yum bids Pizza Hut farewell, overhauls KFC](https://www.restaurantdive.com/news/kfc-pizza-hut-strategic-transformations/826638/)
 
 [Want to see more stories in **Menu Development**?\\
 \\
@@ -224,6 +224,36 @@ Sign upA valid email address is required.Please select at least one newsletter.
 
 ### Editors’ picks
 
+- [![](https://imgproxy.divecdn.com/7Gbx31vRmRuBfAFQojYlt1Cfdeg9WARLAAq4jIHYt9Y/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02ODgwNTY3ODQuanBn.webp)](https://www.restaurantdive.com/news/how-6-restaurant-giants-are-hiking-menu-prices/636593/)![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
+
+yaoinlove via Getty Images
+
+![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
+
+
+
+### [How 6 restaurant giants are hiking menu prices](https://www.restaurantdive.com/news/how-6-restaurant-giants-are-hiking-menu-prices/636593/)
+
+
+
+Brands like Chipotle, McDonald’s and Starbucks are walking a tightrope — charge enough to protect the bottom line without alienating customers.
+
+
+
+
+
+
+
+By Emma Liem Beckett and Julie Littman •
+
+
+
+
+
+
+
+Nov. 15, 2022
+
 - [![Starbucks Workers United / Starbucks pro-union employees](https://imgproxy.divecdn.com/mzAGB_BTYX_DO_JGmmlkUzcCQb-dJNfh4mH0RHVOAww/g:nowe:20:217/c:1507:851/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS83LkpQRw==.webp)](https://www.restaurantdive.com/news/5-store-level-changes-driving-the-starbucks-union/636052/)![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
 
 Permission granted by Starbucks Workers United
@@ -258,36 +288,6 @@ By Aneurin Canham-Clyne •
 
 Nov. 10, 2022
 
-- [![An image of a next gen Dunkin' in Woodstock, Georgia.](https://imgproxy.divecdn.com/tfYK_8455kADz4hSg7lPigyiXnAQdlShIS93a1Pch00/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EdW5raW5fbmV4dF9nZW5fdW5pdC5qcGc=.webp)](https://www.restaurantdive.com/news/did-dunkin-get-it-wrong-with-coffee-discount-loyalty-shakeup/635311/)![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
-
-Courtesy of Dunkin’
-
-![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
-
-
-
-### [Did Dunkin’ get its loyalty shakeup wrong?](https://www.restaurantdive.com/news/did-dunkin-get-it-wrong-with-coffee-discount-loyalty-shakeup/635311/)
-
-
-
-The revamped program’s emphasis on food items could be a play for higher check sizes, but making members pay a premium for coffee rewards could burn the chain.
-
-
-
-
-
-
-
-By Aneurin Canham-Clyne •
-
-
-
-
-
-
-
-Oct. 31, 2022
-
 
 ### Restaurant Dive news delivered to your inbox
 
@@ -311,14 +311,19 @@ Sign upA valid email address is required.Please select at least one newsletter.
 
 \| [Post a press release](https://www.restaurantdive.com/press-release/get-started/)
 
-[EverPass Media and Miller’s Ale House Expand Partnership, Turning Every Screen Into a 24/7 Spo…\\
+[New Benchmark Report by Interface Systems Reveals What Really Drives Restaurant Security Incid…\\
 \\
 \\
-From EverPass Media\\
+From Interface Systems\\
 \\
-July 06, 2026\\
+July 23, 2026](https://www.restaurantdive.com/press-release/20260723-new-benchmark-report-by-interface-systems-reveals-what-really-drives-restau/) [New Book Exposes How Restaurants Are Quietly Being Stolen From - And What Owners Can Do About …\\
 \\
-![EverPass Media logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1782840073/press_release/assets/company_logos/Screenshot_2026-06-30_at_11.56.48AM_etdjwn.png)](https://www.restaurantdive.com/press-release/20260630-everpass-media-and-millers-ale-house-expand-partnership-turning-every-scr-1/)
+\\
+From Unfiltered Ink Media, LLC\\
+\\
+July 20, 2026\\
+\\
+![Unfiltered Ink Media, LLC logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1784575194/press_release/assets/company_logos/UIM_BW_naskiv.png)](https://www.restaurantdive.com/press-release/20260720-new-book-exposes-how-restaurants-are-quietly-being-stolen-from-and-what-o/)
 
 Want to share a company announcement with your peers?
 
@@ -330,50 +335,53 @@ Want to share a company announcement with your peers?
 Editors’ picks
 
 
+- [![](https://imgproxy.divecdn.com/7Gbx31vRmRuBfAFQojYlt1Cfdeg9WARLAAq4jIHYt9Y/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02ODgwNTY3ODQuanBn.webp)](https://www.restaurantdive.com/news/how-6-restaurant-giants-are-hiking-menu-prices/636593/)![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
 
-- [![An image of a man and a woman looking at a tablet and doing financials in a restaurant.](https://imgproxy.divecdn.com/_mLsnsFQ2wA6z0Oz9WIpPR4ebgFGLE_lcNzDg6x3xc0/g:nowe:2:23/c:1197:676/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTY1MDc5NjA5LmpwZw==.webp)](https://www.restaurantdive.com/news/how-inflation-impacts-restaurants-what-data-shows/635647/)![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
-
-Getty Images
-
-![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
-
-
-
-### [How bad is restaurant inflation? Here’s what the data shows.](https://www.restaurantdive.com/news/how-inflation-impacts-restaurants-what-data-shows/635647/)
-
-
-
-As rising wages and operating costs push chains to increase menu prices, consumers are trading down and seeking more value-focused dining options.
-
-
-
-
-
-
-
-By Julie Littman •
-
-
-
-
-
-
-
-Nov. 3, 2022
-
-- [![An image of a next gen Dunkin' in Woodstock, Georgia.](https://imgproxy.divecdn.com/tfYK_8455kADz4hSg7lPigyiXnAQdlShIS93a1Pch00/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EdW5raW5fbmV4dF9nZW5fdW5pdC5qcGc=.webp)](https://www.restaurantdive.com/news/did-dunkin-get-it-wrong-with-coffee-discount-loyalty-shakeup/635311/)![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
-
-Courtesy of Dunkin’
+yaoinlove via Getty Images
 
 ![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
 
 
 
-### [Did Dunkin’ get its loyalty shakeup wrong?](https://www.restaurantdive.com/news/did-dunkin-get-it-wrong-with-coffee-discount-loyalty-shakeup/635311/)
+### [How 6 restaurant giants are hiking menu prices](https://www.restaurantdive.com/news/how-6-restaurant-giants-are-hiking-menu-prices/636593/)
 
 
 
-The revamped program’s emphasis on food items could be a play for higher check sizes, but making members pay a premium for coffee rewards could burn the chain.
+Brands like Chipotle, McDonald’s and Starbucks are walking a tightrope — charge enough to protect the bottom line without alienating customers.
+
+
+
+
+
+
+
+By Emma Liem Beckett and Julie Littman •
+
+
+
+
+
+
+
+Nov. 15, 2022
+
+- [![Starbucks Workers United / Starbucks pro-union employees](https://imgproxy.divecdn.com/mzAGB_BTYX_DO_JGmmlkUzcCQb-dJNfh4mH0RHVOAww/g:nowe:20:217/c:1507:851/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS83LkpQRw==.webp)](https://www.restaurantdive.com/news/5-store-level-changes-driving-the-starbucks-union/636052/)![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
+
+Permission granted by Starbucks Workers United
+
+![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
+
+
+
+Starbucks unionization efforts
+
+
+
+### [5 store-level changes driving the Starbucks union](https://www.restaurantdive.com/news/5-store-level-changes-driving-the-starbucks-union/636052/)
+
+
+
+The union’s proposals often focus on specific changes to systems workers interact with all day, every day, including equipment and mobile ordering.
 
 
 
@@ -389,37 +397,19 @@ By Aneurin Canham-Clyne •
 
 
 
-Oct. 31, 2022
+Nov. 10, 2022
 
 
 Latest in Menu Development
 
 
-- [![A photogrpah of a makeline at a Chipotle with salsa, sour cream and white cheese visible.](https://imgproxy.divecdn.com/rfxkmXsXEYZOxz96GEXzm_oD-E5bEe2ZGPdV2CmIKa0/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00NzEzNzE1MDQuanBn.webp)](https://www.restaurantdive.com/news/fresh-ideas-how-restaurants-can-overcome-the-challenge-of-seasonal-produce/824152/)
+- [![QDOBA Burrito](https://imgproxy.divecdn.com/RtBPdNEFtf9lNkbXBvg1m3v0GdoZ-mRAfd5hwWCY-U0/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9RRE9CQV9CdXJyaXRvLmpwZw==.webp)](https://www.restaurantdive.com/news/chipotle-qdoba-sweetgreen-salmonella-jalapeno-outbreak/827360/)
 
 
 
 
 
-[Fresh ideas: How restaurants can overcome the challenge of seasonal produce](https://www.restaurantdive.com/news/fresh-ideas-how-restaurants-can-overcome-the-challenge-of-seasonal-produce/824152/)
-
-
-
-
-
-
-
-By Michael Brady
-
-
-
-- [![A bunch of chicken nuggets, a drink and a side.](https://imgproxy.divecdn.com/IXjLR88_ua10JpEB3cKWlzB79mpKzbpqGLuiYTKRlTA/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Kb2xsaWJlZV9Db21ib19JbWFnZS5qcGc=.webp)](https://www.restaurantdive.com/news/jollibee-adds-chicken-nuggets-sauces-to-us-menu/824241/)
-
-
-
-
-
-[Jollibee’s new chicken nuggets could juice sales](https://www.restaurantdive.com/news/jollibee-adds-chicken-nuggets-sauces-to-us-menu/824241/)
+[Jalapeños served at Qdoba, Chipotle tied to Salmonella outbreak](https://www.restaurantdive.com/news/chipotle-qdoba-sweetgreen-salmonella-jalapeno-outbreak/827360/)
 
 
 
@@ -431,31 +421,13 @@ By Aneurin Canham-Clyne
 
 
 
-- [![Four plastic cups with colorful beverages and ice inside sit on a white table, surrounded by fruit and against a pink patterned background.](https://imgproxy.divecdn.com/VkvApz7yuWnHBZEwGmwz85SvbS_IOpsXB9a5TVgcV4g/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TaGVldHpfUmVmcmVzaGVyei5qcGc=.webp)](https://www.restaurantdive.com/news/sheetz-dash-in-lead-the-charge-as-refreshers-reshape-c-store-beverage-sale/824062/)
+- [![A close-up photograph of coure wraps on a yellow table in front of an orange titled background.](https://imgproxy.divecdn.com/PG8Z-URF6fNYrdYvZWgDyZ_Rz20xxxlgkLjG23q9RPE/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS80X2Y0YkxYQ3QuanBn.webp)](https://www.restaurantdive.com/news/sweetgreen-turnaround-progress-starts-stalls-cyclospora-salmonella/827320/)
 
 
 
 
 
-[Sheetz, Dash In lead the charge as refreshers reshape c-store beverage sales](https://www.restaurantdive.com/news/sheetz-dash-in-lead-the-charge-as-refreshers-reshape-c-store-beverage-sale/824062/)
-
-
-
-
-
-
-
-By Christine Blank
-
-
-
-- [![A person stands over dishes of chocolate dessert inside a restaurant kitchen.](https://imgproxy.divecdn.com/EMJN0RlxJyBW_davVoz_Wc9UeoTOzejJoXHwWIv5RUA/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lZGl0LWpodXNraW4tODQ4MS1oaWdocmVzMi5qcGc=.webp)](https://www.restaurantdive.com/news/elise-russ-scratch-cooking-dying-art/823784/)
-
-
-
-
-
-[Why from-scratch cooking is a radical choice in 2026](https://www.restaurantdive.com/news/elise-russ-scratch-cooking-dying-art/823784/)
+[Sweetgreen says turnaround is working, despite soft sales](https://www.restaurantdive.com/news/sweetgreen-turnaround-progress-starts-stalls-cyclospora-salmonella/827320/)
 
 
 
@@ -463,7 +435,43 @@ By Christine Blank
 
 
 
-By Elise Russ
+By Aneurin Canham-Clyne
+
+
+
+- [![A black and purple restaurant exterior.](https://imgproxy.divecdn.com/4uBdktNCT9vtAKHp2eOZ42HoMtS4fFnwSdel3AMQCic/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjM3OTY0MjE3LmpwZw==.webp)](https://www.restaurantdive.com/news/taco-bell-cyclosporiasis-15-states-six-thousand-cases/827240/)
+
+
+
+
+
+[Taco Bell, Taylor Farms Cyclospora case count hits 6K](https://www.restaurantdive.com/news/taco-bell-cyclosporiasis-15-states-six-thousand-cases/827240/)
+
+
+
+
+
+
+
+By Aneurin Canham-Clyne
+
+
+
+- [![A picture of Burger King signs.](https://imgproxy.divecdn.com/Lc70FfqeGBr5ikE2uCv7mlK8IAlW2EqjgGIXgVhv9Cc/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzcwNzgxODkyLmpwZw==.webp)](https://www.restaurantdive.com/news/burger-king-sales-success-popeyes-brand-turnaround-continues/827199/)
+
+
+
+
+
+[Burger King sales surge, but Popeyes faces uphill battle](https://www.restaurantdive.com/news/burger-king-sales-success-popeyes-brand-turnaround-continues/827199/)
+
+
+
+
+
+
+
+By Aneurin Canham-Clyne
 
 
 

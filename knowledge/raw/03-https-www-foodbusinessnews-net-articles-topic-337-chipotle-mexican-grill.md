@@ -1,7 +1,7 @@
 ---
-title: Chipotle Mexican Grill - Articles
+title: Chipotle Mexican Grill - Articles - Food Business News
 url: https://www.foodbusinessnews.net/articles/topic/337-chipotle-mexican-grill
-scraped_at: 2026-08-03T09:29:03
+scraped_at: 2026-08-10T07:16:26
 ---
 
 [Skip To Content](https://www.foodbusinessnews.net/articles/topic/337-chipotle-mexican-grill#skip-target)
@@ -132,13 +132,13 @@ Previous _1_ [2](https://www.foodbusinessnews.net/articles/topic/337-chipotle-me
 
 # [Featured Webinars](https://www.foodbusinessnews.net/events/category/355/range/12-months)
 
-- # 30
+- # 06
 
 
 
 
 
-Jul
+Aug
 
 
 
@@ -211,26 +211,16 @@ Aug
 
 # Popular Articles
 
+- # [Kraft Heinz incurs $7.4 billion non-cash impairment charge](https://www.foodbusinessnews.net/articles/30802-kraft-heinz-incurs-74-billion-non-cash-impairment-charge)
+
 - # [Conagra Brands unveils leadership changes](https://www.foodbusinessnews.net/articles/30744-conagra-brands-unveils-leadership-changes)
+
+- # [McCormick-Unilever Foods merger taking shape](https://www.foodbusinessnews.net/articles/30719-mccormick-unilever-foods-merger-taking-shape)
 
 - # [Intersnack to buy Utz in $2.9 billion deal](https://www.foodbusinessnews.net/articles/30703-intersnack-to-buy-utz-in-29-billion-deal)
 
-- # [GLP-1 users spark product revamps](https://www.foodbusinessnews.net/articles/30680-glp-1-users-spark-product-revamps)
-
-- # [‘Snealing’ reshapes snack category](https://www.foodbusinessnews.net/articles/30669-snealing-reshapes-snack-category)
-
 
 # Popular Galleries
-
-- [![Red fox spices peak preserved meals](https://www.foodbusinessnews.net/ext/resources/2026/07/08/Red-Fox-Spices-Peak-Preserved-meals.webp?crop=true&height=300&t=1783518746&width=400)](https://www.foodbusinessnews.net/media/photos/4815-innovations-from-summer-fancy-food-show-part-1)
-
-## [Innovations from Summer Fancy Food Show, part 1](https://www.foodbusinessnews.net/media/photos/4815-innovations-from-summer-fancy-food-show-part-1)
-
-
-
-
-
-New products include globally inspired offerings and convenience-based formats.
 
 - [![Watcharees noodle meals](https://www.foodbusinessnews.net/ext/resources/2026/07/15/Watcharees-noodle-meals.webp?crop=true&height=300&t=1784124621&width=400)](https://www.foodbusinessnews.net/media/photos/4817-summer-fancy-food-show-innovations-part-2)
 
@@ -241,3 +231,13 @@ New products include globally inspired offerings and convenience-based formats.
 
 
 Global flavors were trending on the show floor.
+
+- [![Reeses pieces cookie](https://www.foodbusinessnews.net/ext/resources/2026/07/24/Reeses-Pieces-Cookie.webp?crop=true&height=300&t=1784908524&width=400)](https://www.foodbusinessnews.net/media/photos/4820-confectionery-centered-innovations)
+
+## [Confectionery-centered innovations](https://www.foodbusinessnews.net/media/photos/4820-confectionery-centered-innovations)
+
+
+
+
+
+New products and foodservice items with candy at its core are rolling out.
