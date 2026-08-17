@@ -1,18 +1,10 @@
 ---
 title: chipotle news releases
 url: https://newsroom.chipotle.com/press-releases?l=100
-scraped_at: 2026-08-10T07:16:26
+scraped_at: 2026-08-17T06:38:05
 ---
 
-### Your Privacy Preferences
-
-If you would like to submit a Data Subject Request, please click here: [Data Subject Request Form](https://www.chipotle.com/privacy-request)
-
-We use cookies to enhance your website and app experience, improve functionality and support our marketing efforts. You can manage your cookie preferences by clicking “Do Not Sell or Share My Personal Information / Opt Out.” If you wish to opt out of Chipotle’s sharing your personal information directly with third parties for the purpose of targeted advertising, please click on “Your Privacy Choices” link in the footer of our website and complete the US Consumer Data Request Form found under the Data Subject Rights tab. To learn more, please review our [Cookie Policy](https://www.chipotle.com/cookie-policy) and our visit our recently updated [Privacy Policy,](https://www.chipotle.com/privacy-policy) [including California Privacy Rights](https://www.chipotle.com/privacy-policy). By continuing to access or use our website, you agree to our [Terms of Use](https://www.chipotle.com/terms-of-use) including the arbitration and class action waiver.
-
-Do Not Sell or Share My Personal Information / Opt OutAccept AllPrivacy Preferences
-
- [Skip to main content](https://newsroom.chipotle.com/press-releases?l=100#content)
+[Skip to main content](https://newsroom.chipotle.com/press-releases?l=100#content)
 
 # CHIPOTLE NEWS RELEASES
 
@@ -63,6 +55,50 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases?l=100#)
+
+- [![](https://mmx.prnewswire.com/media/MS1969014/CHIPOTLE-MEXICAN-GRILL-New-Restaurant.jpg?id=OA2876403&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-13-CHIPOTLE-DEBUTS-IN-SAUDI-ARABIA-WITH-FIRST-RESTAURANT-IN-RIYADH)
+
+
+
+Aug 13, 2026
+
+
+
+[CHIPOTLE DEBUTS IN SAUDI ARABIA WITH FIRST RESTAURANT IN RIYADHOpens in new window](https://newsroom.chipotle.com/2026-08-13-CHIPOTLE-DEBUTS-IN-SAUDI-ARABIA-WITH-FIRST-RESTAURANT-IN-RIYADH)
+
+
+
+
+
+The opening at Sidra in Riyadh marks Chipotle's entry into the Kingdom and continues the brand's expansion across the Middle East with franchise partner Alshaya Group NEWPORT BEACH, Calif., Aug....
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-08-13-CHIPOTLE-DEBUTS-IN-SAUDI-ARABIA-WITH-FIRST-RESTAURANT-IN-RIYADH#assets_20295_122876-117)
+
+- [![](https://mmx.prnewswire.com/media/MS1967459/ChipotleIq_Sweepstakes_1920x1080.jpg?id=OA2854285&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-11-CHIPOTLE-IQ-RETURNS-WITH-MORE-THAN-1-MILLION-IN-FREE-CHIPOTLE,-PLUS-NEW-DAILY-STREAKS,-SILVER-TICKETS-AND-A-COLLECTIBLE-CARD-GAME)
+
+
+
+Aug 11, 2026
+
+
+
+[CHIPOTLE IQ RETURNS WITH MORE THAN $1 MILLION IN FREE CHIPOTLE, PLUS NEW DAILY STREAKS, SILVER TICKETS AND A COLLECTIBLE CARD GAMEOpens in new window](https://newsroom.chipotle.com/2026-08-11-CHIPOTLE-IQ-RETURNS-WITH-MORE-THAN-1-MILLION-IN-FREE-CHIPOTLE,-PLUS-NEW-DAILY-STREAKS,-SILVER-TICKETS-AND-A-COLLECTIBLE-CARD-GAME)
+
+
+
+
+
+From August 18 through August 20, Chipotle Rewards members can put their brand knowledge to the test for a chance to win BUY-ONE-GET-ONE (BOGO) free entrée codes, free Cilantro Lime Sauce offers,...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-08-11-CHIPOTLE-IQ-RETURNS-WITH-MORE-THAN-1-MILLION-IN-FREE-CHIPOTLE,-PLUS-NEW-DAILY-STREAKS,-SILVER-TICKETS-AND-A-COLLECTIBLE-CARD-GAME#assets_20295_122875-117)
 
 - Aug 5, 2026
 
@@ -1166,7 +1202,7 @@ For the 2025-26 school year, all student athletes at The Ohio State University, 
 
   - [Photos4Opens in new window](https://newsroom.chipotle.com/2025-08-27-CHIPOTLE-TEAMS-UP-WITH-ELITE-COLLEGE-ATHLETIC-PROGRAMS-TO-FUEL-STUDENT-ATHLETES-WITH-REAL-FOOD#assets_20295_122814-117)
 
-- [![](https://mma.prnewswire.com/media/2755858/Chipotle_BYOC_PR_Image.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2025-08-25-CHIPOTLE-INTRODUCES-A-WHOLE-NEW-WAY-TO-ORDER-FOR-A-SMALL-GROUP-BUILD-YOUR-OWN-CHIPOTLE)
+- [![](https://newsroom.chipotle.com/image/BYOC+PR_NO+TEXT_1000px.jpg)Opens in new window](https://newsroom.chipotle.com/2025-08-25-CHIPOTLE-INTRODUCES-A-WHOLE-NEW-WAY-TO-ORDER-FOR-A-SMALL-GROUP-BUILD-YOUR-OWN-CHIPOTLE)
 
 
 
@@ -2031,50 +2067,6 @@ For the 2024-25 school year, every scholarship and walk-on student athlete at Th
 
 
   - [Photos2Opens in new window](https://newsroom.chipotle.com/2024-08-29-CHIPOTLE-TEAMS-UP-WITH-THE-OHIO-STATE-UNIVERSITY-TO-FUEL-BUCKEYE-ATHLETES-WITH-REAL-FOOD#assets_20295_122770-117)
-
-- [![](https://mma.prnewswire.com/media/2491961/Adam_Rymer_Chipotle.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2024-08-28-CHIPOTLE-ACCELERATES-THE-APPOINTMENT-OF-ADAM-RYMER-TO-CFO-AND-JAMIE-MCCONNELL-TO-CHIEF-ACCOUNTING-AND-ADMINISTRATIVE-OFFICER)
-
-
-
-Aug 28, 2024
-
-
-
-[CHIPOTLE ACCELERATES THE APPOINTMENT OF ADAM RYMER TO CFO AND JAMIE MCCONNELL TO CHIEF ACCOUNTING AND ADMINISTRATIVE OFFICEROpens in new window](https://newsroom.chipotle.com/2024-08-28-CHIPOTLE-ACCELERATES-THE-APPOINTMENT-OF-ADAM-RYMER-TO-CFO-AND-JAMIE-MCCONNELL-TO-CHIEF-ACCOUNTING-AND-ADMINISTRATIVE-OFFICER)
-
-
-
-
-
-Former CFO Jack Hartung to remain with the organization indefinitely as President and Chief Strategy Officer, beginning October 1, 2024 15-year Chipotle veteran, Rymer, and 6-year veteran,...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2024-08-28-CHIPOTLE-ACCELERATES-THE-APPOINTMENT-OF-ADAM-RYMER-TO-CFO-AND-JAMIE-MCCONNELL-TO-CHIEF-ACCOUNTING-AND-ADMINISTRATIVE-OFFICER#assets_20295_122769-117)
-
-- [![](https://mma.prnewswire.com/media/2489998/Chipotle_Honey_Chicken.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2024-08-27-CHIPOTLE-TESTS-CHIPOTLE-HONEY-CHICKEN-IN-SELECT-MARKETS)
-
-
-
-Aug 27, 2024
-
-
-
-[CHIPOTLE TESTS CHIPOTLE HONEY CHICKEN IN SELECT MARKETSOpens in new window](https://newsroom.chipotle.com/2024-08-27-CHIPOTLE-TESTS-CHIPOTLE-HONEY-CHICKEN-IN-SELECT-MARKETS)
-
-
-
-
-
-The new, limited time protein is available now in Nashville and Sacramento NEWPORT BEACH, Calif., Aug. 27, 2024 /PRNewswire/ -- Chipotle Mexican Grill (NYSE: CMG) today announced it is testing...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2024-08-27-CHIPOTLE-TESTS-CHIPOTLE-HONEY-CHICKEN-IN-SELECT-MARKETS#assets_20295_122768-117)
 
 Show
 
