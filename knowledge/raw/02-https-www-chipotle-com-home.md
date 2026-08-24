@@ -1,7 +1,7 @@
 ---
 title: Chipotle Mexican Grill: Mexican Food - Restaurant & Catering
 url: https://www.chipotle.com/home
-scraped_at: 2026-07-06T10:01:47
+scraped_at: 2026-08-24T06:40:45
 ---
 
 [ENABLE ACCESSIBILITY](https://www.chipotle.com/#)
@@ -36,11 +36,11 @@ CHIPOTLE HEAT WITH A TOUCH OF SWEET
 
 [ORDER NOW](https://www.chipotle.com/#menu) [ORDER NOW](https://www.chipotle.com/#menu)
 
-![Pepper medallion](https://www.chipotle.com/adobe/dynamicmedia/deliver/dm-aid--84b9659a-f78f-49bb-9c7d-2f762547479e/medallion-fluted-2x.png?quality=85&preferwebp=true)
+![Chipotle Summer of Extras](https://www.chipotle.com/adobe/dynamicmedia/deliver/dm-aid--e81826f5-3b5e-4ef7-8748-395f102d50a9/summer-of-extras-2026-logo-340x340.png?quality=85&preferwebp=true)
 
-JOIN CHIPOTLE REWARDS. UNLOCK FREE CHIPOTLE.
+EARN EXTRA POINTS, EXTRA BADGES, & EXTRA ENTREES
 
-CREATE AN ACCOUNT
+JOIN REWARDS
 
 **OR**
 
@@ -110,27 +110,29 @@ Chips & Sides
 
 Order
 
-![BYOC](https://www.chipotle.com/content/dam/chipotle/menu-item-campaigns/byoc/2025/us/BYOC-Secondary-Tout-DSK.jpg)![BYOC](https://www.chipotle.com/content/dam/chipotle/menu-item-campaigns/byoc/2025/us/BYOC-Secondary-Tout-MOB.png)
+back to school giftcards Chipotle 2026
 
-SERVE 4-6 WITH
+back to school giftcards Chipotle 2026
 
-BUILD-YOUR-
+GO BACK TO
 
-OWN CHIPOTLE
-
-Real food that everyone loves for less than $10 a person. Pick your protein, choose your bases, add fresh toppings and your favorite large sides, plus extra sides like Tortillas and Chips.
-
-SERVE 4-6 WITH
-
-BUILD-YOUR-OWN
+SCHOOL WITH
 
 CHIPOTLE
 
-Real food that everyone loves for less than $10 a person. Pick your protein, choose your bases, add fresh toppings and your favorite large sides, plus extra sides like Tortillas and Chips.
+Send them back to school with a Chipotle Gift Card—perfect for powering through lectures, study sessions, and everything after class.
 
-[ORDER NOWORDER NOW](https://www.chipotle.com/#menu)
+GO BACK TO SCHOOL
 
-![BYOC](https://www.chipotle.com/content/dam/chipotle/menu-item-campaigns/byoc/2025/us/BYOC-Secondary-Tout-DSK.jpg)![BYOC](https://www.chipotle.com/content/dam/chipotle/menu-item-campaigns/byoc/2025/us/BYOC-Secondary-Tout-MOB.png)
+WITH CHIPOTLE
+
+Send them back to school with a Chipotle Gift Card—perfect for powering through lectures, study sessions, and everything after class.
+
+[SHOP GIFT CARDSSHOP GIFT CARDS](https://www.chipotle.com/gift-cards)
+
+back to school giftcards Chipotle 2026
+
+back to school giftcards Chipotle 2026
 
 Honey Chicken is back at Chipotle Mexican Grill
 
@@ -156,6 +158,10 @@ Honey Chicken is back at Chipotle Mexican Grill
 
 Honey Chicken is back at Chipotle Mexican Grill
 
+![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/02774ed8-f878-4dc2-b6cd-5e86977b4907/7363a28f-6159-4c96-abd1-a8a6035dec62.jpg)
+
+The Salish Matter Meal
+
 ![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/ead6de63-d046-4795-a80c-490f10c285bd/1c709376-bad9-492f-807b-d99c750e4aeb.jpg)
 
 Sam's High Protein Tacos
@@ -163,10 +169,6 @@ Sam's High Protein Tacos
 ![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/ec59f2f3-0c3f-4082-82af-ca58727f3e9f/56cdb1e0-b6e0-4020-88f6-cd2ddb1693e5.jpg)
 
 Josh Hart's High Protein Burrito
-
-![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/f3038bca-5c62-4900-b33a-717650d03467/d67a7ba7-e2fc-45ad-adf7-399e0582f32c.jpg)
-
-Mikal Bridges High Protein Bowl
 
 # CROWD PLEASERS
 

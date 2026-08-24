@@ -1,8 +1,12 @@
 ---
-title: Chipotle Announces Limited-Time Menu Change - Newsweek
+title: Chipotle Announces Limited-Time Menu Change
 url: https://www.newsweek.com/chipotle-announces-limited-time-menu-change-10803212
-scraped_at: 2026-08-17T06:38:05
+scraped_at: 2026-08-24T06:40:45
 ---
+
+[Latest\\
+\\
+Trump Says Canada Wants ‘Benefits of Being a State’ After Trade Talks Collapse](https://www.newsweek.com/trump-issues-first-response-after-us-canada-trade-deal-collapses-12356928)
 
 - U.S.
 
@@ -30,7 +34,7 @@ scraped_at: 2026-08-17T06:38:05
 
 - Extra
 
-[Newsletters](https://www.newsweek.com/preference-center) [Newsmakers](https://www.newsweek.com/newsmakers) [Unconventional](https://www.newsweek.com/unconventional) [Events](https://events.newsweek.com/) [Essays](https://www.newsweek.com/essays) [Podcasts](https://www.newsweek.com/podcasts) [Vantage](https://www.newsweek.com/topic/vantage) [Magazine](https://www.newsweek.com/archive) [CEO Circle](https://www.newsweek.com/ceo-circle) [Announcements](https://www.newsweek.com/announcements) [Leadership](https://www.newsweek.com/leadership) [Dev Pragad](https://www.newsweek.com/dev-pragad)
+[Newsletters](https://www.newsweek.com/preference-center) [Newsmakers](https://www.newsweek.com/newsmakers) [Dare to Dream](https://www.newsweek.com/dare-to-dream) [Unconventional](https://www.newsweek.com/unconventional) [Events](https://events.newsweek.com/) [Essays](https://www.newsweek.com/essays) [Podcasts](https://www.newsweek.com/podcasts) [Vantage](https://www.newsweek.com/topic/vantage) [Insights](https://www.newsweek.com/insights) [Magazine](https://www.newsweek.com/archive) [CEO Circle](https://www.newsweek.com/ceo-circle) [Announcements](https://www.newsweek.com/announcements) [Leadership](https://www.newsweek.com/leadership) [Dev Pragad](https://www.newsweek.com/dev-pragad)
 
 
 Chipotle Mexican Grill has introduced Red Chimichurri, a new chef-designed sauce set to be available for a limited time at locations across the United States and Canada, beginning Tuesday, September 30, 2025. The launch marks the latest in a series of flavor-focused menu innovations by the fast-casual restaurant chain, which is emphasizing creativity and guest customization. What To Know Red Chimichurri will be freshly prepared in-restaurant every day, featuring ingredients such as roasted garlic, fresh cilantro, chili peppers, and citrus juice. The new sauce is crafted without artificial preservatives, colors, or flavors, and is served on the side to allow for maximum customization. Chipotle recommends three curated entrée pairings to enjoy with Red Chimichurri: Chipotle Rewards members can try Red Chimichurri free on launch day, with the offer automatically loaded for account holders enrolled by 5 p.m. Pacific Time on September 29. Newly enrolled members will also receive a separate offer for free guacamole. The launch of Red Chimichurri closely follows Chipotle’s September return of Carne Asada, a fan-favorite protein offered for a limited time and promoted as the ideal pairing for the new sauce. What People Are Saying "Red Chimichurri unlocks an all-new flavor profile that is unlike any menu item we introduced before," said Chris Brandt, president, chief brand officer. He added, "This is more than a new sauce – it's a new way for our fans to get creative and build the ultimate flavor combination." Other Menu Changes at Chipotle Red Chimichurri is part of a broader pattern of limited-time and innovative offerings at Chipotle. In September, Chipotle brought back Carne Asada across U.S. and Canadian locations, acknowledging customer demand for the chain's most-searched menu item. The rich, citrusy steak option is available only temporarily, with no confirmed end date. Earlier in August 2025, Chipotle launched "Build-Your-Own Chipotle," a digital-exclusive family meal that provides large portions designed for groups of four to six. This menu addition focuses on value and convenience, aiming to attract families during the back-to-school season and is available via Chipotle's digital ordering channels. Additionally, Chipotle introduced drone-based food delivery in Texas through a partnership with Zipline. This pilot program enables fast, autonomous delivery of Chipotle orders to select Dallas-area customers, demonstrating the company's willingness to experiment with technology-powered service enhancements.

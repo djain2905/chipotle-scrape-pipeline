@@ -1,7 +1,7 @@
 ---
 title: chipotle news releases
 url: https://newsroom.chipotle.com/press-releases?l=100
-scraped_at: 2026-08-17T06:38:05
+scraped_at: 2026-08-24T06:40:45
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases?l=100#content)
@@ -55,6 +55,50 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases?l=100#)
+
+- [![](https://mmx.prnewswire.com/media/MS1971985/SalishPR_1-1.jpg?id=OA2895551&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-19-CHIPOTLE-LAUNCHES-THE-SALISH-MATTER-ORDER-INSPIRED-BY-ONE-OF-GEN-ALPHAS-BIGGEST-CELEBRITIES)
+
+
+
+Aug 19, 2026
+
+
+
+[CHIPOTLE LAUNCHES THE SALISH MATTER ORDER INSPIRED BY ONE OF GEN ALPHA'S BIGGEST CELEBRITIESOpens in new window](https://newsroom.chipotle.com/2026-08-19-CHIPOTLE-LAUNCHES-THE-SALISH-MATTER-ORDER-INSPIRED-BY-ONE-OF-GEN-ALPHAS-BIGGEST-CELEBRITIES)
+
+
+
+
+
+The Salish Matter Order features a Kid's Cheese Quesadilla with white rice, black beans and guac, served with kid's chips and chocolate milk, available exclusively in the Chipotle app and on...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-08-19-CHIPOTLE-LAUNCHES-THE-SALISH-MATTER-ORDER-INSPIRED-BY-ONE-OF-GEN-ALPHAS-BIGGEST-CELEBRITIES#assets_20295_122879-117)
+
+- [![](https://mmx.prnewswire.com/media/MS1970259/School-Spirit-Bogo-PR-with-Logo.jpg?id=OA2888412&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-17-CHIPOTLE-CELEBRATES-BACK-TO-SCHOOL-SEASON-WITH-SCHOOL-SPIRIT-BOGO-AND-CHIPOTLE-SUNDAYS-DEAL)
+
+
+
+Aug 17, 2026
+
+
+
+[CHIPOTLE CELEBRATES BACK-TO-SCHOOL SEASON WITH SCHOOL SPIRIT BOGO AND CHIPOTLE SUNDAYS DEALOpens in new window](https://newsroom.chipotle.com/2026-08-17-CHIPOTLE-CELEBRATES-BACK-TO-SCHOOL-SEASON-WITH-SCHOOL-SPIRIT-BOGO-AND-CHIPOTLE-SUNDAYS-DEAL)
+
+
+
+
+
+On Thursday, August 20, guests wearing school apparel or accessories can receive a BUY-ONE-GET-ONE (BOGO) entrée offer from 3 p.m. to close local time¹ at participating Chipotle restaurants. On...
+
+
+
+
+
+  - [Photos2Opens in new window](https://newsroom.chipotle.com/2026-08-17-CHIPOTLE-CELEBRATES-BACK-TO-SCHOOL-SEASON-WITH-SCHOOL-SPIRIT-BOGO-AND-CHIPOTLE-SUNDAYS-DEAL#assets_20295_122877-117)
 
 - [![](https://mmx.prnewswire.com/media/MS1969014/CHIPOTLE-MEXICAN-GRILL-New-Restaurant.jpg?id=OA2876403&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-13-CHIPOTLE-DEBUTS-IN-SAUDI-ARABIA-WITH-FIRST-RESTAURANT-IN-RIYADH)
 
@@ -2024,49 +2068,6 @@ Chipotle's Mexican-inspired, tender Smoked Brisket returns to the menu after thr
 
 Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Tuesday, October 29, 2024 at 4:30 PM Eastern time to discuss third quarter financial results and provide a business update for the...
 
-- [![](https://mma.prnewswire.com/media/2495813/Chipotle_Group_Line.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2024-09-04-CHIPOTLE-AND-SPIRIT-HALLOWEEN-BRING-MEMES-TO-LIFE-WITH-EXCLUSIVE-FIRST-EVER-COSTUME-COLLECTION)
-
-
-
-Sep 4, 2024
-
-
-
-[CHIPOTLE AND SPIRIT HALLOWEEN BRING MEMES TO LIFE WITH EXCLUSIVE FIRST-EVER COSTUME COLLECTIONOpens in new window](https://newsroom.chipotle.com/2024-09-04-CHIPOTLE-AND-SPIRIT-HALLOWEEN-BRING-MEMES-TO-LIFE-WITH-EXCLUSIVE-FIRST-EVER-COSTUME-COLLECTION)
-
-
-
-
-
-On September 6, the restaurant brand is dropping its inaugural costume collection featuring a Chipotle napkin, fork, water cup, burrito, and to-go bag, available exclusively at SpiritHalloween.com...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2024-09-04-CHIPOTLE-AND-SPIRIT-HALLOWEEN-BRING-MEMES-TO-LIFE-WITH-EXCLUSIVE-FIRST-EVER-COSTUME-COLLECTION#assets_20295_122771-117)
-
-- [![](https://mma.prnewswire.com/media/2492193/OSU_PR1.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2024-08-29-CHIPOTLE-TEAMS-UP-WITH-THE-OHIO-STATE-UNIVERSITY-TO-FUEL-BUCKEYE-ATHLETES-WITH-REAL-FOOD)
-
-
-
-Aug 29, 2024
-
-
-
-[CHIPOTLE TEAMS UP WITH THE OHIO STATE UNIVERSITY TO FUEL BUCKEYE ATHLETES WITH REAL FOODOpens in new window](https://newsroom.chipotle.com/2024-08-29-CHIPOTLE-TEAMS-UP-WITH-THE-OHIO-STATE-UNIVERSITY-TO-FUEL-BUCKEYE-ATHLETES-WITH-REAL-FOOD)
-
-
-
-
-
-For the 2024-25 school year, every scholarship and walk-on student athlete at The Ohio State University will receive a customized card granting them free Chipotle for the entirety of their...
-
-
-
-
-
-  - [Photos2Opens in new window](https://newsroom.chipotle.com/2024-08-29-CHIPOTLE-TEAMS-UP-WITH-THE-OHIO-STATE-UNIVERSITY-TO-FUEL-BUCKEYE-ATHLETES-WITH-REAL-FOOD#assets_20295_122770-117)
 
 Show
 
