@@ -1,7 +1,7 @@
 ---
 title: chipotle news releases
 url: https://newsroom.chipotle.com/press-releases?l=100
-scraped_at: 2026-06-22T11:39:40
+scraped_at: 2026-08-31T12:20:04
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases?l=100#content)
@@ -10,29 +10,29 @@ scraped_at: 2026-06-22T11:39:40
 
 News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases.
 
-June 2026
+August 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 31 | 1 | 2 | 3 | 4 | 5 | 6 |
-| 7 | 8 | 9 | 10 | 11 | 12 | 13 |
-| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-| 21 | 22 | 23 | 24 | 25 | 26 | 27 |
-| 28 | 29 | 30 | 1 | 2 | 3 | 4 |
-| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+| 26 | 27 | 28 | 29 | 30 | 31 | 1 |
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
 
 Cancel Go
 
-June 2026
+August 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 31 | 1 | 2 | 3 | 4 | 5 | 6 |
-| 7 | 8 | 9 | 10 | 11 | 12 | 13 |
-| 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-| 21 | 22 | 23 | 24 | 25 | 26 | 27 |
-| 28 | 29 | 30 | 1 | 2 | 3 | 4 |
-| 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+| 26 | 27 | 28 | 29 | 30 | 31 | 1 |
+| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
 
 Cancel Go
 
@@ -55,6 +55,316 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases?l=100#)
+
+- [![](https://mmx.prnewswire.com/media/MS1977896/Pollo-Asado-General-PR-1.jpg?id=OA2918906&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-31-CHIPOTLE-MARKS-A-BRAND-FIRST-WITH-ALL-NEW-POLLO-ASADO-AND-THE-DEBUT-OF-CHILI-LIME-CHIPS)
+
+
+
+Aug 31, 2026
+
+
+
+[CHIPOTLE MARKS A BRAND FIRST WITH ALL-NEW POLLO ASADO AND THE DEBUT OF CHILI LIME CHIPSOpens in new window](https://newsroom.chipotle.com/2026-08-31-CHIPOTLE-MARKS-A-BRAND-FIRST-WITH-ALL-NEW-POLLO-ASADO-AND-THE-DEBUT-OF-CHILI-LIME-CHIPS)
+
+
+
+
+
+For the first time in brand history, Chipotle is launching two limited-time menu items simultaneously: Pollo Asado and Chili Lime Chips Pollo Asado returns August 31 with an all-new recipe,...
+
+
+
+
+
+  - [Photos3Opens in new window](https://newsroom.chipotle.com/2026-08-31-CHIPOTLE-MARKS-A-BRAND-FIRST-WITH-ALL-NEW-POLLO-ASADO-AND-THE-DEBUT-OF-CHILI-LIME-CHIPS#assets_20295_122883-117)
+
+- [![](https://newsroom.chipotle.com/file.php/181138/Creator+PR+1+1000px.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-08-31-CHIPOTLE-HANDS-THE-CAMERAS-TO-100-CREATORS-FOR-ITS-NEW-NATIONAL-AD-CAMPAIGN)
+
+
+
+Aug 31, 2026
+
+
+
+[CHIPOTLE HANDS THE CAMERAS TO 100 CREATORS FOR ITS NEW NATIONAL AD CAMPAIGNOpens in new window](https://newsroom.chipotle.com/2026-08-31-CHIPOTLE-HANDS-THE-CAMERAS-TO-100-CREATORS-FOR-ITS-NEW-NATIONAL-AD-CAMPAIGN)
+
+
+
+
+
+The next evolution of Behind the Foil was captured entirely by creators, with zero brand-shot footage and no traditional director or production company managing the shoot The campaign marks Chief...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-08-31-CHIPOTLE-HANDS-THE-CAMERAS-TO-100-CREATORS-FOR-ITS-NEW-NATIONAL-AD-CAMPAIGN#assets_20295_122882-117)
+
+- [![](https://mmx.prnewswire.com/media/MS1975522/DoubleProteinPR.jpg?id=OA2910991&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-26-CHIPOTLE-OFFERS-FREE-DOUBLE-PROTEIN-ON-AUGUST-27-TO-CELEBRATE-CHIPOTLE-HONEY-CHICKENS-FINAL-WEEK)
+
+
+
+Aug 26, 2026
+
+
+
+[CHIPOTLE OFFERS FREE DOUBLE PROTEIN ON AUGUST 27 TO CELEBRATE CHIPOTLE HONEY CHICKEN'S FINAL WEEKOpens in new window](https://newsroom.chipotle.com/2026-08-26-CHIPOTLE-OFFERS-FREE-DOUBLE-PROTEIN-ON-AUGUST-27-TO-CELEBRATE-CHIPOTLE-HONEY-CHICKENS-FINAL-WEEK)
+
+
+
+
+
+On Thursday, August 27, guests in the U.S. and Canada can receive free double protein on any entrée ordered through the Chipotle app, Chipotle.com or Chipotle.ca with code PROTEIN at checkout¹...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-08-26-CHIPOTLE-OFFERS-FREE-DOUBLE-PROTEIN-ON-AUGUST-27-TO-CELEBRATE-CHIPOTLE-HONEY-CHICKENS-FINAL-WEEK#assets_20295_122881-117)
+
+- [![](https://mmx.prnewswire.com/media/MS1974141/Taylor_Fritz_Chipotle-1.jpg?id=OA2905420&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-24-CHIPOTLE-DROPS-BOGOS-EVERY-TIME-TAYLOR-FRITZ-WINS-AS-HE-CHASES-HISTORY-IN-NEW-YORK)
+
+
+
+Aug 24, 2026
+
+
+
+[CHIPOTLE DROPS BOGOS EVERY TIME TAYLOR FRITZ WINS AS HE CHASES HISTORY IN NEW YORKOpens in new window](https://newsroom.chipotle.com/2026-08-24-CHIPOTLE-DROPS-BOGOS-EVERY-TIME-TAYLOR-FRITZ-WINS-AS-HE-CHASES-HISTORY-IN-NEW-YORK)
+
+
+
+
+
+Chipotle is teaming up with superfan and top-ranked U.S. men's tennis player Taylor Fritz to launch "Every Win Tastes Better," giving fans a chance to score BUY-ONE-GET-ONE (BOGO) entrée offers...
+
+
+
+
+
+  - [Photos2Opens in new window](https://newsroom.chipotle.com/2026-08-24-CHIPOTLE-DROPS-BOGOS-EVERY-TIME-TAYLOR-FRITZ-WINS-AS-HE-CHASES-HISTORY-IN-NEW-YORK#assets_20295_122880-117)
+
+- [![](https://mmx.prnewswire.com/media/MS1971985/SalishPR_1-1.jpg?id=OA2895551&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-19-CHIPOTLE-LAUNCHES-THE-SALISH-MATTER-ORDER-INSPIRED-BY-ONE-OF-GEN-ALPHAS-BIGGEST-CELEBRITIES)
+
+
+
+Aug 19, 2026
+
+
+
+[CHIPOTLE LAUNCHES THE SALISH MATTER ORDER INSPIRED BY ONE OF GEN ALPHA'S BIGGEST CELEBRITIESOpens in new window](https://newsroom.chipotle.com/2026-08-19-CHIPOTLE-LAUNCHES-THE-SALISH-MATTER-ORDER-INSPIRED-BY-ONE-OF-GEN-ALPHAS-BIGGEST-CELEBRITIES)
+
+
+
+
+
+The Salish Matter Order features a Kid's Cheese Quesadilla with white rice, black beans and guac, served with kid's chips and chocolate milk, available exclusively in the Chipotle app and on...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-08-19-CHIPOTLE-LAUNCHES-THE-SALISH-MATTER-ORDER-INSPIRED-BY-ONE-OF-GEN-ALPHAS-BIGGEST-CELEBRITIES#assets_20295_122879-117)
+
+- [![](https://mmx.prnewswire.com/media/MS1970259/School-Spirit-Bogo-PR-with-Logo.jpg?id=OA2888412&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-17-CHIPOTLE-CELEBRATES-BACK-TO-SCHOOL-SEASON-WITH-SCHOOL-SPIRIT-BOGO-AND-CHIPOTLE-SUNDAYS-DEAL)
+
+
+
+Aug 17, 2026
+
+
+
+[CHIPOTLE CELEBRATES BACK-TO-SCHOOL SEASON WITH SCHOOL SPIRIT BOGO AND CHIPOTLE SUNDAYS DEALOpens in new window](https://newsroom.chipotle.com/2026-08-17-CHIPOTLE-CELEBRATES-BACK-TO-SCHOOL-SEASON-WITH-SCHOOL-SPIRIT-BOGO-AND-CHIPOTLE-SUNDAYS-DEAL)
+
+
+
+
+
+On Thursday, August 20, guests wearing school apparel or accessories can receive a BUY-ONE-GET-ONE (BOGO) entrée offer from 3 p.m. to close local time¹ at participating Chipotle restaurants. On...
+
+
+
+
+
+  - [Photos2Opens in new window](https://newsroom.chipotle.com/2026-08-17-CHIPOTLE-CELEBRATES-BACK-TO-SCHOOL-SEASON-WITH-SCHOOL-SPIRIT-BOGO-AND-CHIPOTLE-SUNDAYS-DEAL#assets_20295_122877-117)
+
+- [![](https://mmx.prnewswire.com/media/MS1969014/CHIPOTLE-MEXICAN-GRILL-New-Restaurant.jpg?id=OA2876403&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-13-CHIPOTLE-DEBUTS-IN-SAUDI-ARABIA-WITH-FIRST-RESTAURANT-IN-RIYADH)
+
+
+
+Aug 13, 2026
+
+
+
+[CHIPOTLE DEBUTS IN SAUDI ARABIA WITH FIRST RESTAURANT IN RIYADHOpens in new window](https://newsroom.chipotle.com/2026-08-13-CHIPOTLE-DEBUTS-IN-SAUDI-ARABIA-WITH-FIRST-RESTAURANT-IN-RIYADH)
+
+
+
+
+
+The opening at Sidra in Riyadh marks Chipotle's entry into the Kingdom and continues the brand's expansion across the Middle East with franchise partner Alshaya Group NEWPORT BEACH, Calif., Aug....
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-08-13-CHIPOTLE-DEBUTS-IN-SAUDI-ARABIA-WITH-FIRST-RESTAURANT-IN-RIYADH#assets_20295_122876-117)
+
+- [![](https://mmx.prnewswire.com/media/MS1967459/ChipotleIq_Sweepstakes_1920x1080.jpg?id=OA2854285&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-08-11-CHIPOTLE-IQ-RETURNS-WITH-MORE-THAN-1-MILLION-IN-FREE-CHIPOTLE,-PLUS-NEW-DAILY-STREAKS,-SILVER-TICKETS-AND-A-COLLECTIBLE-CARD-GAME)
+
+
+
+Aug 11, 2026
+
+
+
+[CHIPOTLE IQ RETURNS WITH MORE THAN $1 MILLION IN FREE CHIPOTLE, PLUS NEW DAILY STREAKS, SILVER TICKETS AND A COLLECTIBLE CARD GAMEOpens in new window](https://newsroom.chipotle.com/2026-08-11-CHIPOTLE-IQ-RETURNS-WITH-MORE-THAN-1-MILLION-IN-FREE-CHIPOTLE,-PLUS-NEW-DAILY-STREAKS,-SILVER-TICKETS-AND-A-COLLECTIBLE-CARD-GAME)
+
+
+
+
+
+From August 18 through August 20, Chipotle Rewards members can put their brand knowledge to the test for a chance to win BUY-ONE-GET-ONE (BOGO) free entrée codes, free Cilantro Lime Sauce offers,...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-08-11-CHIPOTLE-IQ-RETURNS-WITH-MORE-THAN-1-MILLION-IN-FREE-CHIPOTLE,-PLUS-NEW-DAILY-STREAKS,-SILVER-TICKETS-AND-A-COLLECTIBLE-CARD-GAME#assets_20295_122875-117)
+
+- Aug 5, 2026
+
+
+
+[A Statement from Chipotle on Food SafetyOpens in new window](https://newsroom.chipotle.com/2026-08-04-A-Statement-from-Chipotle-on-Food-Safety)
+
+
+
+
+
+The health and safety of our guests and employees is our highest priority. We have a robust ingredient traceability system and, upon learning of a potential Salmonella outbreak in the supply chain impacting wholesalers...
+
+- Jul 29, 2026
+
+
+
+[CHIPOTLE RAISES FULL YEAR COMPARABLE SALES GUIDANCE ON STRONG Q2 MOMENTUMOpens in new window](https://newsroom.chipotle.com/2026-07-29-CHIPOTLE-RAISES-FULL-YEAR-COMPARABLE-SALES-GUIDANCE-ON-STRONG-Q2-MOMENTUM)
+
+
+
+
+
+"RECIPE FOR GROWTH" STRATEGY YIELDS COMPARABLE RESTAURANT SALES OF 2.2% ON SECOND CONSECUTIVE QUARTER OF IMPROVING TRANSACTION COMP NEWPORT BEACH, Calif., July 29, 2026 /PRNewswire/ -- Chipotle...
+
+- [![](https://mmx.prnewswire.com/media/MS1958648/Chipotle-Mexican-Grill-National-Avocado-Day.jpg?id=OA2794606&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-07-27-CHIPOTLE-CELEBRATES-NATIONAL-AVOCADO-DAY-WITH-FREE-CHIPS-AND-GUAC)
+
+
+
+Jul 27, 2026
+
+
+
+[CHIPOTLE CELEBRATES NATIONAL AVOCADO DAY WITH FREE CHIPS AND GUACOpens in new window](https://newsroom.chipotle.com/2026-07-27-CHIPOTLE-CELEBRATES-NATIONAL-AVOCADO-DAY-WITH-FREE-CHIPS-AND-GUAC)
+
+
+
+
+
+For the first time ever, Chipotle is pairing free chips with its National Avocado Day guac offer and extending the celebration to two days Digital guests can score free chips and guac with an...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-07-27-CHIPOTLE-CELEBRATES-NATIONAL-AVOCADO-DAY-WITH-FREE-CHIPS-AND-GUAC#assets_20295_122872-117)
+
+- [![](https://mmx.prnewswire.com/media/MS1884012/1920x1080-Chipotle-Water-Break.jpg?id=OA2766770&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-07-16-CHIPOTLE-PUTS-A-NEW-TWIST-ON-SOCCERS-HYDRATION-BREAK-WITH-1-MILLION-IN-FREE-BURRITOS)
+
+
+
+Jul 16, 2026
+
+
+
+[CHIPOTLE PUTS A NEW TWIST ON SOCCER'S HYDRATION BREAK WITH $1 MILLION IN FREE BURRITOSOpens in new window](https://newsroom.chipotle.com/2026-07-16-CHIPOTLE-PUTS-A-NEW-TWIST-ON-SOCCERS-HYDRATION-BREAK-WITH-1-MILLION-IN-FREE-BURRITOS)
+
+
+
+
+
+During the second official hydration break of this summer's international tournament final on July 19, Chipotle will launch its first-ever Chipotle "Water" Break, giving viewers a chance to unlock...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-07-16-CHIPOTLE-PUTS-A-NEW-TWIST-ON-SOCCERS-HYDRATION-BREAK-WITH-1-MILLION-IN-FREE-BURRITOS#assets_20295_122871-117)
+
+- [![](https://mmx.prnewswire.com/media/MS1881435/Chipotle-Mexican-Grill.jpg?id=OA2759598&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-07-13-CHIPOTLE-ENTERS-MEXICO-WITH-FIRST-RESTAURANT-IN-NUEVO-LEON)
+
+
+
+Jul 13, 2026
+
+
+
+[CHIPOTLE ENTERS MEXICO WITH FIRST RESTAURANT IN NUEVO LEÓNOpens in new window](https://newsroom.chipotle.com/2026-07-13-CHIPOTLE-ENTERS-MEXICO-WITH-FIRST-RESTAURANT-IN-NUEVO-LEON)
+
+
+
+
+
+Chipotle and Alsea plan additional openings in Nuevo León this year and expansion into Mexico City in 2027 NEWPORT BEACH, Calif., July 13, 2026 /PRNewswire/ -- Chipotle Mexican Grill (NYSE: CMG)...
+
+
+
+
+
+  - [Photos2Opens in new window](https://newsroom.chipotle.com/2026-07-13-CHIPOTLE-ENTERS-MEXICO-WITH-FIRST-RESTAURANT-IN-NUEVO-LEON#assets_20295_122869-117)
+
+- [![2K Golfer](https://newsroom.chipotle.com/file.php/181036/2K+Golfer.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-07-08-CHIPOTLE-BRINGS-REAL-WORLD-FOOD-REWARDS-TO-PGA-TOUR-2K25-IN-FIRST-OF-ITS-KIND-QUEST-INTEGRATION)
+
+
+
+Jul 8, 2026
+
+
+
+[CHIPOTLE BRINGS REAL-WORLD FOOD REWARDS TO PGA TOUR 2K25 IN FIRST-OF-ITS-KIND QUEST INTEGRATIONOpens in new window](https://newsroom.chipotle.com/2026-07-08-CHIPOTLE-BRINGS-REAL-WORLD-FOOD-REWARDS-TO-PGA-TOUR-2K25-IN-FIRST-OF-ITS-KIND-QUEST-INTEGRATION)
+
+
+
+
+
+Chipotle’s new PGA TOUR 2K25 Quests will give players the chance to earn free food and unlock exclusive in-game gear1 The integration launches today with Season 7 of PGA TOUR 2K25 Chipotle will...
+
+
+
+
+
+  - [Photos3Opens in new window](https://newsroom.chipotle.com/2026-07-08-CHIPOTLE-BRINGS-REAL-WORLD-FOOD-REWARDS-TO-PGA-TOUR-2K25-IN-FIRST-OF-ITS-KIND-QUEST-INTEGRATION#assets_20295_122868-117)
+
+- [![](https://newsroom.chipotle.com/file.php/181031/Cultivate_Next.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-07-08-CHIPOTLES-CULTIVATE-NEXT-FUND-INVESTS-IN-SIX-EMERGING-COMPANIES-BUILDING-A-MORE-RESILIENT-FOOD-SYSTEM)
+
+
+
+Jul 8, 2026
+
+
+
+[CHIPOTLE’S CULTIVATE NEXT FUND INVESTS IN SIX EMERGING COMPANIES BUILDING A MORE RESILIENT FOOD SYSTEMOpens in new window](https://newsroom.chipotle.com/2026-07-08-CHIPOTLES-CULTIVATE-NEXT-FUND-INVESTS-IN-SIX-EMERGING-COMPANIES-BUILDING-A-MORE-RESILIENT-FOOD-SYSTEM)
+
+
+
+
+
+New investments support entrepreneurs working to advance food systems, climate resilience, regenerative agriculture, supply chain transparency, sustainability measurement and guest experience...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-07-08-CHIPOTLES-CULTIVATE-NEXT-FUND-INVESTS-IN-SIX-EMERGING-COMPANIES-BUILDING-A-MORE-RESILIENT-FOOD-SYSTEM#assets_20295_122867-117)
 
 - [![](https://newsroom.chipotle.com/file.php/181019/2XKO-+buy+get+2026+16x9_v2+copy_800.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-06-16-CHIPOTLE-AND-RIOT-GAMES-SERVE-UP-THEIR-BIGGEST-COLLABORATION-YET-WITH-FIRST-EVER-BRANDED-LOBBY-IN-2XKO)
 
@@ -1024,7 +1334,7 @@ For the 2025-26 school year, all student athletes at The Ohio State University, 
 
   - [Photos4Opens in new window](https://newsroom.chipotle.com/2025-08-27-CHIPOTLE-TEAMS-UP-WITH-ELITE-COLLEGE-ATHLETIC-PROGRAMS-TO-FUEL-STUDENT-ATHLETES-WITH-REAL-FOOD#assets_20295_122814-117)
 
-- [![](https://mma.prnewswire.com/media/2755858/Chipotle_BYOC_PR_Image.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2025-08-25-CHIPOTLE-INTRODUCES-A-WHOLE-NEW-WAY-TO-ORDER-FOR-A-SMALL-GROUP-BUILD-YOUR-OWN-CHIPOTLE)
+- [![](https://newsroom.chipotle.com/image/BYOC+PR_NO+TEXT_1000px.jpg)Opens in new window](https://newsroom.chipotle.com/2025-08-25-CHIPOTLE-INTRODUCES-A-NEW-WAY-TO-ORDER-FOR-SMALL-GROUPS-FAMILY-MEALS)
 
 
 
@@ -1032,7 +1342,7 @@ Aug 25, 2025
 
 
 
-[CHIPOTLE INTRODUCES A WHOLE NEW WAY TO ORDER FOR A SMALL GROUP: BUILD-YOUR-OWN CHIPOTLEOpens in new window](https://newsroom.chipotle.com/2025-08-25-CHIPOTLE-INTRODUCES-A-WHOLE-NEW-WAY-TO-ORDER-FOR-A-SMALL-GROUP-BUILD-YOUR-OWN-CHIPOTLE)
+[CHIPOTLE INTRODUCES A NEW WAY TO ORDER FOR SMALL GROUPS: FAMILY MEALSOpens in new window](https://newsroom.chipotle.com/2025-08-25-CHIPOTLE-INTRODUCES-A-NEW-WAY-TO-ORDER-FOR-SMALL-GROUPS-FAMILY-MEALS)
 
 
 
@@ -1044,7 +1354,7 @@ Aug 25, 2025
 
 
 
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2025-08-25-CHIPOTLE-INTRODUCES-A-WHOLE-NEW-WAY-TO-ORDER-FOR-A-SMALL-GROUP-BUILD-YOUR-OWN-CHIPOTLE#assets_20295_122813-117)
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2025-08-25-CHIPOTLE-INTRODUCES-A-NEW-WAY-TO-ORDER-FOR-SMALL-GROUPS-FAMILY-MEALS#assets_20295_122813-117)
 
 - [![](https://mma.prnewswire.com/media/2755028/Zipotle_Final_Photo.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2025-08-21-INTRODUCING-ZIPOTLE-CHIPOTLE-PARTNERS-WITH-ZIPLINE-FOR-AERIAL-DELIVERY)
 
@@ -1767,307 +2077,6 @@ Chipotle Mexican Grill (NYSE: CMG) announces the opening of its first restaurant
 
 
   - [Photos1Opens in new window](https://newsroom.chipotle.com/2024-10-02-CHIPOTLES-FIRST-RESTAURANT-OPENS-IN-DUBAI-WITH-ALSHAYA-GROUP#assets_20295_122776-117)
-
-- [![](https://mma.prnewswire.com/media/2509309/Chipotle_Quesadilla_Day.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2024-09-19-CHIPOTLE-IS-GIVING-AWAY-UP-TO-1-MILLION-IN-FREE-QUESADILLAS-FOR-NATIONAL-QUESADILLA-DAY)
-
-
-
-Sep 19, 2024
-
-
-
-[CHIPOTLE IS GIVING AWAY UP TO $1 MILLION IN FREE QUESADILLAS FOR NATIONAL QUESADILLA DAYOpens in new window](https://newsroom.chipotle.com/2024-09-19-CHIPOTLE-IS-GIVING-AWAY-UP-TO-1-MILLION-IN-FREE-QUESADILLAS-FOR-NATIONAL-QUESADILLA-DAY)
-
-
-
-
-
-The brand is giving fans a chance to score a BUY-ONE-ENTREE-GET-ONE-QUESADILLA (BOGO) offer1 starting September 23. On National Quesadilla Day, Chipotle will give away free quesadillas on...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2024-09-19-CHIPOTLE-IS-GIVING-AWAY-UP-TO-1-MILLION-IN-FREE-QUESADILLAS-FOR-NATIONAL-QUESADILLA-DAY#assets_20295_122775-117)
-
-- [![](https://mma.prnewswire.com/media/2505554/Chipotle_Mexican_Grill_Autocado.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2024-09-16-CHIPOTLE-DEBUTS-AUTOCADO-AND-THE-AUGMENTED-MAKELINE-BY-HYPHEN-IN-RESTAURANTS)
-
-
-
-Sep 16, 2024
-
-
-
-[CHIPOTLE DEBUTS AUTOCADO AND THE AUGMENTED MAKELINE BY HYPHEN IN RESTAURANTSOpens in new window](https://newsroom.chipotle.com/2024-09-16-CHIPOTLE-DEBUTS-AUTOCADO-AND-THE-AUGMENTED-MAKELINE-BY-HYPHEN-IN-RESTAURANTS)
-
-
-
-
-
-The company's cobots (collaborative robots) are assisting crew members in Chipotle restaurants for the first time Through its Cultivate Next venture fund, Chipotle has invested in Vebu, a product...
-
-
-
-
-
-  - [Photos2Opens in new window](https://newsroom.chipotle.com/2024-09-16-CHIPOTLE-DEBUTS-AUTOCADO-AND-THE-AUGMENTED-MAKELINE-BY-HYPHEN-IN-RESTAURANTS#assets_20295_122774-117)
-
-- [![](https://mma.prnewswire.com/media/2500965/Smoked_Brisket.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2024-09-10-CHIPOTLE-BRINGS-BACK-SMOKED-BRISKET-IN-THE-U-S-AND-CANADA)
-
-
-
-Sep 10, 2024
-
-
-
-[CHIPOTLE BRINGS BACK SMOKED BRISKET IN THE U.S. AND CANADAOpens in new window](https://newsroom.chipotle.com/2024-09-10-CHIPOTLE-BRINGS-BACK-SMOKED-BRISKET-IN-THE-U-S-AND-CANADA)
-
-
-
-
-
-Chipotle's Mexican-inspired, tender Smoked Brisket returns to the menu after three years. Fans can experience Smoked Brisket with a $0 delivery fee offer\* for a limited time. NEWPORT BEACH,...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2024-09-10-CHIPOTLE-BRINGS-BACK-SMOKED-BRISKET-IN-THE-U-S-AND-CANADA#assets_20295_122773-117)
-
-- Sep 4, 2024
-
-
-
-[CHIPOTLE MEXICAN GRILL TO ANNOUNCE THIRD QUARTER 2024 RESULTS ON OCTOBER 29, 2024Opens in new window](https://newsroom.chipotle.com/2024-09-04-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-THIRD-QUARTER-2024-RESULTS-ON-OCTOBER-29,-2024)
-
-
-
-
-
-Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Tuesday, October 29, 2024 at 4:30 PM Eastern time to discuss third quarter financial results and provide a business update for the...
-
-- [![](https://mma.prnewswire.com/media/2495813/Chipotle_Group_Line.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2024-09-04-CHIPOTLE-AND-SPIRIT-HALLOWEEN-BRING-MEMES-TO-LIFE-WITH-EXCLUSIVE-FIRST-EVER-COSTUME-COLLECTION)
-
-
-
-Sep 4, 2024
-
-
-
-[CHIPOTLE AND SPIRIT HALLOWEEN BRING MEMES TO LIFE WITH EXCLUSIVE FIRST-EVER COSTUME COLLECTIONOpens in new window](https://newsroom.chipotle.com/2024-09-04-CHIPOTLE-AND-SPIRIT-HALLOWEEN-BRING-MEMES-TO-LIFE-WITH-EXCLUSIVE-FIRST-EVER-COSTUME-COLLECTION)
-
-
-
-
-
-On September 6, the restaurant brand is dropping its inaugural costume collection featuring a Chipotle napkin, fork, water cup, burrito, and to-go bag, available exclusively at SpiritHalloween.com...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2024-09-04-CHIPOTLE-AND-SPIRIT-HALLOWEEN-BRING-MEMES-TO-LIFE-WITH-EXCLUSIVE-FIRST-EVER-COSTUME-COLLECTION#assets_20295_122771-117)
-
-- [![](https://mma.prnewswire.com/media/2492193/OSU_PR1.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2024-08-29-CHIPOTLE-TEAMS-UP-WITH-THE-OHIO-STATE-UNIVERSITY-TO-FUEL-BUCKEYE-ATHLETES-WITH-REAL-FOOD)
-
-
-
-Aug 29, 2024
-
-
-
-[CHIPOTLE TEAMS UP WITH THE OHIO STATE UNIVERSITY TO FUEL BUCKEYE ATHLETES WITH REAL FOODOpens in new window](https://newsroom.chipotle.com/2024-08-29-CHIPOTLE-TEAMS-UP-WITH-THE-OHIO-STATE-UNIVERSITY-TO-FUEL-BUCKEYE-ATHLETES-WITH-REAL-FOOD)
-
-
-
-
-
-For the 2024-25 school year, every scholarship and walk-on student athlete at The Ohio State University will receive a customized card granting them free Chipotle for the entirety of their...
-
-
-
-
-
-  - [Photos2Opens in new window](https://newsroom.chipotle.com/2024-08-29-CHIPOTLE-TEAMS-UP-WITH-THE-OHIO-STATE-UNIVERSITY-TO-FUEL-BUCKEYE-ATHLETES-WITH-REAL-FOOD#assets_20295_122770-117)
-
-- [![](https://mma.prnewswire.com/media/2491961/Adam_Rymer_Chipotle.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2024-08-28-CHIPOTLE-ACCELERATES-THE-APPOINTMENT-OF-ADAM-RYMER-TO-CFO-AND-JAMIE-MCCONNELL-TO-CHIEF-ACCOUNTING-AND-ADMINISTRATIVE-OFFICER)
-
-
-
-Aug 28, 2024
-
-
-
-[CHIPOTLE ACCELERATES THE APPOINTMENT OF ADAM RYMER TO CFO AND JAMIE MCCONNELL TO CHIEF ACCOUNTING AND ADMINISTRATIVE OFFICEROpens in new window](https://newsroom.chipotle.com/2024-08-28-CHIPOTLE-ACCELERATES-THE-APPOINTMENT-OF-ADAM-RYMER-TO-CFO-AND-JAMIE-MCCONNELL-TO-CHIEF-ACCOUNTING-AND-ADMINISTRATIVE-OFFICER)
-
-
-
-
-
-Former CFO Jack Hartung to remain with the organization indefinitely as President and Chief Strategy Officer, beginning October 1, 2024 15-year Chipotle veteran, Rymer, and 6-year veteran,...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2024-08-28-CHIPOTLE-ACCELERATES-THE-APPOINTMENT-OF-ADAM-RYMER-TO-CFO-AND-JAMIE-MCCONNELL-TO-CHIEF-ACCOUNTING-AND-ADMINISTRATIVE-OFFICER#assets_20295_122769-117)
-
-- [![](https://mma.prnewswire.com/media/2489998/Chipotle_Honey_Chicken.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2024-08-27-CHIPOTLE-TESTS-CHIPOTLE-HONEY-CHICKEN-IN-SELECT-MARKETS)
-
-
-
-Aug 27, 2024
-
-
-
-[CHIPOTLE TESTS CHIPOTLE HONEY CHICKEN IN SELECT MARKETSOpens in new window](https://newsroom.chipotle.com/2024-08-27-CHIPOTLE-TESTS-CHIPOTLE-HONEY-CHICKEN-IN-SELECT-MARKETS)
-
-
-
-
-
-The new, limited time protein is available now in Nashville and Sacramento NEWPORT BEACH, Calif., Aug. 27, 2024 /PRNewswire/ -- Chipotle Mexican Grill (NYSE: CMG) today announced it is testing...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2024-08-27-CHIPOTLE-TESTS-CHIPOTLE-HONEY-CHICKEN-IN-SELECT-MARKETS#assets_20295_122768-117)
-
-- [![](https://mma.prnewswire.com/media/2484000/Chipotle_IQ.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2024-08-19-CALLING-ALL-SCHOLARS-CHIPOTLE-IQ-IS-BACK-WITH-MORE-THAN-1-MILLION-IN-BOGOS-AND-FREE-BURRITOS)
-
-
-
-Aug 19, 2024
-
-
-
-[CALLING ALL SCHOLARS! CHIPOTLE IQ IS BACK WITH MORE THAN $1 MILLION IN BOGOS AND FREE BURRITOSOpens in new window](https://newsroom.chipotle.com/2024-08-19-CALLING-ALL-SCHOLARS-CHIPOTLE-IQ-IS-BACK-WITH-MORE-THAN-1-MILLION-IN-BOGOS-AND-FREE-BURRITOS)
-
-
-
-
-
-Chipotle Rewards members in the U.S. and Canada can play daily from Tuesday, August 20 through Thursday, August 22 for the opportunity to win a BUY-ONE-GET-ONE free entrée code\* Superfans can...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2024-08-19-CALLING-ALL-SCHOLARS-CHIPOTLE-IQ-IS-BACK-WITH-MORE-THAN-1-MILLION-IN-BOGOS-AND-FREE-BURRITOS#assets_20295_122767-117)
-
-- Aug 13, 2024
-
-
-
-[CHIPOTLE ANNOUNCES CEO DEPARTUREOpens in new window](https://newsroom.chipotle.com/2024-08-13-CHIPOTLE-ANNOUNCES-CEO-DEPARTURE)
-
-
-
-
-
-SCOTT BOATWRIGHT, COO AND 7-YEAR CHIPOTLE VETERAN, NAMED INTERIM CEO JACK HARTUNG TO REMAIN WITH COMPANY AS PRESIDENT, STRATEGY, FINANCE & SUPPLY CHAIN NEWPORT BEACH, Calif., Aug. 13, 2024 /PRNewswire
-
-- [![](https://mma.prnewswire.com/media/2470210/Lipotle_PR_Asset.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2024-07-29-CHIPOTLE-AND-WONDERSKIN-LAUNCH-LIPOTLE-LIP-STAIN-IN-CELEBRATION-OF-NATIONAL-AVOCADO-DAY)
-
-
-
-Jul 29, 2024
-
-
-
-[CHIPOTLE AND WONDERSKIN LAUNCH 'LIPOTLE' LIP STAIN IN CELEBRATION OF NATIONAL AVOCADO DAYOpens in new window](https://newsroom.chipotle.com/2024-07-29-CHIPOTLE-AND-WONDERSKIN-LAUNCH-LIPOTLE-LIP-STAIN-IN-CELEBRATION-OF-NATIONAL-AVOCADO-DAY)
-
-
-
-
-
-Chipotle and Wonderskin are making burrito-proof lip stain dreams come true with 'Lipotle,' a new, limited-edition green Wonder Blading Peel and Reveal Lip Stain Kit launching on Tuesday, July 30...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2024-07-29-CHIPOTLE-AND-WONDERSKIN-LAUNCH-LIPOTLE-LIP-STAIN-IN-CELEBRATION-OF-NATIONAL-AVOCADO-DAY#assets_20295_122765-117)
-  - [Video1Opens in new window](https://newsroom.chipotle.com/2024-07-29-CHIPOTLE-AND-WONDERSKIN-LAUNCH-LIPOTLE-LIP-STAIN-IN-CELEBRATION-OF-NATIONAL-AVOCADO-DAY#assets_20295_122765-115)
-
-- Jul 24, 2024
-
-
-
-[CHIPOTLE ANNOUNCES SECOND QUARTER 2024 RESULTSOpens in new window](https://newsroom.chipotle.com/2024-07-24-CHIPOTLE-ANNOUNCES-SECOND-QUARTER-2024-RESULTS)
-
-
-
-
-
-COMPARABLE SALES INCREASE 11% DRIVEN BY OVER 8% TRANSACTION GROWTH AS MARGINS EXPAND NEWPORT BEACH, Calif., July 24, 2024 /PRNewswire/ -- Chipotle Mexican Grill, Inc. (NYSE: CMG) today reported...
-
-- [![](https://newsroom.chipotle.com/file.php/180290/Chipotle_Beverage_Assortment-1000px.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2024-07-22-CHIPOTLE-QUENCHES-SUMMERTIME-THIRST-WITH-NEW-BEVERAGE-LINEUP)
-
-
-
-Jul 22, 2024
-
-
-
-[CHIPOTLE QUENCHES SUMMERTIME THIRST WITH NEW BEVERAGE LINEUP Opens in new window](https://newsroom.chipotle.com/2024-07-22-CHIPOTLE-QUENCHES-SUMMERTIME-THIRST-WITH-NEW-BEVERAGE-LINEUP)
-
-
-
-
-
-The brand unveils its refreshed ready-to-drink beverage lineup featuring poppi, Open Water, and Coke Zero NEWPORT BEACH, Calif., July 22, 2024 —Chipotle Mexican Grill (NYSE: CMG) today announced...
-
-
-
-
-
-  - [Photos3Opens in new window](https://newsroom.chipotle.com/2024-07-22-CHIPOTLE-QUENCHES-SUMMERTIME-THIRST-WITH-NEW-BEVERAGE-LINEUP#assets_20295_122763-117)
-
-- [![](https://mma.prnewswire.com/media/2457506/Chipotle_CFO_Jack_Hartung.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2024-07-09-CHIPOTLE-ANNOUNCES-RETIREMENT-OF-CFO-JACK-HARTUNG-IN-2025)
-
-
-
-Jul 9, 2024
-
-
-
-[CHIPOTLE ANNOUNCES RETIREMENT OF CFO JACK HARTUNG IN 2025Opens in new window](https://newsroom.chipotle.com/2024-07-09-CHIPOTLE-ANNOUNCES-RETIREMENT-OF-CFO-JACK-HARTUNG-IN-2025)
-
-
-
-
-
-Chipotle Mexican Grill (NYSE: CMG) today announced that after nearly 25 years with the company, Jack Hartung has decided to retire, effective March 31, 2025. Hartung has served as Chief Financial...
-
-
-
-
-
-  - [Photos3Opens in new window](https://newsroom.chipotle.com/2024-07-09-CHIPOTLE-ANNOUNCES-RETIREMENT-OF-CFO-JACK-HARTUNG-IN-2025#assets_20295_122762-117)
-
-- [![](https://mma.prnewswire.com/media/2451560/team_chipotle_2024.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2024-07-01-TEAM-CHIPOTLE-RETURNS-WITH-A-NEW-LIMITED-TIME-MENU-FEATURING-THE-GO-TO-ORDERS-FOR-AMERICAS-TOP-ATHLETES)
-
-
-
-Jul 1, 2024
-
-
-
-["TEAM CHIPOTLE" RETURNS WITH A NEW LIMITED-TIME MENU FEATURING THE GO-TO ORDERS FOR AMERICA'S TOP ATHLETESOpens in new window](https://newsroom.chipotle.com/2024-07-01-TEAM-CHIPOTLE-RETURNS-WITH-A-NEW-LIMITED-TIME-MENU-FEATURING-THE-GO-TO-ORDERS-FOR-AMERICAS-TOP-ATHLETES)
-
-
-
-
-
-Anthony Edwards, Sophia Smith, Taylor Fritz, Sara Hughes, and Jagger Eaton will have their favorite orders featured on the Chipotle app and Chipotle.com as limited-edition menu items Chipotle has...
-
-
-
-
-
-  - [Photos2Opens in new window](https://newsroom.chipotle.com/2024-07-01-TEAM-CHIPOTLE-RETURNS-WITH-A-NEW-LIMITED-TIME-MENU-FEATURING-THE-GO-TO-ORDERS-FOR-AMERICAS-TOP-ATHLETES#assets_20295_122761-117)
 
 Show
 
