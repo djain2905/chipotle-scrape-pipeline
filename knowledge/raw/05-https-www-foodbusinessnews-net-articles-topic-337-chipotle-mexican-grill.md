@@ -1,7 +1,7 @@
 ---
 title: Chipotle Mexican Grill - Articles - Food Business News
 url: https://www.foodbusinessnews.net/articles/topic/337-chipotle-mexican-grill
-scraped_at: 2026-08-31T12:20:04
+scraped_at: 2026-09-07T11:13:34
 ---
 
 [Skip To Content](https://www.foodbusinessnews.net/articles/topic/337-chipotle-mexican-grill#skip-target)
@@ -163,13 +163,13 @@ Sep
 
 # Popular Articles
 
+- # [Barilla expands pasta portfolio with Goodles acquisition](https://www.foodbusinessnews.net/articles/30946-barilla-expands-pasta-portfolio-with-goodles-acquisition)
+
 - # [Avocado oil claims coming under fire](https://www.foodbusinessnews.net/articles/30902-avocado-oil-claims-coming-under-fire)
 
 - # [Mondelez bringing Grenade to the US](https://www.foodbusinessnews.net/articles/30892-mondelez-bringing-grenade-to-the-us)
 
-- # [Ferrero Group acquiring another cereal company](https://www.foodbusinessnews.net/articles/30853-ferrero-group-acquiring-another-cereal-company)
-
-- # [Mondelez to launch three new Oreo flavors](https://www.foodbusinessnews.net/articles/30840-mondelez-to-launch-three-new-oreo-flavors)
+- # [How high can whey prices go?](https://www.foodbusinessnews.net/articles/30880-how-high-can-whey-prices-go)
 
 
 # Popular Galleries
