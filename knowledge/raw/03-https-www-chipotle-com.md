@@ -1,44 +1,44 @@
 ---
 title: Chipotle — Order Now
 url: https://www.chipotle.com/
-scraped_at: 2026-08-17T06:38:05
+scraped_at: 2026-09-14T11:23:42
 ---
 
 [ENABLE ACCESSIBILITY](https://www.chipotle.com/#)
 
-A video compilation showing the process of making Chipotle Honey chicken starting with Chipotle’s signature hot honey on a honey dipper, chipotle chili peppers firing on the grill, freshly grilled Chipotle Honey Chicken on the grill, and finished with a Chipotle Honey Chicken Burrito Bowl with White Rice, Black Beans, Fresh Tomato Salsa, Fajita Veggies, Monterey Jack Cheese, and hand-mashed Guacamole.
+Chipotle Pollo Asado is Back
 
-A video compilation showing the process of making Chipotle Honey chicken starting with Chipotle’s signature hot honey on a honey dipper, chipotle chili peppers firing on the grill, freshly grilled Chipotle Honey Chicken on the grill, and finished with a Chipotle Honey Chicken Burrito Bowl with White Rice, Black Beans, Fresh Tomato Salsa, Fajita Veggies, Monterey Jack Cheese, and hand-mashed Guacamole.
+Chipotle Pollo Asado is Back
 
-CHIPOTLE HONEY
+ALL-NEW
 
-CHICKEN
+POLLO ASADO
 
-CHIPOTLE HEAT WITH A TOUCH OF SWEET
+& CHILI LIME CHIPS
 
-**Freshly grilled chicken marinated with**
+**New flavor lineup just dropped: freshly**
 
-**chipotle peppers and a touch of pure**
+**grilled chicken, hand-seasoned chips,**
 
-**honey is back to kick off summer.**
+**and real lime bringing bright, bold flavor.**
 
-**CHIPOTLE HONEY**
+ALL-NEW
 
-CHICKEN
+**POLLO ASADO**
 
-CHIPOTLE HEAT WITH A TOUCH OF SWEET
+**& CHILI LIME CHIPS**
 
-**Freshly grilled chicken marinated with**
+**New flavor lineup just dropped: freshly**
 
-**chipotle peppers and a touch of pure**
+**grilled chicken, hand-seasoned chips, and**
 
-**honey is back to kick off summer.**
+**real lime bringing bright, bold flavor.**
 
 [ORDER NOW](https://www.chipotle.com/#menu) [ORDER NOW](https://www.chipotle.com/#menu)
 
-![Chipotle Summer of Extras](https://www.chipotle.com/adobe/dynamicmedia/deliver/dm-aid--e81826f5-3b5e-4ef7-8748-395f102d50a9/summer-of-extras-2026-logo-340x340.png?preferwebp=true&quality=85)
+![Chipotle Pepper medallion](https://www.chipotle.com/adobe/dynamicmedia/deliver/dm-aid--84b9659a-f78f-49bb-9c7d-2f762547479e/medallion-fluted-2x.png?quality=85&preferwebp=true)
 
-EARN EXTRA POINTS, EXTRA BADGES, & EXTRA ENTREES
+JOIN CHIPOTLE REWARDS. UNLOCK FREE CHIPOTLE.
 
 JOIN REWARDS
 
@@ -110,61 +110,65 @@ Chips & Sides
 
 Order
 
-![High protein chipotle summer 2026](https://www.chipotle.com/content/dam/chipotle/menu-item-campaigns/high-protein/2026/secondary-touts/D-HighProtein%20CHC%20Secondary%20Tout@2x.jpg)![High protein chipotle summer 2026](https://www.chipotle.com/content/dam/chipotle/menu-item-campaigns/high-protein/2026/secondary-touts/M-HighProtein%20CHC%20Secondary%20Tout@2x.jpg)
+back to school giftcards Chipotle 2026
 
-IT’S A HIGH
+back to school giftcards Chipotle 2026
 
-PROTEIN
+GO BACK TO
 
-SUMMER
-
-Fresh off the grill and packed with real protein, the High Protein Menu is the easiest way to keep your summer glow going. From the High Protein Cup to the Double High Protein Bowl, it’s real protein you want to eat.
-
-IT’S A HIGH PROTEIN
-
-SUMMER
-
-Fresh off the grill and packed with real protein, the High Protein Menu is the easiest way to keep your summer glow going. From the High Protein Cup to the Double High Protein Bowl, it’s real protein you want to eat.
-
-[ORDER NOWORDER NOW](https://www.chipotle.com/#menu)
-
-![High protein chipotle summer 2026](https://www.chipotle.com/content/dam/chipotle/menu-item-campaigns/high-protein/2026/secondary-touts/D-HighProtein%20CHC%20Secondary%20Tout@2x.jpg)![High protein chipotle summer 2026](https://www.chipotle.com/content/dam/chipotle/menu-item-campaigns/high-protein/2026/secondary-touts/M-HighProtein%20CHC%20Secondary%20Tout@2x.jpg)
-
-Honey Chicken is back at Chipotle Mexican Grill
-
-Honey Chicken is back at Chipotle Mexican Grill
+SCHOOL WITH
 
 CHIPOTLE
 
-HONEY CHICKEN
+Send them back to school with a Chipotle Gift Card—perfect for powering through lectures, study sessions, and everything after class.
 
-IS BACK
+GO BACK TO SCHOOL
 
-Chipotle Honey Chicken is back on the grill. Experience freshly grilled chicken marinated with chipotle peppers and a touch of pure honey just in time for summer.
+WITH CHIPOTLE
 
-CHIPOTLE HONEY
+Send them back to school with a Chipotle Gift Card—perfect for powering through lectures, study sessions, and everything after class.
 
-CHICKEN IS BACK
+[SHOP GIFT CARDSSHOP GIFT CARDS](https://www.chipotle.com/gift-cards)
 
-Chipotle Honey Chicken is back on the grill. Experience freshly grilled chicken marinated with chipotle peppers and a touch of pure honey just in time for summer.
+back to school giftcards Chipotle 2026
+
+back to school giftcards Chipotle 2026
+
+Guacamole at Chipotle
+
+Guacamole at Chipotle
+
+WE START
+
+WITH 48
+
+PERFECT
+
+AVOCADOS
+
+Our hand-mashed guac starts with whole, ripe avocados and is freshly made all day long so it always adds a little something extra to your bowl.
+
+WE START WITH 48 PERFECT AVOCADOS
+
+Our hand-mashed guac starts with whole, ripe avocados and is freshly made all day long so it always adds a little something extra to your bowl.
 
 [ORDER NOWORDER NOW](https://www.chipotle.com/#menu)
 
-Honey Chicken is back at Chipotle Mexican Grill
+Guacamole at Chipotle
 
-Honey Chicken is back at Chipotle Mexican Grill
+Guacamole at Chipotle
+
+![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/3916248a-68fd-4c0f-87e9-38d794e50d7e/79cd3ae5-9808-460d-910e-f2199e2bd314.jpg)
+
+Bardi Bowl with Chili Lime Chips
 
 ![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/ead6de63-d046-4795-a80c-490f10c285bd/1c709376-bad9-492f-807b-d99c750e4aeb.jpg)
 
 Sam's High Protein Tacos
 
-![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/ec59f2f3-0c3f-4082-82af-ca58727f3e9f/56cdb1e0-b6e0-4020-88f6-cd2ddb1693e5.jpg)
+![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/24f4ed41-7f7c-4eb9-8559-bd2662610c36/c9046315-27d7-452d-95e8-c2b00a6daa90.jpg)
 
-Josh Hart's High Protein Burrito
-
-![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/f3038bca-5c62-4900-b33a-717650d03467/d67a7ba7-e2fc-45ad-adf7-399e0582f32c.jpg)
-
-Mikal Bridges High Protein Bowl
+Pollo Asado Burrito Bowl
 
 # CROWD PLEASERS
 
@@ -206,5 +210,3 @@ GROUP ORDER
 - **Order and eat today**
 
 [START A GROUP ORDER](https://www.chipotle.com/order/group/create)
-
-Chipotle — Order Now

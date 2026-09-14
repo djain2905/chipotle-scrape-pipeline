@@ -1,15 +1,10 @@
 ---
-title: Chipotle is testing these 5 things to bring back buzz
+title: Chipotle is testing these 5 things to bring back buzz | Restaurant Dive
 url: https://www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/
-scraped_at: 2026-08-24T06:40:45
+scraped_at: 2026-09-14T11:23:42
 ---
 
 [Skip to main content](https://www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/#skip-link-target)
-
-![Restaurant Dive](https://d12v9rtnomnebu.cloudfront.net/logo/publications/restaurant_black.svg)
-
-CONTINUE TO SITE ➞
-
 
 # Don’t miss tomorrow’s restaurant industry news
 
@@ -143,21 +138,21 @@ The biggest concern has been if Chipotle could scale catering. Competitors have 
 
 ### Read More in Menu Development
 
-[![A triptych collage of images show teen creator Salish Matter enjoying Chipotle](https://imgproxy.divecdn.com/BPTy-wCLG7m3Obc0sK0XHoC-0C7qK3tE-mUfWBSZd3k/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jMzBSTVIydy5qcGVn.webp)](https://www.restaurantdive.com/news/chipotle-broadens-gen-alpha-marketing-strategy-with-salish-matter-collab/828234/) Aug. 19, 2026 [Chipotle broadens Gen Alpha marketing with Salish Matter collab](https://www.restaurantdive.com/news/chipotle-broadens-gen-alpha-marketing-strategy-with-salish-matter-collab/828234/)
+[![A close up shot of a burger with two patties.](https://imgproxy.divecdn.com/ksf8R6qfQgfgimXgfaGZMxOco8jpcG3NBCBRxGsiHu8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DSl9Bbmd1cy1NYXhpbXVzX1BSLVN0dW50XzI3MDB4MTgwMC5qcGc=.webp)](https://www.restaurantdive.com/news/carls-jr-cooked-order-initiative-angus-maximus-food-quality/829947/) Sept. 10, 2026 [Carl’s Jr institutes cook-to-order standard](https://www.restaurantdive.com/news/carls-jr-cooked-order-initiative-angus-maximus-food-quality/829947/)
 
-[![A photograph of two boxes on a table with various breakfast food items in aluminum pans.](https://imgproxy.divecdn.com/WweZF0ezw2-mGrA7tFpUwSRwr5GeYCXMZ5MAoOxouiE/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DYXRlcmluZ0JveF9PZmZpY2VfTm9TeXVycC5qcGc=.webp)](https://www.restaurantdive.com/news/dennys-expands-catering-ezcater-partnership/828051/) Aug. 18, 2026 [Denny’s launches catering](https://www.restaurantdive.com/news/dennys-expands-catering-ezcater-partnership/828051/)
+[![A sign that says "Since 1956 Jersey Miek's Subs"](https://imgproxy.divecdn.com/cowRLApftvMsQO1d2QzYi90HBDNMAjQg3SMn3HK-_dA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTQxNjIzMzYxLmpwZw==.webp)](https://www.restaurantdive.com/news/jersey-mikes-development-uk-debut-operations-loyalty/829907/) Sept. 9, 2026 [4 key numbers shed light on Jersey Mike’s strategy](https://www.restaurantdive.com/news/jersey-mikes-development-uk-debut-operations-loyalty/829907/)
 
-[![An iamge of a stoneworked building with a white logo that says Olive Garden. A woman wearing a white shirt and red bandana is at the door about to enter the restaurant.](https://imgproxy.divecdn.com/KKTzIHF0pzwOO48mIcv5w-0azJC73spl3qQky28X4y0/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTAwNjY2MDkyXzAxWDVNU3guanBn.webp)](https://www.restaurantdive.com/news/loyalty-lessons-learned-from-olive-gardens-pasta-pass/827655/) Aug. 17, 2026 [Loyalty lessons learned from Olive Garden’s pasta pass](https://www.restaurantdive.com/news/loyalty-lessons-learned-from-olive-gardens-pasta-pass/827655/)
+[![Heads of iceberg lettuce in a grocery store.](https://imgproxy.divecdn.com/gbUvC9Jc81_VD8nSxMC0EaPTXIS5Mn8MGVD9ncpMrQg/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pY2ViZXJnLWxldHR1Y2UuanBn.webp)](https://www.restaurantdive.com/news/cyclospora-lettuce-parasite-taylor-farms-taco-bell-lessons-learned/829131/) Sept. 3, 2026 [Can restaurants avoid the next Cyclospora outbreak?](https://www.restaurantdive.com/news/cyclospora-lettuce-parasite-taylor-farms-taco-bell-lessons-learned/829131/)
 
-[![Three flatbreads](https://imgproxy.divecdn.com/cQfTVxImq6b-9L_bIY7pZz-qYB6z15VNpoEQklwrWXw/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TS00yNl9CUk5EX0ZsYXRicmVhZFBSLmpwZw==.webp)](https://www.restaurantdive.com/news/smoothie-king-flatbreads-july-sales-growth/827815/) Aug. 14, 2026 [Smoothie King sales soar after flatbread launch](https://www.restaurantdive.com/news/smoothie-king-flatbreads-july-sales-growth/827815/)
+[![Three pumpkin themed coffee drinks from Starbucks. Two are iced, one is hot and has whipped cream.](https://imgproxy.divecdn.com/ovHy_MpYryDPdx3UhAfyw2S2Z544Uxkqalb2mCTrE7Q/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TQlgyMDI1MDcxOF9TdGFyYnVja3NfRmFsbF9QdW1wa2luQmV2ZXJhZ2VzLmpwZw==.webp)](https://www.restaurantdive.com/news/starbucks-pumpkin-spice-latte-launch-sales-win/829268/) Sept. 1, 2026 [Starbucks’ pumpkin spice launch breaks records, again](https://www.restaurantdive.com/news/starbucks-pumpkin-spice-latte-launch-sales-win/829268/)
 
-[![A close up photograph of a plastic cup with a green-blue liquid under pink liquid. The cup sits between two aluminum cans with Red Bull branding.](https://imgproxy.divecdn.com/9rLoyiBteA5eA_kQSlF-OWuShL7_Xxl01ejNMOKrHxA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQ0ROQkVWVDAwMDNfMjZfTWNDYWZlX0JldnNfU29jaWFsX1JlZEJ1bGxfRHJhbmdvbmJlcnJ5X1plcm9FbmVyZ2l6ZXJfUFJfS1ZfMTlfaW82NHdydS5qcGc=.webp)](https://www.restaurantdive.com/news/mcdonalds-expands-mccafe-drink-menu-energy-drinks/827531/) Aug. 11, 2026 [McDonald’s rolls out Red Bull energy drinks](https://www.restaurantdive.com/news/mcdonalds-expands-mccafe-drink-menu-energy-drinks/827531/)
+[![A photo collage shows content creators with food from Chipotle](https://imgproxy.divecdn.com/SIpyfk5vKUFZzIuYrsU0_99nG1DBD6EvzncVhe5PcrI/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wRTV1OXdnUS5qcGVn.webp)](https://www.restaurantdive.com/news/chipotle-deploys-100-creators-for-latest-ads-spotlighting-fresh-food/829234/) Sept. 1, 2026 [Chipotle deploys 100 creators for latest ads spotlighting fresh food](https://www.restaurantdive.com/news/chipotle-deploys-100-creators-for-latest-ads-spotlighting-fresh-food/829234/)
 
-[![Three rectangular pizzas with Domino's brand packaging.](https://imgproxy.divecdn.com/DyFUzdLgg0emHo0gME3e_nCspoqYfIwnQEDPS6oOu7E/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Eb21pbm9fR3JvdXBfU2hvdC5qcGc=.webp)](https://www.restaurantdive.com/news/dominos-rectangular-detroit-domino-pizza-launch/827444/) Aug. 11, 2026 [Domino’s adds rectangular personal pizza](https://www.restaurantdive.com/news/dominos-rectangular-detroit-domino-pizza-launch/827444/)
+[![Domino's](https://imgproxy.divecdn.com/d6MrMzEhTDzI2fOIfG6iZcyu4mQ1J1D_c_l4_HJ0epc/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ET01JTk9fU2hhcmVJbWFnZS0xLnBuZw==.webp)](https://www.restaurantdive.com/news/how-dominos-is-taking-on-the-big-mac-whopper-and-other-fast-food-icons/829148/) Aug. 31, 2026 [How Domino’s is taking on the Big Mac, Whopper and other fast-food icons](https://www.restaurantdive.com/news/how-dominos-is-taking-on-the-big-mac-whopper-and-other-fast-food-icons/829148/)
 
-[![Wendy's](https://imgproxy.divecdn.com/LszkxrVLKy3d6k5m8oD_Wc04haoiJAbFVBvGX_aL2Yk/g:nowe:0:81/c:4032:2277/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyMTA3MTVfMjIwNjU2OTgxLmpwZw==.webp)](https://www.restaurantdive.com/news/wendys-evaluating-future-breakfast-menu/827356/) Aug. 10, 2026 [Some Wendy’s franchisees cut breakfast, and it’s hurting traffic](https://www.restaurantdive.com/news/wendys-evaluating-future-breakfast-menu/827356/)
+[![A cup of Starbucks Pumpkin Spice Latte is held up in front of overlay text that reads: "There's Only One Pumpkin Spice Latte"](https://imgproxy.divecdn.com/oe0y7I2Fr5hQJ7FqTl-Vvznf01-6TNdNf941KsivBms/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UaGVfT25lX2FuZF9Pbmx5Xy1fWW91VHViZV9UaHVtYm5haWwuanBn.webp)](https://www.restaurantdive.com/news/is-starbucks-pumpkin-spice-latte-basic-martha-stewart-answers-in-new-ad/829012/) Aug. 28, 2026 [Is Starbucks’ Pumpkin Spice Latte ‘basic’? Martha Stewart answers in new ads](https://www.restaurantdive.com/news/is-starbucks-pumpkin-spice-latte-basic-martha-stewart-answers-in-new-ad/829012/)
 
-[![QDOBA Burrito](https://imgproxy.divecdn.com/OsqD7VdG2ssoiTw6w0Dpk54E96MvJ6Zhf6CGwIzg_0M/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9RRE9CQV9CdXJyaXRvLmpwZw==.webp)](https://www.restaurantdive.com/news/chipotle-qdoba-sweetgreen-salmonella-jalapeno-outbreak/827360/) Aug. 7, 2026 [Jalapeños served at Qdoba, Chipotle tied to Salmonella outbreak](https://www.restaurantdive.com/news/chipotle-qdoba-sweetgreen-salmonella-jalapeno-outbreak/827360/)
+[![Four Cold Brews, three with flavored cold foam toppings.](https://imgproxy.divecdn.com/ZKoiNk_NjglMjF6b7aLWySuIRqv2FRkG5agiNkCbnsQ/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9FNl8yNl9MTUNfQ29sZEJyZXdzX1BSLUZ1bGxMaW5ldXAtcG5nLmpwZw==.webp)](https://www.restaurantdive.com/news/nra-dirty-soda-coffee-beverage-only-gen-z-occasions/828942/) Aug. 27, 2026 [How Gen Z, millennials drive beverage-only restaurant visits](https://www.restaurantdive.com/news/nra-dirty-soda-coffee-beverage-only-gen-z-occasions/828942/)
 
 [Want to see more stories in **Menu Development**?\\
 \\
@@ -224,53 +219,19 @@ Sign upA valid email address is required.Please select at least one newsletter.
 
 ### Editors’ picks
 
-- [![](https://imgproxy.divecdn.com/7Gbx31vRmRuBfAFQojYlt1Cfdeg9WARLAAq4jIHYt9Y/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02ODgwNTY3ODQuanBn.webp)](https://www.restaurantdive.com/news/how-6-restaurant-giants-are-hiking-menu-prices/636593/)![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
+- [![An image of a next gen Dunkin' in Woodstock, Georgia.](https://imgproxy.divecdn.com/tfYK_8455kADz4hSg7lPigyiXnAQdlShIS93a1Pch00/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EdW5raW5fbmV4dF9nZW5fdW5pdC5qcGc=.webp)](https://www.restaurantdive.com/news/did-dunkin-get-it-wrong-with-coffee-discount-loyalty-shakeup/635311/)![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
 
-yaoinlove via Getty Images
-
-![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
-
-
-
-### [How 6 restaurant giants are hiking menu prices](https://www.restaurantdive.com/news/how-6-restaurant-giants-are-hiking-menu-prices/636593/)
-
-
-
-Brands like Chipotle, McDonald’s and Starbucks are walking a tightrope — charge enough to protect the bottom line without alienating customers.
-
-
-
-
-
-
-
-By Emma Liem Beckett and Julie Littman •
-
-
-
-
-
-
-
-Nov. 15, 2022
-
-- [![Starbucks Workers United / Starbucks pro-union employees](https://imgproxy.divecdn.com/mzAGB_BTYX_DO_JGmmlkUzcCQb-dJNfh4mH0RHVOAww/g:nowe:20:217/c:1507:851/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS83LkpQRw==.webp)](https://www.restaurantdive.com/news/5-store-level-changes-driving-the-starbucks-union/636052/)![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
-
-Permission granted by Starbucks Workers United
+Courtesy of Dunkin’
 
 ![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
 
 
 
-Starbucks unionization efforts
+### [Did Dunkin’ get its loyalty shakeup wrong?](https://www.restaurantdive.com/news/did-dunkin-get-it-wrong-with-coffee-discount-loyalty-shakeup/635311/)
 
 
 
-### [5 store-level changes driving the Starbucks union](https://www.restaurantdive.com/news/5-store-level-changes-driving-the-starbucks-union/636052/)
-
-
-
-The union’s proposals often focus on specific changes to systems workers interact with all day, every day, including equipment and mobile ordering.
+The revamped program’s emphasis on food items could be a play for higher check sizes, but making members pay a premium for coffee rewards could burn the chain.
 
 
 
@@ -286,7 +247,37 @@ By Aneurin Canham-Clyne •
 
 
 
-Nov. 10, 2022
+Oct. 31, 2022
+
+- [![An image of a man and a woman looking at a tablet and doing financials in a restaurant.](https://imgproxy.divecdn.com/_mLsnsFQ2wA6z0Oz9WIpPR4ebgFGLE_lcNzDg6x3xc0/g:nowe:2:23/c:1197:676/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTY1MDc5NjA5LmpwZw==.webp)](https://www.restaurantdive.com/news/how-inflation-impacts-restaurants-what-data-shows/635647/)![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
+
+Getty Images
+
+![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
+
+
+
+### [How bad is restaurant inflation? Here’s what the data shows.](https://www.restaurantdive.com/news/how-inflation-impacts-restaurants-what-data-shows/635647/)
+
+
+
+As rising wages and operating costs push chains to increase menu prices, consumers are trading down and seeking more value-focused dining options.
+
+
+
+
+
+
+
+By Julie Littman •
+
+
+
+
+
+
+
+Nov. 3, 2022
 
 
 ### Restaurant Dive news delivered to your inbox
@@ -311,45 +302,37 @@ Sign upA valid email address is required.Please select at least one newsletter.
 
 \| [Post a press release](https://www.restaurantdive.com/press-release/get-started/)
 
-Want to share a company announcement with your peers?
-
-[Share your announcement\\
+[Metafoodx Launches iOS App, Bringing Real-Time Kitchen Data to Chefs\\
 \\
-➔](https://www.restaurantdive.com/press-release/get-started/)
+\\
+From Metafoodx\\
+\\
+September 10, 2026\\
+\\
+![Metafoodx logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1789054496/press_release/assets/company_logos/Metafoodx_Logo_Square_1_weyl3i.png)](https://www.restaurantdive.com/press-release/20260910-metafoodx-launches-ios-app-bringing-real-time-kitchen-data-to-chefs/) [Half of Air Travelers Would Switch Airlines Over a Carry-On Fee; Service Reputation Is the Onl…\\
+\\
+\\
+From Sogolytics\\
+\\
+September 02, 2026\\
+\\
+![Sogolytics logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1788365956/press_release/assets/company_logos/SogoLogo_press_release_lifweh.png)](https://www.restaurantdive.com/press-release/20260902-half-of-air-travelers-would-switch-airlines-over-a-carry-on-fee-service-re-1/) [Alamance Foods Launches AFI Labs\\
+\\
+\\
+From Alamance Foods\\
+\\
+September 01, 2026\\
+\\
+![Alamance Foods logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1788198498/press_release/assets/company_logos/AFI_Logo_Stack_Blue_y5zdfp.png)](https://www.restaurantdive.com/press-release/20260831-alamance-foods-launches-afi-labs/) [Deliverect and Bounteous Forge Global Partnership to Advance Branded Digital Ordering\\
+\\
+\\
+From Deliverect\\
+\\
+August 24, 2026](https://www.restaurantdive.com/press-release/20260821-deliverect-and-bounteous-forge-global-partnership-to-advance-branded-digita-1/)
 
 
 Editors’ picks
 
-
-- [![](https://imgproxy.divecdn.com/7Gbx31vRmRuBfAFQojYlt1Cfdeg9WARLAAq4jIHYt9Y/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02ODgwNTY3ODQuanBn.webp)](https://www.restaurantdive.com/news/how-6-restaurant-giants-are-hiking-menu-prices/636593/)![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
-
-yaoinlove via Getty Images
-
-![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
-
-
-
-### [How 6 restaurant giants are hiking menu prices](https://www.restaurantdive.com/news/how-6-restaurant-giants-are-hiking-menu-prices/636593/)
-
-
-
-Brands like Chipotle, McDonald’s and Starbucks are walking a tightrope — charge enough to protect the bottom line without alienating customers.
-
-
-
-
-
-
-
-By Emma Liem Beckett and Julie Littman •
-
-
-
-
-
-
-
-Nov. 15, 2022
 
 - [![Starbucks Workers United / Starbucks pro-union employees](https://imgproxy.divecdn.com/mzAGB_BTYX_DO_JGmmlkUzcCQb-dJNfh4mH0RHVOAww/g:nowe:20:217/c:1507:851/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS83LkpQRw==.webp)](https://www.restaurantdive.com/news/5-store-level-changes-driving-the-starbucks-union/636052/)![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
 
@@ -385,35 +368,47 @@ By Aneurin Canham-Clyne •
 
 Nov. 10, 2022
 
+- [![An image of a next gen Dunkin' in Woodstock, Georgia.](https://imgproxy.divecdn.com/tfYK_8455kADz4hSg7lPigyiXnAQdlShIS93a1Pch00/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EdW5raW5fbmV4dF9nZW5fdW5pdC5qcGc=.webp)](https://www.restaurantdive.com/news/did-dunkin-get-it-wrong-with-coffee-discount-loyalty-shakeup/635311/)![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
+
+Courtesy of Dunkin’
+
+![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
+
+
+
+### [Did Dunkin’ get its loyalty shakeup wrong?](https://www.restaurantdive.com/news/did-dunkin-get-it-wrong-with-coffee-discount-loyalty-shakeup/635311/)
+
+
+
+The revamped program’s emphasis on food items could be a play for higher check sizes, but making members pay a premium for coffee rewards could burn the chain.
+
+
+
+
+
+
+
+By Aneurin Canham-Clyne •
+
+
+
+
+
+
+
+Oct. 31, 2022
+
 
 Latest in Menu Development
 
 
-- [![A triptych collage of images show teen creator Salish Matter enjoying Chipotle](https://imgproxy.divecdn.com/RDgVYxDT_f76w-mLuTprxckkFhJ6ejbFDXW22cOeV8w/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jMzBSTVIydy5qcGVn.webp)](https://www.restaurantdive.com/news/chipotle-broadens-gen-alpha-marketing-strategy-with-salish-matter-collab/828234/)
+- [![A close up shot of a burger with two patties.](https://imgproxy.divecdn.com/9TOwDGBTWHyaoDn8a4meqNF3WR66BFPOWy6hveYaP1s/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DSl9Bbmd1cy1NYXhpbXVzX1BSLVN0dW50XzI3MDB4MTgwMC5qcGc=.webp)](https://www.restaurantdive.com/news/carls-jr-cooked-order-initiative-angus-maximus-food-quality/829947/)
 
 
 
 
 
-[Chipotle broadens Gen Alpha marketing with Salish Matter collab](https://www.restaurantdive.com/news/chipotle-broadens-gen-alpha-marketing-strategy-with-salish-matter-collab/828234/)
-
-
-
-
-
-
-
-By Peter Adams
-
-
-
-- [![A photograph of two boxes on a table with various breakfast food items in aluminum pans.](https://imgproxy.divecdn.com/NnoXaOm1KhO4FAFM36HP9SkGN4UTbi3VVz-2RBOHYW4/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DYXRlcmluZ0JveF9PZmZpY2VfTm9TeXVycC5qcGc=.webp)](https://www.restaurantdive.com/news/dennys-expands-catering-ezcater-partnership/828051/)
-
-
-
-
-
-[Denny’s launches catering](https://www.restaurantdive.com/news/dennys-expands-catering-ezcater-partnership/828051/)
+[Carl’s Jr institutes cook-to-order standard](https://www.restaurantdive.com/news/carls-jr-cooked-order-initiative-angus-maximus-food-quality/829947/)
 
 
 
@@ -425,31 +420,13 @@ By Julie Littman
 
 
 
-- [![An iamge of a stoneworked building with a white logo that says Olive Garden. A woman wearing a white shirt and red bandana is at the door about to enter the restaurant.](https://imgproxy.divecdn.com/egmThxOACQIg8cTSYN53egGEoaATXBa3gIY8iKNd7E0/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTAwNjY2MDkyXzAxWDVNU3guanBn.webp)](https://www.restaurantdive.com/news/loyalty-lessons-learned-from-olive-gardens-pasta-pass/827655/)
+- [![A sign that says "Since 1956 Jersey Miek's Subs"](https://imgproxy.divecdn.com/dzFip0IsouZvmoDOV4D054qfPJEcQWXMj-F5cUtWWbc/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTQxNjIzMzYxLmpwZw==.webp)](https://www.restaurantdive.com/news/jersey-mikes-development-uk-debut-operations-loyalty/829907/)
 
 
 
 
 
-[Loyalty lessons learned from Olive Garden’s pasta pass](https://www.restaurantdive.com/news/loyalty-lessons-learned-from-olive-gardens-pasta-pass/827655/)
-
-
-
-
-
-
-
-By Bryan Wassel
-
-
-
-- [![Three flatbreads](https://imgproxy.divecdn.com/4lIO_EzAx1EHJ0ss28ltmjtcz0ItRicBOZRQmhX_lgE/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TS00yNl9CUk5EX0ZsYXRicmVhZFBSLmpwZw==.webp)](https://www.restaurantdive.com/news/smoothie-king-flatbreads-july-sales-growth/827815/)
-
-
-
-
-
-[Smoothie King sales soar after flatbread launch](https://www.restaurantdive.com/news/smoothie-king-flatbreads-july-sales-growth/827815/)
+[4 key numbers shed light on Jersey Mike’s strategy](https://www.restaurantdive.com/news/jersey-mikes-development-uk-debut-operations-loyalty/829907/)
 
 
 
@@ -457,7 +434,43 @@ By Bryan Wassel
 
 
 
-By Julie Littman
+By Aneurin Canham-Clyne
+
+
+
+- [![Heads of iceberg lettuce in a grocery store.](https://imgproxy.divecdn.com/hqnL5dxpdWS9Aq3V0VB_usctpVveQ9ahZ0HbpK4PD9Q/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pY2ViZXJnLWxldHR1Y2UuanBn.webp)](https://www.restaurantdive.com/news/cyclospora-lettuce-parasite-taylor-farms-taco-bell-lessons-learned/829131/)
+
+
+
+
+
+[Can restaurants avoid the next Cyclospora outbreak?](https://www.restaurantdive.com/news/cyclospora-lettuce-parasite-taylor-farms-taco-bell-lessons-learned/829131/)
+
+
+
+
+
+
+
+By Aneurin Canham-Clyne
+
+
+
+- [![Three pumpkin themed coffee drinks from Starbucks. Two are iced, one is hot and has whipped cream.](https://imgproxy.divecdn.com/VxZ-lTBtnpq7kFV59n5_yrChNGq1daKHEoOLEvWzWXM/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TQlgyMDI1MDcxOF9TdGFyYnVja3NfRmFsbF9QdW1wa2luQmV2ZXJhZ2VzLmpwZw==.webp)](https://www.restaurantdive.com/news/starbucks-pumpkin-spice-latte-launch-sales-win/829268/)
+
+
+
+
+
+[Starbucks’ pumpkin spice launch breaks records, again](https://www.restaurantdive.com/news/starbucks-pumpkin-spice-latte-launch-sales-win/829268/)
+
+
+
+
+
+
+
+By Aneurin Canham-Clyne
 
 
 
