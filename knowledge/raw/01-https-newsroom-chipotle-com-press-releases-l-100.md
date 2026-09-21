@@ -1,7 +1,7 @@
 ---
 title: chipotle news releases
 url: https://newsroom.chipotle.com/press-releases?l=100
-scraped_at: 2026-09-14T11:23:42
+scraped_at: 2026-09-21T11:37:55
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases?l=100#content)
@@ -55,6 +55,40 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases?l=100#)
+
+- [![](https://mmx.prnewswire.com/media/MS1988448/A009C002_241108LK_Karen_B_Option1-1.jpg?id=OA2948884&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-09-15-CHIPOTLE-EXPANDS-RESTAURANT-LEADERSHIP-PIPELINE,-AIMS-TO-PLACE-AN-APPRENTICE-IN-EVERY-RESTAURANT-BY-THE-END-OF-2027)
+
+
+
+Sep 15, 2026
+
+
+
+[CHIPOTLE EXPANDS RESTAURANT LEADERSHIP PIPELINE, AIMS TO PLACE AN APPRENTICE IN EVERY RESTAURANT BY THE END OF 2027Opens in new window](https://newsroom.chipotle.com/2026-09-15-CHIPOTLE-EXPANDS-RESTAURANT-LEADERSHIP-PIPELINE,-AIMS-TO-PLACE-AN-APPRENTICE-IN-EVERY-RESTAURANT-BY-THE-END-OF-2027)
+
+
+
+
+
+Enhanced Apprentice program supports Chipotle's long-term goal of developing restaurant leaders from within The company's decade-long partnership with Guild has helped nearly 25,000 employees...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-09-15-CHIPOTLE-EXPANDS-RESTAURANT-LEADERSHIP-PIPELINE,-AIMS-TO-PLACE-AN-APPRENTICE-IN-EVERY-RESTAURANT-BY-THE-END-OF-2027#assets_20295_122887-117)
+
+- Sep 14, 2026
+
+
+
+[CHIPOTLE APPOINTS SABIR SAMI TO ITS BOARD OF DIRECTORSOpens in new window](https://newsroom.chipotle.com/2026-09-14-CHIPOTLE-APPOINTS-SABIR-SAMI-TO-ITS-BOARD-OF-DIRECTORS)
+
+
+
+
+
+Chipotle Mexican Grill (NYSE:CMG) today announced a new addition to its board of directors, Sabir Sami, effective immediately. Sabir Sami brings more than 30 years of global consumer and...
 
 - [![](https://mmx.prnewswire.com/media/MS1980088/Chipotle-Gangnam_Exterior.jpg?id=OA2924917&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-09-02-CHIPOTLE-ARRIVES-IN-ASIA-WITH-FIRST-RESTAURANT-IN-SEOUL)
 
@@ -2024,49 +2058,6 @@ Chipotle Mexican Grill (NYSE: CMG) today announced that after a robust and thoro
 
 COMPARABLE SALES INCREASE 6% DRIVEN BY OVER 3% TRANSACTION GROWTH NEWPORT BEACH, Calif., Oct. 29, 2024 /PRNewswire/ -- Chipotle Mexican Grill, Inc. (NYSE: CMG) today reported financial results for...
 
-- [![](https://mma.prnewswire.com/media/2536502/Chipotle_Paradox_Hiring_System.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2024-10-22-CHIPOTLE-INTRODUCES-NEW-AI-HIRING-PLATFORM-TO-SUPPORT-ITS-ACCELERATED-GROWTH)
-
-
-
-Oct 22, 2024
-
-
-
-[CHIPOTLE INTRODUCES NEW AI HIRING PLATFORM TO SUPPORT ITS ACCELERATED GROWTHOpens in new window](https://newsroom.chipotle.com/2024-10-22-CHIPOTLE-INTRODUCES-NEW-AI-HIRING-PLATFORM-TO-SUPPORT-ITS-ACCELERATED-GROWTH)
-
-
-
-
-
-The company is rolling out a new system by Paradox that will make the hiring process simpler, faster, and more automated for all 3,500+ restaurants in North America and Europe The Paradox platform...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2024-10-22-CHIPOTLE-INTRODUCES-NEW-AI-HIRING-PLATFORM-TO-SUPPORT-ITS-ACCELERATED-GROWTH#assets_20295_122779-117)
-
-- [![](https://mma.prnewswire.com/media/2530041/Lumachain.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2024-10-15-CHIPOTLES-CULTIVATE-NEXT-FUND-INVESTS-IN-AI-SUPPLY-CHAIN-SOLUTION-AND-EMERGING-FAST-CASUAL-CONCEPT)
-
-
-
-Oct 15, 2024
-
-
-
-[CHIPOTLE'S CULTIVATE NEXT FUND INVESTS IN AI SUPPLY CHAIN SOLUTION AND EMERGING FAST-CASUAL CONCEPTOpens in new window](https://newsroom.chipotle.com/2024-10-15-CHIPOTLES-CULTIVATE-NEXT-FUND-INVESTS-IN-AI-SUPPLY-CHAIN-SOLUTION-AND-EMERGING-FAST-CASUAL-CONCEPT)
-
-
-
-
-
-Lumachain's SaaS platform uses Computer Vision-based Artificial Intelligence to enhance safety, yield, efficiency, quality, traceability, and trust in food production Brassica is a Mediterranean...
-
-
-
-
-
-  - [Photos2Opens in new window](https://newsroom.chipotle.com/2024-10-15-CHIPOTLES-CULTIVATE-NEXT-FUND-INVESTS-IN-AI-SUPPLY-CHAIN-SOLUTION-AND-EMERGING-FAST-CASUAL-CONCEPT#assets_20295_122778-117)
 
 Show
 

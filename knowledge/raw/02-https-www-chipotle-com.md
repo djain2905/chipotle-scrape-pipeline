@@ -1,58 +1,44 @@
 ---
-title: Chipotle Mexican Grill: Mexican Food - Restaurant & Catering
+title: Chipotle — Order Now
 url: https://www.chipotle.com/
-scraped_at: 2026-08-31T12:20:04
+scraped_at: 2026-09-21T11:37:55
 ---
 
 [ENABLE ACCESSIBILITY](https://www.chipotle.com/#)
 
-Chipotle Sundays Group Order
+Chipotle Pollo Asado is Back
 
-Chipotle Sundays Group Order
+Chipotle Pollo Asado is Back
 
-USE CODE: SUNDAYS
+ALL-NEW
 
-SUNDAYS ARE
+POLLO ASADO
 
-FOR CHIPOTLE
+& CHILI LIME CHIPS
 
-**The weekend may be winding down, but**
+**New flavor lineup just dropped: freshly**
 
-**dinner doesn’t have to. Enjoy Buy 2, Get**
+**grilled chicken, hand-seasoned chips,**
 
-**1 Free Entrées after 3 PM local time\*.**
+**and real lime bringing bright, bold flavor.**
 
-USE CODE: SUNDAYS
+ALL-NEW
 
-**SUNDAYS ARE**
+**POLLO ASADO**
 
-**FOR CHIPOTLE**
+**& CHILI LIME CHIPS**
 
-**The weekend may be winding down, but**
+**New flavor lineup just dropped: freshly**
 
-**dinner doesn’t have to. Enjoy Buy 2, Get**
+**grilled chicken, hand-seasoned chips, and**
 
-**1 Free Entrées after 3 PM local time\*.**
+**real lime bringing bright, bold flavor.**
 
 [ORDER NOW](https://www.chipotle.com/#menu) [ORDER NOW](https://www.chipotle.com/#menu)
 
-\*Valid 8/23, 8/30 and 9/6. One free entrée with purch of 2+ entrée
+![Chipotle Pepper medallion](https://www.chipotle.com/adobe/dynamicmedia/deliver/dm-aid--84b9659a-f78f-49bb-9c7d-2f762547479e/medallion-fluted-2x.png?preferwebp=true&quality=85)
 
-items. Promo code req'd. [Chipotle.com](https://chipotle.com/) or Chipotle app only. Exclusions
-
-and full terms: [chipotle.com/sundays](https://chipotle.com/sundays)
-
-\*Valid 8/23, 8/30 and 9/6. One free entrée with purch of 2+ entrée
-
-items. Promo code req'd. [Chipotle.com](https://chipotle.com/) or Chipotle app only. Exclusions
-
-and full terms: [chipotle.com/sundays](https://chipotle.com/sundays)
-
-![Chipotle Rewards Unlock Chili Lime Chips](https://www.chipotle.com/adobe/dynamicmedia/deliver/dm-aid--2eabd4c9-ce5d-4481-8da6-e44f5c66316b/lock-rewards-1x.png?quality=85&preferwebp=true)
-
-JOIN CHIPOTLE REWARDS TO
-
-UNLOCK CHILI LIME CHIPS
+JOIN CHIPOTLE REWARDS. UNLOCK FREE CHIPOTLE.
 
 JOIN REWARDS
 
@@ -61,6 +47,68 @@ JOIN REWARDS
 SIGN IN
 
 Navigated to order menu page
+
+![Family Meals](https://www.chipotle.com/content/dam/chipotle/menu/meal-types/byoc/web-desktop/BYOC-crop.png)
+
+Digital Only
+
+Family Meals
+
+Serves 4-6 people
+
+Order
+
+![Burrito](https://www.chipotle.com/content/dam/chipotle/menu/meal-types/burrito/web-desktop/burrito.png)
+
+Burrito
+
+Order
+
+![Burrito Bowl](https://www.chipotle.com/content/dam/chipotle/menu/meal-types/burrito-bowl/web-desktop/order.png)
+
+Burrito Bowl
+
+Order
+
+![High Protein Menu](https://www.chipotle.com/content/dam/chipotle/menu/meal-types/high-protein/web-desktop/high-protein-meal.png)
+
+New
+
+High Protein Menu
+
+Order
+
+![Quesadilla](https://www.chipotle.com/content/dam/chipotle/menu/meal-types/quesadilla/web-desktop/quesadilla.png)
+
+Digital Only
+
+Quesadilla
+
+Order
+
+![Salad](https://www.chipotle.com/content/dam/chipotle/menu/meal-types/salad/web-desktop/order.png)
+
+Salad
+
+Order
+
+![Tacos](https://www.chipotle.com/content/dam/chipotle/menu/meal-types/tacos/soft-taco/web-desktop/three-tacos.png)
+
+Tacos
+
+Order
+
+![Kid's Meal](https://www.chipotle.com/content/dam/chipotle/menu/meal-types/kids-meal/web-desktop/order.png)
+
+Kid's Meal
+
+Order
+
+![Chips & Sides](https://www.chipotle.com/content/dam/chipotle/menu/meal-types/chips-and-guac/web-desktop/order.png)
+
+Chips & Sides
+
+Order
 
 back to school giftcards Chipotle 2026
 
@@ -86,29 +134,41 @@ back to school giftcards Chipotle 2026
 
 back to school giftcards Chipotle 2026
 
-Honey Chicken is back at Chipotle Mexican Grill
+![Bardi Bowl by Cardi B at Chipotle](https://www.chipotle.com/content/dam/chipotle/homepage/us/secondary-touts/2026/bardi-bowl/D-Secondary-Tout-2x.jpg)![Bardi Bowl by Cardi B at Chipotle](https://www.chipotle.com/content/dam/chipotle/homepage/us/secondary-touts/2026/bardi-bowl/M-cardi-Secondary-Tout-2x.jpg)
 
-Honey Chicken is back at Chipotle Mexican Grill
+THE BARDI
 
-CHIPOTLE
+BOWL WITH
 
-HONEY CHICKEN
+CHILI LIME
 
-IS BACK
+CHIPS
 
-Chipotle Honey Chicken is back on the grill. Experience freshly grilled chicken marinated with chipotle peppers and a touch of pure honey just in time for summer.
+You asked, we delivered. Cardi B’s go-to Chipotle bowl is now on the menu and served with the all-new Chili Lime Chips.
 
-CHIPOTLE HONEY
+THE BARDI BOWL
 
-CHICKEN IS BACK
+WITH CHILI LIME
 
-Chipotle Honey Chicken is back on the grill. Experience freshly grilled chicken marinated with chipotle peppers and a touch of pure honey just in time for summer.
+CHIPS
+
+You asked, we delivered. Cardi B’s go-to Chipotle bowl is now on the menu and served with the all-new Chili Lime Chips.
 
 [ORDER NOWORDER NOW](https://www.chipotle.com/#menu)
 
-Honey Chicken is back at Chipotle Mexican Grill
+![Bardi Bowl by Cardi B at Chipotle](https://www.chipotle.com/content/dam/chipotle/homepage/us/secondary-touts/2026/bardi-bowl/D-Secondary-Tout-2x.jpg)![Bardi Bowl by Cardi B at Chipotle](https://www.chipotle.com/content/dam/chipotle/homepage/us/secondary-touts/2026/bardi-bowl/M-cardi-Secondary-Tout-2x.jpg)
 
-Honey Chicken is back at Chipotle Mexican Grill
+![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/3916248a-68fd-4c0f-87e9-38d794e50d7e/79cd3ae5-9808-460d-910e-f2199e2bd314.jpg)
+
+Bardi Bowl with Chili Lime Chips
+
+![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/ead6de63-d046-4795-a80c-490f10c285bd/1c709376-bad9-492f-807b-d99c750e4aeb.jpg)
+
+Sam's High Protein Tacos
+
+![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/24f4ed41-7f7c-4eb9-8559-bd2662610c36/c9046315-27d7-452d-95e8-c2b00a6daa90.jpg)
+
+Pollo Asado Burrito Bowl
 
 # CROWD PLEASERS
 
