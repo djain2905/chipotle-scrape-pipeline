@@ -1,7 +1,7 @@
 ---
 title: chipotle news releases
 url: https://newsroom.chipotle.com/press-releases?l=100
-scraped_at: 2026-09-07T11:13:34
+scraped_at: 2026-09-28T12:32:55
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases?l=100#content)
@@ -10,31 +10,29 @@ scraped_at: 2026-09-07T11:13:34
 
 News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases.
 
-Month Year
+September 2026
 
-
-| Su | Mo | Tu | We | Th | Fr | Sa |
+| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 25 | 26 | 27 | 28 | 29 | 30 | 1 |
-| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
-| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
-| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 | 1 | 2 | 3 | 4 | 5 |
+| 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+| 20 | 21 | 22 | 23 | 24 | 25 | 26 |
+| 27 | 28 | 29 | 30 | 1 | 2 | 3 |
+| 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 
 Cancel Go
 
-Month Year
+September 2026
 
-
-| Su | Mo | Tu | We | Th | Fr | Sa |
+| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 25 | 26 | 27 | 28 | 29 | 30 | 1 |
-| 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
-| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
-| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 | 1 | 2 | 3 | 4 | 5 |
+| 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+| 20 | 21 | 22 | 23 | 24 | 25 | 26 |
+| 27 | 28 | 29 | 30 | 1 | 2 | 3 |
+| 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 
 Cancel Go
 
@@ -57,6 +55,62 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases?l=100#)
+
+- [![](https://newsroom.chipotle.com/file.php/181151/1920x1080_Quesadilla+Day-2.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-09-21-CHIPOTLE-CELEBRATES-NATIONAL-QUESADILLA-DAY-2026-WITH-TWO-DAYS-OF-FREE-QUESADILLAS)
+
+
+
+Sep 21, 2026
+
+
+
+[CHIPOTLE CELEBRATES NATIONAL QUESADILLA DAY 2026 WITH TWO DAYS OF FREE QUESADILLASOpens in new window](https://newsroom.chipotle.com/2026-09-21-CHIPOTLE-CELEBRATES-NATIONAL-QUESADILLA-DAY-2026-WITH-TWO-DAYS-OF-FREE-QUESADILLAS)
+
+
+
+
+
+From September 24 through September 25, guests in the U.S. and Canada can score a free quesadilla with a digital purchase of $20 or more on the Chipotle app, Chipotle.com and Chipotle.ca with code...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-09-21-CHIPOTLE-CELEBRATES-NATIONAL-QUESADILLA-DAY-2026-WITH-TWO-DAYS-OF-FREE-QUESADILLAS#assets_20295_122888-117)
+
+- [![](https://mmx.prnewswire.com/media/MS1988448/A009C002_241108LK_Karen_B_Option1-1.jpg?id=OA2948884&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-09-15-CHIPOTLE-EXPANDS-RESTAURANT-LEADERSHIP-PIPELINE,-AIMS-TO-PLACE-AN-APPRENTICE-IN-EVERY-RESTAURANT-BY-THE-END-OF-2027)
+
+
+
+Sep 15, 2026
+
+
+
+[CHIPOTLE EXPANDS RESTAURANT LEADERSHIP PIPELINE, AIMS TO PLACE AN APPRENTICE IN EVERY RESTAURANT BY THE END OF 2027Opens in new window](https://newsroom.chipotle.com/2026-09-15-CHIPOTLE-EXPANDS-RESTAURANT-LEADERSHIP-PIPELINE,-AIMS-TO-PLACE-AN-APPRENTICE-IN-EVERY-RESTAURANT-BY-THE-END-OF-2027)
+
+
+
+
+
+Enhanced Apprentice program supports Chipotle's long-term goal of developing restaurant leaders from within The company's decade-long partnership with Guild has helped nearly 25,000 employees...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-09-15-CHIPOTLE-EXPANDS-RESTAURANT-LEADERSHIP-PIPELINE,-AIMS-TO-PLACE-AN-APPRENTICE-IN-EVERY-RESTAURANT-BY-THE-END-OF-2027#assets_20295_122887-117)
+
+- Sep 14, 2026
+
+
+
+[CHIPOTLE APPOINTS SABIR SAMI TO ITS BOARD OF DIRECTORSOpens in new window](https://newsroom.chipotle.com/2026-09-14-CHIPOTLE-APPOINTS-SABIR-SAMI-TO-ITS-BOARD-OF-DIRECTORS)
+
+
+
+
+
+Chipotle Mexican Grill (NYSE:CMG) today announced a new addition to its board of directors, Sabir Sami, effective immediately. Sabir Sami brings more than 30 years of global consumer and...
 
 - [![](https://mmx.prnewswire.com/media/MS1980088/Chipotle-Gangnam_Exterior.jpg?id=OA2924917&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-09-02-CHIPOTLE-ARRIVES-IN-ASIA-WITH-FIRST-RESTAURANT-IN-SEOUL)
 
@@ -2013,62 +2067,6 @@ Chipotle Mexican Grill (NYSE: CMG) today announced that after a robust and thoro
 
 
   - [Photos1Opens in new window](https://newsroom.chipotle.com/2024-11-11-CHIPOTLE-NAMES-SCOTT-BOATWRIGHT-CHIEF-EXECUTIVE-OFFICER-AND-MEMBER-OF-THE-BOARD#assets_20295_122781-117)
-
-- Oct 29, 2024
-
-
-
-[CHIPOTLE ANNOUNCES THIRD QUARTER 2024 RESULTSOpens in new window](https://newsroom.chipotle.com/2024-10-29-CHIPOTLE-ANNOUNCES-THIRD-QUARTER-2024-RESULTS)
-
-
-
-
-
-COMPARABLE SALES INCREASE 6% DRIVEN BY OVER 3% TRANSACTION GROWTH NEWPORT BEACH, Calif., Oct. 29, 2024 /PRNewswire/ -- Chipotle Mexican Grill, Inc. (NYSE: CMG) today reported financial results for...
-
-- [![](https://mma.prnewswire.com/media/2536502/Chipotle_Paradox_Hiring_System.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2024-10-22-CHIPOTLE-INTRODUCES-NEW-AI-HIRING-PLATFORM-TO-SUPPORT-ITS-ACCELERATED-GROWTH)
-
-
-
-Oct 22, 2024
-
-
-
-[CHIPOTLE INTRODUCES NEW AI HIRING PLATFORM TO SUPPORT ITS ACCELERATED GROWTHOpens in new window](https://newsroom.chipotle.com/2024-10-22-CHIPOTLE-INTRODUCES-NEW-AI-HIRING-PLATFORM-TO-SUPPORT-ITS-ACCELERATED-GROWTH)
-
-
-
-
-
-The company is rolling out a new system by Paradox that will make the hiring process simpler, faster, and more automated for all 3,500+ restaurants in North America and Europe The Paradox platform...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2024-10-22-CHIPOTLE-INTRODUCES-NEW-AI-HIRING-PLATFORM-TO-SUPPORT-ITS-ACCELERATED-GROWTH#assets_20295_122779-117)
-
-- [![](https://mma.prnewswire.com/media/2530041/Lumachain.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2024-10-15-CHIPOTLES-CULTIVATE-NEXT-FUND-INVESTS-IN-AI-SUPPLY-CHAIN-SOLUTION-AND-EMERGING-FAST-CASUAL-CONCEPT)
-
-
-
-Oct 15, 2024
-
-
-
-[CHIPOTLE'S CULTIVATE NEXT FUND INVESTS IN AI SUPPLY CHAIN SOLUTION AND EMERGING FAST-CASUAL CONCEPTOpens in new window](https://newsroom.chipotle.com/2024-10-15-CHIPOTLES-CULTIVATE-NEXT-FUND-INVESTS-IN-AI-SUPPLY-CHAIN-SOLUTION-AND-EMERGING-FAST-CASUAL-CONCEPT)
-
-
-
-
-
-Lumachain's SaaS platform uses Computer Vision-based Artificial Intelligence to enhance safety, yield, efficiency, quality, traceability, and trust in food production Brassica is a Mediterranean...
-
-
-
-
-
-  - [Photos2Opens in new window](https://newsroom.chipotle.com/2024-10-15-CHIPOTLES-CULTIVATE-NEXT-FUND-INVESTS-IN-AI-SUPPLY-CHAIN-SOLUTION-AND-EMERGING-FAST-CASUAL-CONCEPT#assets_20295_122778-117)
 
 Show
 
