@@ -1,7 +1,7 @@
 ---
 title: Chipotle — Order Now
 url: https://www.chipotle.com/
-scraped_at: 2026-09-21T11:37:55
+scraped_at: 2026-10-05T13:13:20
 ---
 
 [ENABLE ACCESSIBILITY](https://www.chipotle.com/#)
@@ -36,7 +36,7 @@ ALL-NEW
 
 [ORDER NOW](https://www.chipotle.com/#menu) [ORDER NOW](https://www.chipotle.com/#menu)
 
-![Chipotle Pepper medallion](https://www.chipotle.com/adobe/dynamicmedia/deliver/dm-aid--84b9659a-f78f-49bb-9c7d-2f762547479e/medallion-fluted-2x.png?preferwebp=true&quality=85)
+![Chipotle Pepper medallion](https://www.chipotle.com/adobe/dynamicmedia/deliver/dm-aid--84b9659a-f78f-49bb-9c7d-2f762547479e/medallion-fluted-2x.png?quality=85&preferwebp=true)
 
 JOIN CHIPOTLE REWARDS. UNLOCK FREE CHIPOTLE.
 
@@ -110,65 +110,57 @@ Chips & Sides
 
 Order
 
-back to school giftcards Chipotle 2026
+WE START
 
-back to school giftcards Chipotle 2026
+WITH 48
 
-GO BACK TO
+PERFECT
 
-SCHOOL WITH
+AVOCADOS
 
-CHIPOTLE
+Our hand-mashed guac starts with whole, ripe avocados and is freshly made all day long so it always adds a little something extra to your bowl.
 
-Send them back to school with a Chipotle Gift Card—perfect for powering through lectures, study sessions, and everything after class.
+WE START WITH 48 PERFECT AVOCADOS
 
-GO BACK TO SCHOOL
+Our hand-mashed guac starts with whole, ripe avocados and is freshly made all day long so it always adds a little something extra to your bowl.
 
-WITH CHIPOTLE
+[ORDER NOWORDER NOW](https://www.chipotle.com/#menu)
 
-Send them back to school with a Chipotle Gift Card—perfect for powering through lectures, study sessions, and everything after class.
+![pollo asado chicken bowl with Chipotle chili lime chips](https://www.chipotle.com/content/dam/chipotle/homepage/us/secondary-touts/2026/clc-and-pa/D-Secondary-Tout-Chili-Lime-x-Pollo-2x.jpg)![pollo asado chicken bowl with Chipotle chili lime chips](https://www.chipotle.com/content/dam/chipotle/homepage/us/secondary-touts/2026/clc-and-pa/M-Secondary-Tout-Chili-Lime-x-Pollo-2x.jpg)
 
-[SHOP GIFT CARDSSHOP GIFT CARDS](https://www.chipotle.com/gift-cards)
+ALL-NEW POLLO
 
-back to school giftcards Chipotle 2026
-
-back to school giftcards Chipotle 2026
-
-![Bardi Bowl by Cardi B at Chipotle](https://www.chipotle.com/content/dam/chipotle/homepage/us/secondary-touts/2026/bardi-bowl/D-Secondary-Tout-2x.jpg)![Bardi Bowl by Cardi B at Chipotle](https://www.chipotle.com/content/dam/chipotle/homepage/us/secondary-touts/2026/bardi-bowl/M-cardi-Secondary-Tout-2x.jpg)
-
-THE BARDI
-
-BOWL WITH
+ASADO AND
 
 CHILI LIME
 
 CHIPS
 
-You asked, we delivered. Cardi B’s go-to Chipotle bowl is now on the menu and served with the all-new Chili Lime Chips.
+Freshly grilled chicken meets hand-seasoned chips for a pairing that’s bright, bold, and made fresh. Lime changes everything.
 
-THE BARDI BOWL
+ALL-NEW POLLO
 
-WITH CHILI LIME
+ASADO AND CHILI
 
-CHIPS
+LIME CHIPS
 
-You asked, we delivered. Cardi B’s go-to Chipotle bowl is now on the menu and served with the all-new Chili Lime Chips.
+Freshly grilled chicken meets hand-seasoned chips for a pairing that’s bright, bold, and made fresh. Lime changes everything.
 
 [ORDER NOWORDER NOW](https://www.chipotle.com/#menu)
 
-![Bardi Bowl by Cardi B at Chipotle](https://www.chipotle.com/content/dam/chipotle/homepage/us/secondary-touts/2026/bardi-bowl/D-Secondary-Tout-2x.jpg)![Bardi Bowl by Cardi B at Chipotle](https://www.chipotle.com/content/dam/chipotle/homepage/us/secondary-touts/2026/bardi-bowl/M-cardi-Secondary-Tout-2x.jpg)
+![pollo asado chicken bowl with Chipotle chili lime chips](https://www.chipotle.com/content/dam/chipotle/homepage/us/secondary-touts/2026/clc-and-pa/D-Secondary-Tout-Chili-Lime-x-Pollo-2x.jpg)![pollo asado chicken bowl with Chipotle chili lime chips](https://www.chipotle.com/content/dam/chipotle/homepage/us/secondary-touts/2026/clc-and-pa/M-Secondary-Tout-Chili-Lime-x-Pollo-2x.jpg)
 
-![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/3916248a-68fd-4c0f-87e9-38d794e50d7e/79cd3ae5-9808-460d-910e-f2199e2bd314.jpg)
+![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/4120eb6b-698b-47f8-bdc3-13de963783da/e3700b42-f83d-45a7-85ec-06c134331508.jpg)
 
-Bardi Bowl with Chili Lime Chips
-
-![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/ead6de63-d046-4795-a80c-490f10c285bd/1c709376-bad9-492f-807b-d99c750e4aeb.jpg)
-
-Sam's High Protein Tacos
+Poki's Pollo Asado And Steak Bowl
 
 ![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/24f4ed41-7f7c-4eb9-8559-bd2662610c36/c9046315-27d7-452d-95e8-c2b00a6daa90.jpg)
 
 Pollo Asado Burrito Bowl
+
+![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/5c312ce3-3123-4c18-8226-53d61b1bdbdb/e6e59d64-a7db-4404-8c29-d35a51e26618.jpg)
+
+Pollo Asado Burrito
 
 # CROWD PLEASERS
 

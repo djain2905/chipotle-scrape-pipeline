@@ -1,14 +1,14 @@
 ---
 title: Chipotle's menu adds a trendy ingredient - Yahoo Finance
 url: https://finance.yahoo.com/sectors/healthcare/articles/chipotles-menu-adds-trendy-ingredient-214700739.html
-scraped_at: 2026-06-29T10:28:31
+scraped_at: 2026-10-05T13:13:20
 ---
 
 Oops, something went wrong
 
 [Skip to navigation](https://finance.yahoo.com/sectors/healthcare/articles/chipotles-menu-adds-trendy-ingredient-214700739.html#navigation-container) [Skip to main content](https://finance.yahoo.com/sectors/healthcare/articles/chipotles-menu-adds-trendy-ingredient-214700739.html#nimbus-app) [Skip to right column](https://finance.yahoo.com/sectors/healthcare/articles/chipotles-menu-adds-trendy-ingredient-214700739.html#right-rail)
 
-[![TheStreet](https://s.yimg.com/lo/mysterio/api/6525647BA5223735C41528C4721BB3D44F865B98200856C49E2EAA15BE7CCAC8/subgraphmysterio/resizefill_w144_h48;quality_100;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-01%2F843fa1d0-c429-11ee-9ffc-fcd336cb7829)](https://www.thestreet.com/ "TheStreet")
+[![TheStreet](https://s.yimg.com/lo/mysterio/api/9f898ca0c9093fef68e7351d389498bd383f3b1a6f72f9aec7720ddfbb2e8ef7/lightyear_networkapi/resizefill_h48%3Bquality_100%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-01%2F843fa1d0-c429-11ee-9ffc-fcd336cb7829)](https://www.thestreet.com/ "TheStreet")
 
 # Chipotle's menu adds a trendy ingredient
 
@@ -16,8 +16,7 @@ Madison Troyer
 
 May 28, 20264 min read
 
-- [CMG \\
-+3.28%](https://finance.yahoo.com/quote/CMG/ "CMG")
+- [CMG](https://finance.yahoo.com/quote/CMG/ "CMG")
 
 
 Lately, menu innovation has become a major priority for Chipotle.
@@ -42,7 +41,7 @@ The new chicken is free of preservatives, gluten, and anything artificial, in ke
 
 Initial diner responses on platforms like [Reddit](https://www.reddit.com/r/Chipotle/comments/1tlewon/crispy_chicken_coming/) have been mixed, with some excited about the prospect of another high-protein option and others worried that the breading will get soggy when mixed into their entrees.
 
-[![](<Base64-Image-Removed>)](https://s.yimg.com/lo/mysterio/api/5D7499C35818C1FC16F1A3801F29275C61C5ACAFC0C9ED664730EA1E4CE2FCEC/subgraphmysterio/resizefit_w960;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F3af828fea3aa6a32dda6c14449d79279)
+[![](<Base64-Image-Removed>)](https://s.yimg.com/lo/mysterio/api/ed1618682066a8f24d6bba431fcda8a6c9f130b6b501352b9c1d3cffc16bcbb2/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F3af828fea3aa6a32dda6c14449d79279)
 
 Chipotle has been testing out crispy chicken at several California locations.Getty Images
 
@@ -95,6 +94,6 @@ View Comments
 
 [Terms](https://guce.yahoo.com/terms?locale=en-US) and [Privacy Policy](https://guce.yahoo.com/privacy-policy?locale=en-US)
 
-[Your Privacy Choices ![](https://s.yimg.com/dv/static/siteApp/img/privacy-choice-control.png)](https://guce.yahoo.com/state-controls?locale=en-US&state=VA)
+[Privacy Dashboard](https://guce.yahoo.com/privacy-dashboard?locale=en-US)
 
 [More Info](https://finance.yahoo.com/more-info)

@@ -1,7 +1,7 @@
 ---
 title: chipotle news releases
 url: https://newsroom.chipotle.com/press-releases?l=100
-scraped_at: 2026-09-21T11:37:55
+scraped_at: 2026-10-05T13:13:20
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases?l=100#content)
@@ -55,6 +55,72 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases?l=100#)
+
+- [![](https://newsroom.chipotle.com/file.php/181193/1PRAssetChipotle1500thOpening2026_1200SEO.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-09-29-CHIPOTLE-REACHES-1,500-CHIPOTLANES,-ADVANCING-NORTH-AMERICAN-GROWTH-STRATEGY)
+
+
+
+Sep 29, 2026
+
+
+
+[CHIPOTLE REACHES 1,500 CHIPOTLANES, ADVANCING NORTH AMERICAN GROWTH STRATEGYOpens in new window](https://newsroom.chipotle.com/2026-09-29-CHIPOTLE-REACHES-1,500-CHIPOTLANES,-ADVANCING-NORTH-AMERICAN-GROWTH-STRATEGY)
+
+
+
+
+
+The milestone restaurant will open in Florida as Chipotle expects to grow its restaurant footprint in the state by approximately 17% in 2026 and create approximately 1,500 restaurant jobs...
+
+
+
+
+
+  - [Photos4Opens in new window](https://newsroom.chipotle.com/2026-09-29-CHIPOTLE-REACHES-1,500-CHIPOTLANES,-ADVANCING-NORTH-AMERICAN-GROWTH-STRATEGY#assets_20295_122890-117)
+
+- [![](https://mmx.prnewswire.com/media/MS1996285/2609_CMG_Boorito26_PR-ASSETS_CrystalBall_v1_1920x1080.jpg?id=OA2970628&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-09-28-CHIPOTLE-SUMMONS-THE-RETURN-OF-MARGARITAS-IN-THE-COUNTDOWN-TO-BOORITO)
+
+
+
+Sep 28, 2026
+
+
+
+[CHIPOTLE SUMMONS THE RETURN OF MARGARITAS IN THE COUNTDOWN TO BOORITOOpens in new window](https://newsroom.chipotle.com/2026-09-28-CHIPOTLE-SUMMONS-THE-RETURN-OF-MARGARITAS-IN-THE-COUNTDOWN-TO-BOORITO)
+
+
+
+
+
+After years of fans reminiscing about the Chipotle margaritas on social media, the brand is resurrecting its original recipe with a five-city "Summon the Spirits Tour" leading up to Boorito The...
+
+
+
+
+
+  - [Photos2Opens in new window](https://newsroom.chipotle.com/2026-09-28-CHIPOTLE-SUMMONS-THE-RETURN-OF-MARGARITAS-IN-THE-COUNTDOWN-TO-BOORITO#assets_20295_122889-117)
+
+- [![](https://newsroom.chipotle.com/file.php/181151/1920x1080_Quesadilla+Day-2.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-09-21-CHIPOTLE-CELEBRATES-NATIONAL-QUESADILLA-DAY-2026-WITH-TWO-DAYS-OF-FREE-QUESADILLAS)
+
+
+
+Sep 21, 2026
+
+
+
+[CHIPOTLE CELEBRATES NATIONAL QUESADILLA DAY 2026 WITH TWO DAYS OF FREE QUESADILLASOpens in new window](https://newsroom.chipotle.com/2026-09-21-CHIPOTLE-CELEBRATES-NATIONAL-QUESADILLA-DAY-2026-WITH-TWO-DAYS-OF-FREE-QUESADILLAS)
+
+
+
+
+
+From September 24 through September 25, guests in the U.S. and Canada can score a free quesadilla with a digital purchase of $20 or more on the Chipotle app, Chipotle.com and Chipotle.ca with code...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-09-21-CHIPOTLE-CELEBRATES-NATIONAL-QUESADILLA-DAY-2026-WITH-TWO-DAYS-OF-FREE-QUESADILLAS#assets_20295_122888-117)
 
 - [![](https://mmx.prnewswire.com/media/MS1988448/A009C002_241108LK_Karen_B_Option1-1.jpg?id=OA2948884&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-09-15-CHIPOTLE-EXPANDS-RESTAURANT-LEADERSHIP-PIPELINE,-AIMS-TO-PLACE-AN-APPRENTICE-IN-EVERY-RESTAURANT-BY-THE-END-OF-2027)
 
@@ -2001,63 +2067,6 @@ The 1,000th Chipotlane will open in the Kansas City metro area on Thursday, Nove
 
 
   - [Photos1Opens in new window](https://newsroom.chipotle.com/2024-11-20-CHIPOTLE-REACHES-1,000TH-CHIPOTLANE-MILESTONE#assets_20295_122783-117)
-
-- [![](https://mma.prnewswire.com/media/2556046/All_I_Want_Is_Chipotle_HERO.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2024-11-13-CHIPOTLE-SLEIGHS-HOLIDAY-GIFTING-WITH-ALL-I-WANT-IS-CHIPOTLE-COLLECTION-FEATURING-VIRAL-FAN-INSPIRED-CREATIONS)
-
-
-
-Nov 13, 2024
-
-
-
-[CHIPOTLE SLEIGHS HOLIDAY GIFTING WITH "ALL I WANT IS CHIPOTLE" COLLECTION FEATURING VIRAL FAN-INSPIRED CREATIONSOpens in new window](https://newsroom.chipotle.com/2024-11-13-CHIPOTLE-SLEIGHS-HOLIDAY-GIFTING-WITH-ALL-I-WANT-IS-CHIPOTLE-COLLECTION-FEATURING-VIRAL-FAN-INSPIRED-CREATIONS)
-
-
-
-
-
-The collection features its previously sold-out Cilantro Soap, "Water" Cup Candle and Car Napkin Holder Chipotle Rewards members have an exclusive opportunity to win the entire set through the...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2024-11-13-CHIPOTLE-SLEIGHS-HOLIDAY-GIFTING-WITH-ALL-I-WANT-IS-CHIPOTLE-COLLECTION-FEATURING-VIRAL-FAN-INSPIRED-CREATIONS#assets_20295_122782-117)
-
-- [![](https://mma.prnewswire.com/media/2554215/2024_ScottBoatwright_Chipotle_CEO.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2024-11-11-CHIPOTLE-NAMES-SCOTT-BOATWRIGHT-CHIEF-EXECUTIVE-OFFICER-AND-MEMBER-OF-THE-BOARD)
-
-
-
-Nov 11, 2024
-
-
-
-[CHIPOTLE NAMES SCOTT BOATWRIGHT CHIEF EXECUTIVE OFFICER AND MEMBER OF THE BOARDOpens in new window](https://newsroom.chipotle.com/2024-11-11-CHIPOTLE-NAMES-SCOTT-BOATWRIGHT-CHIEF-EXECUTIVE-OFFICER-AND-MEMBER-OF-THE-BOARD)
-
-
-
-
-
-Chipotle Mexican Grill (NYSE: CMG) today announced that after a robust and thorough process, its Board of Directors has appointed Scott Boatwright as chief executive officer and a member of the...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2024-11-11-CHIPOTLE-NAMES-SCOTT-BOATWRIGHT-CHIEF-EXECUTIVE-OFFICER-AND-MEMBER-OF-THE-BOARD#assets_20295_122781-117)
-
-- Oct 29, 2024
-
-
-
-[CHIPOTLE ANNOUNCES THIRD QUARTER 2024 RESULTSOpens in new window](https://newsroom.chipotle.com/2024-10-29-CHIPOTLE-ANNOUNCES-THIRD-QUARTER-2024-RESULTS)
-
-
-
-
-
-COMPARABLE SALES INCREASE 6% DRIVEN BY OVER 3% TRANSACTION GROWTH NEWPORT BEACH, Calif., Oct. 29, 2024 /PRNewswire/ -- Chipotle Mexican Grill, Inc. (NYSE: CMG) today reported financial results for...
-
 
 Show
 
