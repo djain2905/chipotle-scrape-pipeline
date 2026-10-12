@@ -1,7 +1,7 @@
 ---
 title: Chipotle — Order Now
 url: https://www.chipotle.com/
-scraped_at: 2026-10-05T13:13:20
+scraped_at: 2026-10-12T14:03:56
 ---
 
 [ENABLE ACCESSIBILITY](https://www.chipotle.com/#)

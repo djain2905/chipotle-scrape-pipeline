@@ -1,7 +1,7 @@
 ---
-title: Chipotle is testing these 5 things to bring back buzz
+title: Chipotle is testing these 5 things to bring back buzz | Restaurant Dive
 url: https://www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/
-scraped_at: 2026-08-03T09:29:03
+scraped_at: 2026-10-12T14:03:56
 ---
 
 [Skip to main content](https://www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/#skip-link-target)
@@ -35,7 +35,7 @@ By signing up to receive our newsletter, you agree to our
 
 Search
 
-![](https://www.restaurantdive.com/static/img/menu_icons/close.svg?313321260226)![](https://www.restaurantdive.com/static/img/menu_icons/ai_search.svg?310516080626)
+![](https://www.restaurantdive.com/static/img/menu_icons/close.svg?022415091026)![](https://www.restaurantdive.com/static/img/menu_icons/ai_search.svg?022415091026)
 
 ## People also ask
 
@@ -54,25 +54,25 @@ Published June 15, 2026
 
 [Julie Littman](https://www.restaurantdive.com/editors/jlittman/) Senior Editor
 
-- ![](https://www.restaurantdive.com/static/img/social_icons/share-icon.svg?313321260226)Share
+- ![](https://www.restaurantdive.com/static/img/social_icons/share-icon.svg?022415091026)Share
 
 
-  - ![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/share-link-box.svg?313321260226)Copy link
-  - [![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/email.svg?313321260226)Email](mailto:?Subject=Chipotle%20is%20testing%20these%205%20things%20to%20bring%20back%20buzz&Body=https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/)
-  - [![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/linkedin.svg?313321260226)LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/&title=Chipotle%20is%20testing%20these%205%20things%20to%20bring%20back%20buzz)
-  - [![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/x.svg?313321260226)X/Twitter](https://twitter.com/intent/tweet?text=Chipotle%20is%20testing%20these%205%20things%20to%20bring%20back%20buzz%20https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/%20via%20@restaurantdive)
-  - [![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/facebook.svg?313321260226)Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/)
-  - ![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/print.svg?313321260226)Print
+  - ![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/share-link-box.svg?022415091026)Copy link
+  - [![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/email.svg?022415091026)Email](mailto:?Subject=Chipotle%20is%20testing%20these%205%20things%20to%20bring%20back%20buzz&Body=https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/)
+  - [![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/linkedin.svg?022415091026)LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/&title=Chipotle%20is%20testing%20these%205%20things%20to%20bring%20back%20buzz)
+  - [![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/x.svg?022415091026)X/Twitter](https://twitter.com/intent/tweet?text=Chipotle%20is%20testing%20these%205%20things%20to%20bring%20back%20buzz%20https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/%20via%20@restaurantdive)
+  - [![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/facebook.svg?022415091026)Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/)
+  - ![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/print.svg?022415091026)Print
 
-- [![](https://www.restaurantdive.com/static/img/social_icons/article_page/license-icon.svg?313321260226)License](https://www.restaurantdive.com/selfservice/article-licensing/submit/?newspostUrl=https://www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/)
-- [![](https://www.restaurantdive.com/static/img/social_icons/article_page/bookmark-add.svg?313321260226)Add us on Google](https://www.google.com/preferences/source?q=https://www.restaurantdive.com)
+- [![](https://www.restaurantdive.com/static/img/social_icons/article_page/license-icon.svg?022415091026)License](https://www.restaurantdive.com/selfservice/article-licensing/submit/?newspostUrl=https://www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/)
+- [![](https://www.restaurantdive.com/static/img/social_icons/article_page/bookmark-add.svg?022415091026)Add us on Google](https://www.google.com/preferences/source?q=https://www.restaurantdive.com)
 
 ![A sign on a Chipotle restaurant.](https://imgproxy.divecdn.com/Doa4cDfNYfFD5P5vHZsCGpeNFicM2G4T-XOXkABJhPc/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjExNjY0MjIyLmpwZw==.webp)
 
 A Chipotle store stands in the Bronx on April 23, 2025 in New York City.
 Spencer Platt via Getty Images
 
-![](https://www.restaurantdive.com/static/img/play.svg?313321260226)
+![](https://www.restaurantdive.com/static/img/play.svg?022415091026)
 Listen to the article
 
 
@@ -143,21 +143,21 @@ The biggest concern has been if Chipotle could scale catering. Competitors have 
 
 ### Read More in Menu Development
 
-[![A rendering of a KFC next-generation restaurant that includes pink neon lights and black facade.](https://imgproxy.divecdn.com/E-xFMM4L3hwygo7MYqj7AgOtyFoKenn1PHnR_6_X_VA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9LRkNfUmVzdGF1cmFudF9OZXdfRGVzaWduX1JlbW9kZWxfSW5zcG9fRGF5LnBuZw==.webp)](https://www.restaurantdive.com/news/kfc-pizza-hut-strategic-transformations/826638/) July 31, 2026 [Yum bids Pizza Hut farewell, overhauls KFC](https://www.restaurantdive.com/news/kfc-pizza-hut-strategic-transformations/826638/)
+[![A photograph of the inside of a car where two people are sitting. In the center there is small cups of chicken and fries.](https://imgproxy.divecdn.com/762TZRDvGkG7YHkmoEcbg0PeCpH4DI6vSIGJrULfjJU/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9LRkMtR28tQnVja2V0cy0yLmpwZw==.webp)](https://www.restaurantdive.com/news/kfc-go-buckets-value-snacking-afternoon-daypart/832316/) Oct. 7, 2026 [KFC expands into snacking with Go Buckets](https://www.restaurantdive.com/news/kfc-go-buckets-value-snacking-afternoon-daypart/832316/)
 
-[![A smiling worker hands someone a ceramic mug of coffee.](https://imgproxy.divecdn.com/snSI2iv6N7ks0lrt24BDFi8q9Utvd-F4vUh_6iKNPFg/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HcmVlbl9BcHJvbl9TZXJ2aWNlXy1fMy5qcGc=.webp)](https://www.restaurantdive.com/news/starbucks-q3-turnaround-gains-sales-momentum/826543/) July 30, 2026 [Starbucks remodels, service tweaks are paying off](https://www.restaurantdive.com/news/starbucks-q3-turnaround-gains-sales-momentum/826543/)
+[![A photograph of a digital menu board at McDonald's with various meal options.](https://imgproxy.divecdn.com/pM33RgkgBsg-yRTI4JDIhapOh01v0RG8oK0_5GLLft0/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjQyMF8yLmpwZw==.webp)](https://www.restaurantdive.com/news/mcdonalds-disputes-dynamic-pricing-artificial-intelligence-menu-claims/832096/) Oct. 5, 2026 [McDonald’s disputes reports that it uses AI to set prices](https://www.restaurantdive.com/news/mcdonalds-disputes-dynamic-pricing-artificial-intelligence-menu-claims/832096/)
 
-[![Two people stand in a bar looking at a tablet. One person is wearing a beige apron while the other is wearing a green dress.](https://imgproxy.divecdn.com/A-xjMKBe7d6p-eAA6qwU2c5vOrPCAiX0IIQWTUMG-tc/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDY0Nzg4MDMzX1V3ZVZJajMuanBn.webp)](https://www.restaurantdive.com/news/us-foods-stacey-Kinkaid-food-quality/826135/) July 29, 2026 [Quality without compromise: What restaurant operators really need in 2026](https://www.restaurantdive.com/news/us-foods-stacey-Kinkaid-food-quality/826135/)
+[![An image of a gray building with Charleys signage](https://imgproxy.divecdn.com/v5IWPmNKcGyZ-A0ONh51HT1psD5IqnqRXc9b6oN7NCQ/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jb3N0ZmVlcy5qcGc=.webp)](https://www.restaurantdive.com/news/charleys-cheesesteaks-wings-menu-expansion-rewards-program-update/831989/) Oct. 2, 2026 [Charleys Cheesesteaks & Wings updates menu, rewards program](https://www.restaurantdive.com/news/charleys-cheesesteaks-wings-menu-expansion-rewards-program-update/831989/)
 
-[![A quick service restaurant.](https://imgproxy.divecdn.com/ht80QDOLKu9ej_2FC6jeY93sx7VjIk-Oy9p4wu-Nwh0/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DaHVyY2hlc19TYW5fQW50b25pby0yMzk2LmpwZw==.webp)](https://www.restaurantdive.com/news/churchs-texas-chicken-secures-golub-equity-investment-growth/826348/) July 28, 2026 [Church’s Texas Chicken CEO says new funding will boost remodels, expansion](https://www.restaurantdive.com/news/churchs-texas-chicken-secures-golub-equity-investment-growth/826348/)
+[![Twp people stand in front of a lit case full of prepared foods, while a third person stands behind the case in an apron. There is a menu board on the wall, too small to read, and a sign showing a red lion licking its lips.](https://imgproxy.divecdn.com/AwCCNUklbJVqVZI5aMQ16T4LFHzKd129SGmksY5hQi0/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9MZW9zZWF0ZXJ5X3dpdGhfY3VzdG9tZXJzLnBuZw==.webp)](https://www.restaurantdive.com/news/chef-driven-convenience-stores-restaurant-professionals-rutters-leos-sprint-mart-weigels/830654/) Oct. 2, 2026 [How 4 c-stores upgraded their foodservice by hiring restaurant professionals](https://www.restaurantdive.com/news/chef-driven-convenience-stores-restaurant-professionals-rutters-leos-sprint-mart-weigels/830654/)
 
-[![A view of a Taco Bell restaurant on February 06, 2025 in Dublin, California.](https://imgproxy.divecdn.com/aDwtaFK-RuVHaNx9hEipD5h8ljbVpHfJk017K0_cczw/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk4MDI3ODUzLmpwZw==.webp)](https://www.restaurantdive.com/news/taco-bell-cyclospora-linked-cdc-pennsylvania-illinois/826196/) July 27, 2026 [Taco Bell tied to Cyclospora outbreaks in 4 more states](https://www.restaurantdive.com/news/taco-bell-cyclospora-linked-cdc-pennsylvania-illinois/826196/)
+[![A photograph of a chicken sandwich, criss-cut fries and a soda.](https://imgproxy.divecdn.com/7JrtOGC43Ndy58ix_yCapBrCZLm37r6CDivTxce1AkA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TbWFzaGJ1cmdlcl9EZWx1eGVfR3JpbGxlZF9DaGlja2VuX1NhbmR3aWNoXzIuanBn.webp)](https://www.restaurantdive.com/news/smashburger-expands-chicken-sandwich-lineup-menu-development/831684/) Oct. 1, 2026 [Smashburger grills up 2 new chicken sandwiches](https://www.restaurantdive.com/news/smashburger-expands-chicken-sandwich-lineup-menu-development/831684/)
 
-[![Taco Bell is testing a new design for its Go Mobile stores, pictured here.](https://imgproxy.divecdn.com/7mcZZ5NiNuTWgfB0OTRXsZLhhOX9yqDCTogXX1H0cFA/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UYWNvX0JlbGxfR29fTW9iaWxlLmpwZw==.webp)](https://www.restaurantdive.com/news/taco-bell-taylor-farms-franchisee-sued-cyclosporiasis/825998/) July 23, 2026 [Taco Bell flooded with lawsuits over diarrhea outbreak](https://www.restaurantdive.com/news/taco-bell-taylor-farms-franchisee-sued-cyclosporiasis/825998/)
+[![A hand holds a wrap and dips it into a cup of sauce.](https://imgproxy.divecdn.com/S7ANyby5qdN_kUB_acnBVks7jdwsfMF6pRanlyasmYg/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DYWxpX0NoaWNrZW5fQ2x1Yi5qcGc=.webp)](https://www.restaurantdive.com/news/sweetgreen-wraps-driving-sales-genz-engagement-traffic/831517/) Sept. 30, 2026 [How Sweetgreen’s Gen Z focus is paying off](https://www.restaurantdive.com/news/sweetgreen-wraps-driving-sales-genz-engagement-traffic/831517/)
 
-[![A group of five people wear Pizza Hut merchandise while sitting on and standing around a wood bench in an urban area.](https://imgproxy.divecdn.com/qfBATxzxjhi36lAPFDgFWqnJupl5JUbmtaC4Zn-5JOw/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbWFnZTAwMl8yX1B3elJHeW0ucG5n.webp)](https://www.restaurantdive.com/news/pizza-hut-serves-up-nostalgia-with-latest-rewards-program-push/825153/) July 14, 2026 [Pizza Hut serves up nostalgia with latest rewards program push](https://www.restaurantdive.com/news/pizza-hut-serves-up-nostalgia-with-latest-rewards-program-push/825153/)
+[![A photograph of an empty McDonald's restaurant within a warehouse](https://imgproxy.divecdn.com/S-ASrNNE-X2bQKWSequGBHhiyVjfQekXhacJ7JulehM/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NY0RfUmVzdGF1cmFudF9ORVhUX0Rlc2lnbl9Db25jZXB0X0V4dGVyaW9yLmpwZw==.webp)](https://www.restaurantdive.com/news/mcdonalds-investor-day-roundup/831594/) Sept. 29, 2026 [Inside McDonald’s ambitious plans to upgrade its menu, technology, and restaurants](https://www.restaurantdive.com/news/mcdonalds-investor-day-roundup/831594/)
 
-[![The image shows a row of drinks, including coffee and soda, available through Panera's Unlimited Sip Club](https://imgproxy.divecdn.com/KIKfAr8peJ7xwy2ews3H7e3fkIVHcjS7CeyVcOxiIJY/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9FeWUtTGV2ZWxfRHJpbmtfTGluZXVwNDk1NS5qcGc=.webp)](https://www.restaurantdive.com/news/panera-limits-sips-club-one-drink-daily/825122/) July 14, 2026 [Panera adds limits to Sip Club beverage subscription](https://www.restaurantdive.com/news/panera-limits-sips-club-one-drink-daily/825122/)
+[![A woman in a car holds a chicken sandwich.](https://imgproxy.divecdn.com/t4R3T0u45-e0wsjywvwxzKe6kFuEnd0PPJmLlTsOpa0/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Qb3BleWVzX2hvbmV5X2NoaWNrZW5fYmlzY3VpdC5qcGc=.webp)](https://www.restaurantdive.com/news/popeyes-snacking-honey-chicken-biscuit-breakfast-sandwich-trial-balloon/831459/) Sept. 28, 2026 [Is Popeyes’ new sandwich a breakfast test?](https://www.restaurantdive.com/news/popeyes-snacking-honey-chicken-biscuit-breakfast-sandwich-trial-balloon/831459/)
 
 [Want to see more stories in **Menu Development**?\\
 \\
@@ -192,19 +192,19 @@ The platform also was originally priced at $58. When it was first launched, Chip
 •
 Feb. 4, 2026
 
-- [![](https://www.restaurantdive.com/static/img/social_icons/article_page/bookmark-add.svg?313321260226)Add us on Google](https://www.google.com/preferences/source?q=https://www.restaurantdive.com)
-- ![](https://www.restaurantdive.com/static/img/social_icons/share-icon.svg?313321260226)Share
+- [![](https://www.restaurantdive.com/static/img/social_icons/article_page/bookmark-add.svg?022415091026)Add us on Google](https://www.google.com/preferences/source?q=https://www.restaurantdive.com)
+- ![](https://www.restaurantdive.com/static/img/social_icons/share-icon.svg?022415091026)Share
 
 
-  - ![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/share-link-box.svg?313321260226)Copy link
-  - [![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/email.svg?313321260226)Email](mailto:?Subject=Chipotle%20is%20testing%20these%205%20things%20to%20bring%20back%20buzz&Body=https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/)
-  - [![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/linkedin.svg?313321260226)LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/&title=Chipotle%20is%20testing%20these%205%20things%20to%20bring%20back%20buzz)
-  - [![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/x.svg?313321260226)X/Twitter](https://twitter.com/intent/tweet?text=Chipotle%20is%20testing%20these%205%20things%20to%20bring%20back%20buzz%20https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/%20via%20@restaurantdive)
-  - [![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/facebook.svg?313321260226)Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/)
-  - ![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/print.svg?313321260226)Print
-  - [![](https://www.restaurantdive.com/static/img/social_icons/article_page/cart.svg?313321260226)License](https://www.restaurantdive.com/selfservice/article-licensing/submit/?newspostUrl=https://www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/)
+  - ![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/share-link-box.svg?022415091026)Copy link
+  - [![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/email.svg?022415091026)Email](mailto:?Subject=Chipotle%20is%20testing%20these%205%20things%20to%20bring%20back%20buzz&Body=https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/)
+  - [![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/linkedin.svg?022415091026)LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/&title=Chipotle%20is%20testing%20these%205%20things%20to%20bring%20back%20buzz)
+  - [![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/x.svg?022415091026)X/Twitter](https://twitter.com/intent/tweet?text=Chipotle%20is%20testing%20these%205%20things%20to%20bring%20back%20buzz%20https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/%20via%20@restaurantdive)
+  - [![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/facebook.svg?022415091026)Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/)
+  - ![](https://www.restaurantdive.com/static/img/social_icons/share_dropdown/print.svg?022415091026)Print
+  - [![](https://www.restaurantdive.com/static/img/social_icons/article_page/cart.svg?022415091026)License](https://www.restaurantdive.com/selfservice/article-licensing/submit/?newspostUrl=https://www.restaurantdive.com/news/chipotle-testing-five-things-menu-catering-group-meals/822853/)
 
-Filed Under:[Menu Development,](https://www.restaurantdive.com/topic/menu-development/)[Operations,](https://www.restaurantdive.com/topic/operations/)[Catering](https://www.restaurantdive.com/topic/catering/)
+Filed Under:[Menu Development](https://www.restaurantdive.com/topic/menu-development/), [Operations](https://www.restaurantdive.com/topic/operations/), [Catering](https://www.restaurantdive.com/topic/catering/)
 
 ### Restaurant Dive news delivered to your inbox
 
@@ -224,41 +224,11 @@ Sign upA valid email address is required.Please select at least one newsletter.
 
 ### Editors’ picks
 
-- [![An image of a man and a woman looking at a tablet and doing financials in a restaurant.](https://imgproxy.divecdn.com/_mLsnsFQ2wA6z0Oz9WIpPR4ebgFGLE_lcNzDg6x3xc0/g:nowe:2:23/c:1197:676/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTY1MDc5NjA5LmpwZw==.webp)](https://www.restaurantdive.com/news/how-inflation-impacts-restaurants-what-data-shows/635647/)![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
-
-Getty Images
-
-![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
-
-
-
-### [How bad is restaurant inflation? Here’s what the data shows.](https://www.restaurantdive.com/news/how-inflation-impacts-restaurants-what-data-shows/635647/)
-
-
-
-As rising wages and operating costs push chains to increase menu prices, consumers are trading down and seeking more value-focused dining options.
-
-
-
-
-
-
-
-By Julie Littman •
-
-
-
-
-
-
-
-Nov. 3, 2022
-
-- [![Starbucks Workers United / Starbucks pro-union employees](https://imgproxy.divecdn.com/mzAGB_BTYX_DO_JGmmlkUzcCQb-dJNfh4mH0RHVOAww/g:nowe:20:217/c:1507:851/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS83LkpQRw==.webp)](https://www.restaurantdive.com/news/5-store-level-changes-driving-the-starbucks-union/636052/)![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
+- [![Starbucks Workers United / Starbucks pro-union employees](https://imgproxy.divecdn.com/mzAGB_BTYX_DO_JGmmlkUzcCQb-dJNfh4mH0RHVOAww/g:nowe:20:217/c:1507:851/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS83LkpQRw==.webp)](https://www.restaurantdive.com/news/5-store-level-changes-driving-the-starbucks-union/636052/)![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?022415091026)
 
 Permission granted by Starbucks Workers United
 
-![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
+![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?022415091026)
 
 
 
@@ -288,59 +258,11 @@ By Aneurin Canham-Clyne •
 
 Nov. 10, 2022
 
-
-### Restaurant Dive news delivered to your inbox
-
-Get the free daily newsletter read by industry experts
-
-Email:
-
-- Select user consent:[ ]
-By signing up to receive our newsletter, you agree to our
-[Terms of Use](https://www.informatechtarget.com/terms-of-use/) and
-[Privacy Policy](https://www.informatechtarget.com/privacy-policy/). You can unsubscribe at anytime.
-
-
-Sign upA valid email address is required.Please select at least one newsletter.
-
-![Newsletter example on mobile](https://imgproxy.divecdn.com/z0agfhPf9yeDlWJQ7_a0VusOvY8N9cxF_IFU65IgX9M/raw:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL3NpdGV0aGVtZXMvZGl2ZS9hcnRpY2xlLXNpZ251cC5wbmc=)
-
-## Company Announcements
-
-[View all](https://www.restaurantdive.com/press-release/)
-
-\| [Post a press release](https://www.restaurantdive.com/press-release/get-started/)
-
-[New Benchmark Report by Interface Systems Reveals What Really Drives Restaurant Security Incid…\\
-\\
-\\
-From Interface Systems\\
-\\
-July 23, 2026](https://www.restaurantdive.com/press-release/20260723-new-benchmark-report-by-interface-systems-reveals-what-really-drives-restau/) [New Book Exposes How Restaurants Are Quietly Being Stolen From - And What Owners Can Do About …\\
-\\
-\\
-From Unfiltered Ink Media, LLC\\
-\\
-July 20, 2026\\
-\\
-![Unfiltered Ink Media, LLC logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1784575194/press_release/assets/company_logos/UIM_BW_naskiv.png)](https://www.restaurantdive.com/press-release/20260720-new-book-exposes-how-restaurants-are-quietly-being-stolen-from-and-what-o/) [EverPass Introduces New Platform Capabilities to Give Commercial Venues Greater Flexibility, …\\
-\\
-\\
-From EverPass Media\\
-\\
-July 13, 2026\\
-\\
-![EverPass Media logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1783616206/press_release/assets/company_logos/Screenshot_2026-07-09_at_12.56.23PM_epfl1a.png)](https://www.restaurantdive.com/press-release/20260709-everpass-introduces-new-platform-capabilities-to-give-commercial-venues-gr/)
-
-
-Editors’ picks
-
-
-- [![An image of a next gen Dunkin' in Woodstock, Georgia.](https://imgproxy.divecdn.com/tfYK_8455kADz4hSg7lPigyiXnAQdlShIS93a1Pch00/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EdW5raW5fbmV4dF9nZW5fdW5pdC5qcGc=.webp)](https://www.restaurantdive.com/news/did-dunkin-get-it-wrong-with-coffee-discount-loyalty-shakeup/635311/)![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
+- [![An image of a next gen Dunkin' in Woodstock, Georgia.](https://imgproxy.divecdn.com/tfYK_8455kADz4hSg7lPigyiXnAQdlShIS93a1Pch00/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EdW5raW5fbmV4dF9nZW5fdW5pdC5qcGc=.webp)](https://www.restaurantdive.com/news/did-dunkin-get-it-wrong-with-coffee-discount-loyalty-shakeup/635311/)![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?022415091026)
 
 Courtesy of Dunkin’
 
-![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
+![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?022415091026)
 
 
 
@@ -366,11 +288,87 @@ By Aneurin Canham-Clyne •
 
 Oct. 31, 2022
 
-- [![Starbucks Workers United / Starbucks pro-union employees](https://imgproxy.divecdn.com/mzAGB_BTYX_DO_JGmmlkUzcCQb-dJNfh4mH0RHVOAww/g:nowe:20:217/c:1507:851/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS83LkpQRw==.webp)](https://www.restaurantdive.com/news/5-store-level-changes-driving-the-starbucks-union/636052/)![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
+
+### Restaurant Dive news delivered to your inbox
+
+Get the free daily newsletter read by industry experts
+
+Email:
+
+- Select user consent:[ ]
+By signing up to receive our newsletter, you agree to our
+[Terms of Use](https://www.informatechtarget.com/terms-of-use/) and
+[Privacy Policy](https://www.informatechtarget.com/privacy-policy/). You can unsubscribe at anytime.
+
+
+Sign upA valid email address is required.Please select at least one newsletter.
+
+![Newsletter example on mobile](https://imgproxy.divecdn.com/z0agfhPf9yeDlWJQ7_a0VusOvY8N9cxF_IFU65IgX9M/raw:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL3NpdGV0aGVtZXMvZGl2ZS9hcnRpY2xlLXNpZ251cC5wbmc=)
+
+## Company Announcements
+
+[View all](https://www.restaurantdive.com/press-release/)
+
+\| [Post a press release](https://www.restaurantdive.com/press-release/get-started/)
+
+[COBS Bread Partners with Deliverect to Simplify Digital Ordering Across North America\\
+\\
+\\
+From Deliverect\\
+\\
+October 06, 2026](https://www.restaurantdive.com/press-release/20261005-cobs-bread-partners-with-deliverect-to-simplify-digital-ordering-across-nor/) [KPOT Rolls Out Deliverect Across 140 U.S. Restaurants to Manage Third-Party Marketplace Orderi…\\
+\\
+\\
+From Deliverect\\
+\\
+September 22, 2026](https://www.restaurantdive.com/press-release/20260921-kpot-rolls-out-deliverect-across-140-us-restaurants-to-manage-third-party-1/) [FOOD RESCUE US INTRODUCES DONORLINK, A NEW TOOL TO CUT RESTAURANT FOOD WASTE\\
+\\
+\\
+From Food Rescue US\\
+\\
+September 22, 2026\\
+\\
+![Food Rescue US logo](https://res.cloudinary.com/dmgi9movl/image/upload/c_fit/v1789061030/press_release/assets/company_logos/FRUS_Logo_500x500_cream_zlxnq8.jpg)](https://www.restaurantdive.com/press-release/20260910-food-rescue-us-introduces-donorlink-a-new-tool-to-cut-restaurant-food-wast-1/)
+
+
+Editors’ picks
+
+
+- [![An image of a man and a woman looking at a tablet and doing financials in a restaurant.](https://imgproxy.divecdn.com/_mLsnsFQ2wA6z0Oz9WIpPR4ebgFGLE_lcNzDg6x3xc0/g:nowe:2:23/c:1197:676/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTY1MDc5NjA5LmpwZw==.webp)](https://www.restaurantdive.com/news/how-inflation-impacts-restaurants-what-data-shows/635647/)![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?022415091026)
+
+Getty Images
+
+![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?022415091026)
+
+
+
+### [How bad is restaurant inflation? Here’s what the data shows.](https://www.restaurantdive.com/news/how-inflation-impacts-restaurants-what-data-shows/635647/)
+
+
+
+As rising wages and operating costs push chains to increase menu prices, consumers are trading down and seeking more value-focused dining options.
+
+
+
+
+
+
+
+By Julie Littman •
+
+
+
+
+
+
+
+Nov. 3, 2022
+
+- [![Starbucks Workers United / Starbucks pro-union employees](https://imgproxy.divecdn.com/mzAGB_BTYX_DO_JGmmlkUzcCQb-dJNfh4mH0RHVOAww/g:nowe:20:217/c:1507:851/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS83LkpQRw==.webp)](https://www.restaurantdive.com/news/5-store-level-changes-driving-the-starbucks-union/636052/)![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?022415091026)
 
 Permission granted by Starbucks Workers United
 
-![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?234917240220)
+![Image attribution tooltip](https://www.restaurantdive.com/static/images/info-icon.png?022415091026)
 
 
 
@@ -404,31 +402,13 @@ Nov. 10, 2022
 Latest in Menu Development
 
 
-- [![A rendering of a KFC next-generation restaurant that includes pink neon lights and black facade.](https://imgproxy.divecdn.com/pCHkW1ykdYb95Oi2XaYgBb_krB9qi1UAXhwMyY35VwM/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9LRkNfUmVzdGF1cmFudF9OZXdfRGVzaWduX1JlbW9kZWxfSW5zcG9fRGF5LnBuZw==.webp)](https://www.restaurantdive.com/news/kfc-pizza-hut-strategic-transformations/826638/)
+- [![A photograph of the inside of a car where two people are sitting. In the center there is small cups of chicken and fries.](https://imgproxy.divecdn.com/FfTKWKlnBPHAGfJpgzISJCnUXlIm7rKuJRmE6RfcyZs/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9LRkMtR28tQnVja2V0cy0yLmpwZw==.webp)](https://www.restaurantdive.com/news/kfc-go-buckets-value-snacking-afternoon-daypart/832316/)
 
 
 
 
 
-[Yum bids Pizza Hut farewell, overhauls KFC](https://www.restaurantdive.com/news/kfc-pizza-hut-strategic-transformations/826638/)
-
-
-
-
-
-
-
-By Aneurin Canham-Clyne
-
-
-
-- [![A smiling worker hands someone a ceramic mug of coffee.](https://imgproxy.divecdn.com/t6nqz-bMnAW473h0n2xUBcaAM6HHjjGtDltEeMXaBz0/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HcmVlbl9BcHJvbl9TZXJ2aWNlXy1fMy5qcGc=.webp)](https://www.restaurantdive.com/news/starbucks-q3-turnaround-gains-sales-momentum/826543/)
-
-
-
-
-
-[Starbucks remodels, service tweaks are paying off](https://www.restaurantdive.com/news/starbucks-q3-turnaround-gains-sales-momentum/826543/)
+[KFC expands into snacking with Go Buckets](https://www.restaurantdive.com/news/kfc-go-buckets-value-snacking-afternoon-daypart/832316/)
 
 
 
@@ -436,35 +416,17 @@ By Aneurin Canham-Clyne
 
 
 
-By Aneurin Canham-Clyne
+By Julie Littman
 
 
 
-- [![Two people stand in a bar looking at a tablet. One person is wearing a beige apron while the other is wearing a green dress.](https://imgproxy.divecdn.com/Hj7WJuxg6a6ixVeqqxpaMzF9hwB8AA9h58OGIpt4ogM/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDY0Nzg4MDMzX1V3ZVZJajMuanBn.webp)](https://www.restaurantdive.com/news/us-foods-stacey-Kinkaid-food-quality/826135/)
-
-
-
-
-
-[Quality without compromise: What restaurant operators really need in 2026](https://www.restaurantdive.com/news/us-foods-stacey-Kinkaid-food-quality/826135/)
+- [![A photograph of a digital menu board at McDonald's with various meal options.](https://imgproxy.divecdn.com/CFwD0eDKcFezC3CFB07PKNCtvMOwS2atKGl3m1uiCLw/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjQyMF8yLmpwZw==.webp)](https://www.restaurantdive.com/news/mcdonalds-disputes-dynamic-pricing-artificial-intelligence-menu-claims/832096/)
 
 
 
 
 
-
-
-By Stacey Kinkaid
-
-
-
-- [![A quick service restaurant.](https://imgproxy.divecdn.com/upIjksm1ptLz4GPHXsmpzdkrEzRiQMS__l4OILbyQKY/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DaHVyY2hlc19TYW5fQW50b25pby0yMzk2LmpwZw==.webp)](https://www.restaurantdive.com/news/churchs-texas-chicken-secures-golub-equity-investment-growth/826348/)
-
-
-
-
-
-[Church’s Texas Chicken CEO says new funding will boost remodels, expansion](https://www.restaurantdive.com/news/churchs-texas-chicken-secures-golub-equity-investment-growth/826348/)
+[McDonald’s disputes reports that it uses AI to set prices](https://www.restaurantdive.com/news/mcdonalds-disputes-dynamic-pricing-artificial-intelligence-menu-claims/832096/)
 
 
 
@@ -472,7 +434,43 @@ By Stacey Kinkaid
 
 
 
-By Aneurin Canham-Clyne
+By Julie Littman
+
+
+
+- [![An image of a gray building with Charleys signage](https://imgproxy.divecdn.com/VfmAqwEVF6wdK-qH8OsgRaXiygS9YN_SIENB9erqxv0/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jb3N0ZmVlcy5qcGc=.webp)](https://www.restaurantdive.com/news/charleys-cheesesteaks-wings-menu-expansion-rewards-program-update/831989/)
+
+
+
+
+
+[Charleys Cheesesteaks & Wings updates menu, rewards program](https://www.restaurantdive.com/news/charleys-cheesesteaks-wings-menu-expansion-rewards-program-update/831989/)
+
+
+
+
+
+
+
+By Julie Littman
+
+
+
+- [![Twp people stand in front of a lit case full of prepared foods, while a third person stands behind the case in an apron. There is a menu board on the wall, too small to read, and a sign showing a red lion licking its lips.](https://imgproxy.divecdn.com/4mTRrpkPuJsJ5Jni3xj0boilwmTLQQhoMLP42doiTtg/g:ce/rs:fill:600:338:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9MZW9zZWF0ZXJ5X3dpdGhfY3VzdG9tZXJzLnBuZw==.webp)](https://www.restaurantdive.com/news/chef-driven-convenience-stores-restaurant-professionals-rutters-leos-sprint-mart-weigels/830654/)
+
+
+
+
+
+[How 4 c-stores upgraded their foodservice by hiring restaurant professionals](https://www.restaurantdive.com/news/chef-driven-convenience-stores-restaurant-professionals-rutters-leos-sprint-mart-weigels/830654/)
+
+
+
+
+
+
+
+By Amanda Baltazar
 
 
 
@@ -481,7 +479,7 @@ By Aneurin Canham-Clyne
 
 * * *
 
-[![Informa TechTarget](https://www.restaurantdive.com/static/img/ITechTarget-Logo.png?313321260226)](https://www.informatechtarget.com/)
+[![Informa TechTarget](https://www.restaurantdive.com/static/img/ITechTarget-Logo.png?022415091026)](https://www.informatechtarget.com/)
 
 
 This website is owned and operated by

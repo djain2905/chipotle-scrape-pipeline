@@ -1,7 +1,7 @@
 ---
 title: chipotle news releases
 url: https://newsroom.chipotle.com/press-releases?l=100
-scraped_at: 2026-10-05T13:13:20
+scraped_at: 2026-10-12T14:03:56
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases?l=100#content)
@@ -10,29 +10,29 @@ scraped_at: 2026-10-05T13:13:20
 
 News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases.
 
-September 2026
+October 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
-| 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-| 13 | 14 | 15 | 16 | 17 | 18 | 19 |
-| 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 1 | 2 | 3 |
 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+| 18 | 19 | 20 | 21 | 22 | 23 | 24 |
+| 25 | 26 | 27 | 28 | 29 | 30 | 31 |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 
 Cancel Go
 
-September 2026
+October 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 30 | 31 | 1 | 2 | 3 | 4 | 5 |
-| 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-| 13 | 14 | 15 | 16 | 17 | 18 | 19 |
-| 20 | 21 | 22 | 23 | 24 | 25 | 26 |
 | 27 | 28 | 29 | 30 | 1 | 2 | 3 |
 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+| 18 | 19 | 20 | 21 | 22 | 23 | 24 |
+| 25 | 26 | 27 | 28 | 29 | 30 | 31 |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 
 Cancel Go
 
@@ -55,6 +55,29 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases?l=100#)
+
+- [![](https://mmx.prnewswire.com/media/MS2001874/01_FromGroundtoSound_PR_Cision.jpg?id=OA2985587&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-10-05-CHIPOTLE-AND-THE-LONDON-VEGETABLE-ORCHESTRA-RECORD-ORIGINAL-SONG-AT-LEGENDARY-RECORDING-STUDIO-USING-ONLY-INSTRUMENTS-MADE-FROM-VEGETABLES)
+
+
+
+Oct 5, 2026
+
+
+
+[CHIPOTLE AND THE LONDON VEGETABLE ORCHESTRA RECORD ORIGINAL SONG AT LEGENDARY RECORDING STUDIO USING ONLY INSTRUMENTS MADE FROM VEGETABLESOpens in new window](https://newsroom.chipotle.com/2026-10-05-CHIPOTLE-AND-THE-LONDON-VEGETABLE-ORCHESTRA-RECORD-ORIGINAL-SONG-AT-LEGENDARY-RECORDING-STUDIO-USING-ONLY-INSTRUMENTS-MADE-FROM-VEGETABLES)
+
+
+
+
+
+"From Ground to Sound" is an original track recorded at Abbey Road Studios with the London Vegetable Orchestra using only instruments made from vegetables featured in Chipotle restaurants Three...
+
+
+
+
+
+  - [Photos4Opens in new window](https://newsroom.chipotle.com/2026-10-05-CHIPOTLE-AND-THE-LONDON-VEGETABLE-ORCHESTRA-RECORD-ORIGINAL-SONG-AT-LEGENDARY-RECORDING-STUDIO-USING-ONLY-INSTRUMENTS-MADE-FROM-VEGETABLES#assets_20295_122891-117)
+  - [Video1Opens in new window](https://newsroom.chipotle.com/2026-10-05-CHIPOTLE-AND-THE-LONDON-VEGETABLE-ORCHESTRA-RECORD-ORIGINAL-SONG-AT-LEGENDARY-RECORDING-STUDIO-USING-ONLY-INSTRUMENTS-MADE-FROM-VEGETABLES#assets_20295_122891-115)
 
 - [![](https://newsroom.chipotle.com/file.php/181193/1PRAssetChipotle1500thOpening2026_1200SEO.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-09-29-CHIPOTLE-REACHES-1,500-CHIPOTLANES,-ADVANCING-NORTH-AMERICAN-GROWTH-STRATEGY)
 
@@ -2046,27 +2069,6 @@ The popular "Chipotle segments" on Strava are expanding to 25 cities, including 
 
 Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Tuesday, February 4, 2025 at 4:30 PM Eastern time to discuss fourth quarter and full year 2024 financial results and provide a...
 
-- [![](https://mma.prnewswire.com/media/2562625/1000th_Chipotlane_Exterior.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2024-11-20-CHIPOTLE-REACHES-1,000TH-CHIPOTLANE-MILESTONE)
-
-
-
-Nov 20, 2024
-
-
-
-[CHIPOTLE REACHES 1,000TH CHIPOTLANE MILESTONEOpens in new window](https://newsroom.chipotle.com/2024-11-20-CHIPOTLE-REACHES-1,000TH-CHIPOTLANE-MILESTONE)
-
-
-
-
-
-The 1,000th Chipotlane will open in the Kansas City metro area on Thursday, November 21 Chipotle anticipates opening 315 to 345 new restaurants in 2025 with at least 80% featuring a Chipotlane...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2024-11-20-CHIPOTLE-REACHES-1,000TH-CHIPOTLANE-MILESTONE#assets_20295_122783-117)
 
 Show
 
