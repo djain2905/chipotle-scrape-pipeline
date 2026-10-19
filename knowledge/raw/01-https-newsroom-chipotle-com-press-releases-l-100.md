@@ -1,7 +1,7 @@
 ---
 title: chipotle news releases
 url: https://newsroom.chipotle.com/press-releases?l=100
-scraped_at: 2026-10-12T14:03:56
+scraped_at: 2026-10-19T11:44:47
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases?l=100#content)
@@ -55,6 +55,29 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases?l=100#)
+
+- [![](https://mmx.prnewswire.com/media/MS2011799/Chipotle_GUT_STILLS_STREET-2-2.jpg?id=OA3014400&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-10-13-CHIPOTLE-GOES-BIG-FOR-FAMILY-MEALS-WITH-THE-BIG-ASS-CHIPOTLE-BAG)
+
+
+
+Oct 13, 2026
+
+
+
+[CHIPOTLE GOES BIG FOR FAMILY MEALS WITH THE BIG ASS CHIPOTLE BAGOpens in new window](https://newsroom.chipotle.com/2026-10-13-CHIPOTLE-GOES-BIG-FOR-FAMILY-MEALS-WITH-THE-BIG-ASS-CHIPOTLE-BAG)
+
+
+
+
+
+Chipotle unveils a limited-edition, three-foot-wide, 170-liter version of its iconic takeout bag to spotlight Family Meals Family Meals are Chipotle's digital-exclusive, customizable offering...
+
+
+
+
+
+  - [Photos5Opens in new window](https://newsroom.chipotle.com/2026-10-13-CHIPOTLE-GOES-BIG-FOR-FAMILY-MEALS-WITH-THE-BIG-ASS-CHIPOTLE-BAG#assets_20295_122892-117)
+  - [Video1Opens in new window](https://newsroom.chipotle.com/2026-10-13-CHIPOTLE-GOES-BIG-FOR-FAMILY-MEALS-WITH-THE-BIG-ASS-CHIPOTLE-BAG#assets_20295_122892-115)
 
 - [![](https://mmx.prnewswire.com/media/MS2001874/01_FromGroundtoSound_PR_Cision.jpg?id=OA2985587&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-10-05-CHIPOTLE-AND-THE-LONDON-VEGETABLE-ORCHESTRA-RECORD-ORIGINAL-SONG-AT-LEGENDARY-RECORDING-STUDIO-USING-ONLY-INSTRUMENTS-MADE-FROM-VEGETABLES)
 
@@ -2057,19 +2080,6 @@ The popular "Chipotle segments" on Strava are expanding to 25 cities, including 
 
   - [Photos2Opens in new window](https://newsroom.chipotle.com/2025-01-02-CHIPOTLE-X-STRAVA-PARTNERSHIP-GOES-GLOBAL-INTRODUCING-THE-CITY-CHALLENGE-IN-25-MARKETS-TO-KICK-OFF-2025#assets_20295_122785-117)
 
-- Dec 3, 2024
-
-
-
-[CHIPOTLE MEXICAN GRILL TO ANNOUNCE FOURTH QUARTER AND FULL YEAR 2024 RESULTS ON FEBRUARY 4, 2025Opens in new window](https://newsroom.chipotle.com/2024-12-03-CHIPOTLE-MEXICAN-GRILL-TO-ANNOUNCE-FOURTH-QUARTER-AND-FULL-YEAR-2024-RESULTS-ON-FEBRUARY-4,-2025)
-
-
-
-
-
-Chipotle Mexican Grill (NYSE: CMG) will host a conference call on Tuesday, February 4, 2025 at 4:30 PM Eastern time to discuss fourth quarter and full year 2024 financial results and provide a...
-
-
 Show
 
 100
@@ -2082,5 +2092,7 @@ per page
 - [Opens in new window](https://twitter.com/share?url=https%3A%2F%2Fnewsroom.chipotle.com%2Findex.php%3Fs%3D20295 "Twitter Share")
 - [email](https://newsroom.chipotle.com/press-releases?l=100#email "email")
 - [Opens in new window](https://newsroom.chipotle.com/index.php?s=20324&rsspage=20295 "rss")
+
+(opens in a new window)
 
 [5Opens in new window](https://newsroom.chipotle.com/press-releases?l=5) [10Opens in new window](https://newsroom.chipotle.com/press-releases?l=10) [25Opens in new window](https://newsroom.chipotle.com/press-releases?l=25) [50Opens in new window](https://newsroom.chipotle.com/press-releases?l=50) [100Opens in new window](https://newsroom.chipotle.com/press-releases?l=100)
