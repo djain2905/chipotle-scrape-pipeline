@@ -1,7 +1,7 @@
 ---
-title: chipotle news releases
+title: News Releases - Chipotle newsroom
 url: https://newsroom.chipotle.com/press-releases?l=100
-scraped_at: 2026-10-19T11:44:47
+scraped_at: 2026-10-26T12:00:51
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases?l=100#content)
@@ -55,6 +55,28 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases?l=100#)
+
+- [![](https://mmx.prnewswire.com/media/MS2016613/1920x1080-PR-Boorito-Skeleton-Hand.jpg?id=OA3028041&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-10-20-BOORITO-RETURNS-CHIPOTLE-TO-OFFER-6-ENTREES-ON-HALLOWEEN-2026)
+
+
+
+Oct 20, 2026
+
+
+
+[BOORITO RETURNS: CHIPOTLE TO OFFER $6 ENTREES ON HALLOWEEN 2026Opens in new window](https://newsroom.chipotle.com/2026-10-20-BOORITO-RETURNS-CHIPOTLE-TO-OFFER-6-ENTREES-ON-HALLOWEEN-2026)
+
+
+
+
+
+Chipotle Rewards members who visit a Chipotle restaurant in costume from 3 p.m. to close on October 31 can score a $6 entrée1 NEWPORT BEACH, Calif., Oct. 20, 2026 /PRNewswire/ -- Some Halloween...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-10-20-BOORITO-RETURNS-CHIPOTLE-TO-OFFER-6-ENTREES-ON-HALLOWEEN-2026#assets_20295_122893-117)
 
 - [![](https://mmx.prnewswire.com/media/MS2011799/Chipotle_GUT_STILLS_STREET-2-2.jpg?id=OA3014400&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-10-13-CHIPOTLE-GOES-BIG-FOR-FAMILY-MEALS-WITH-THE-BIG-ASS-CHIPOTLE-BAG)
 
@@ -2057,28 +2079,6 @@ Plantible is a vertically integrated biology company unlocking the potential of 
 
 
   - [Photos2Opens in new window](https://newsroom.chipotle.com/2025-01-15-CHIPOTLES-CULTIVATE-NEXT-FUND-INVESTS-IN-AQUATIC-PLANT-BASED-TECHNOLOGIES-THAT-AIM-TO-EMULATE-ANIMAL-PROTEIN-AND-SCALE-MORE-SUSTAINABLE-CATTLE-FEED#assets_20295_122786-117)
-
-- [![](https://mma.prnewswire.com/media/2589219/Chipotle_Strava_City_Challenge_2025.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2025-01-02-CHIPOTLE-X-STRAVA-PARTNERSHIP-GOES-GLOBAL-INTRODUCING-THE-CITY-CHALLENGE-IN-25-MARKETS-TO-KICK-OFF-2025)
-
-
-
-Jan 2, 2025
-
-
-
-[CHIPOTLE X STRAVA PARTNERSHIP GOES GLOBAL: INTRODUCING "THE CITY CHALLENGE" IN 25 MARKETS TO KICK OFF 2025Opens in new window](https://newsroom.chipotle.com/2025-01-02-CHIPOTLE-X-STRAVA-PARTNERSHIP-GOES-GLOBAL-INTRODUCING-THE-CITY-CHALLENGE-IN-25-MARKETS-TO-KICK-OFF-2025)
-
-
-
-
-
-The popular "Chipotle segments" on Strava are expanding to 25 cities, including international destinations for the first time Chipotle will motivate guests to achieve their goals with a new...
-
-
-
-
-
-  - [Photos2Opens in new window](https://newsroom.chipotle.com/2025-01-02-CHIPOTLE-X-STRAVA-PARTNERSHIP-GOES-GLOBAL-INTRODUCING-THE-CITY-CHALLENGE-IN-25-MARKETS-TO-KICK-OFF-2025#assets_20295_122785-117)
 
 Show
 

@@ -1,42 +1,50 @@
 ---
 title: Chipotle — Order Now
 url: https://www.chipotle.com/
-scraped_at: 2026-10-12T14:03:56
+scraped_at: 2026-10-26T12:00:51
 ---
 
 [ENABLE ACCESSIBILITY](https://www.chipotle.com/#)
 
-Chipotle Pollo Asado is Back
+A Big Ass Bag being filled up with an entire Bring Your Own Chipotle meal.
 
-Chipotle Pollo Asado is Back
+A Big Ass Bag being filled up with an entire Bring Your Own Chipotle meal.
+
+SERVES 4-6
+
+MEET THE
+
+CHIPOTLE
+
+FAMILY MEAL
+
+**Everyone gets what they want and you**
+
+**get a chance to win a Big Ass Bag, only**
+
+**for a limited time\*.**
 
 ALL-NEW
 
-POLLO ASADO
+**MEET BUILD YOUR**
 
-& CHILI LIME CHIPS
+**OWN CHIPOTLE**
 
-**New flavor lineup just dropped: freshly**
+**Everyone gets what they want and you**
 
-**grilled chicken, hand-seasoned chips,**
+**get a chance to win a Big Ass Bag, only**
 
-**and real lime bringing bright, bold flavor.**
-
-ALL-NEW
-
-**POLLO ASADO**
-
-**& CHILI LIME CHIPS**
-
-**New flavor lineup just dropped: freshly**
-
-**grilled chicken, hand-seasoned chips, and**
-
-**real lime bringing bright, bold flavor.**
+**for a limited time\*.**
 
 [ORDER NOW](https://www.chipotle.com/#menu) [ORDER NOW](https://www.chipotle.com/#menu)
 
-![Chipotle Pepper medallion](https://www.chipotle.com/adobe/dynamicmedia/deliver/dm-aid--84b9659a-f78f-49bb-9c7d-2f762547479e/medallion-fluted-2x.png?quality=85&preferwebp=true)
+\*NoPurchNec. U.S., 13+. Ends 11/10/26. Free entry
+
+method available. Rules: [chipotle.com/giveaway](https://www.chipotle.com/giveaway)
+
+\*NoPurchNec. U.S., 13+. Ends 11/10/26. Free entry method available. Rules: chipotle.com/giveaway
+
+![Chipotle Pepper medallion](https://www.chipotle.com/adobe/dynamicmedia/deliver/dm-aid--84b9659a-f78f-49bb-9c7d-2f762547479e/medallion-fluted-2x.png?preferwebp=true&quality=85)
 
 JOIN CHIPOTLE REWARDS. UNLOCK FREE CHIPOTLE.
 
@@ -48,83 +56,59 @@ SIGN IN
 
 Navigated to order menu page
 
-![Family Meals](https://www.chipotle.com/content/dam/chipotle/menu/meal-types/byoc/web-desktop/BYOC-crop.png)
+Members of the London Vegetable Orchestra playing instruments made from various vegetables together.
 
-Digital Only
+Members of the London Vegetable Orchestra playing instruments made from various vegetables together.
 
-Family Meals
+REAL
 
-Serves 4-6 people
+INGREDIENTS
 
-Order
+SOUND
 
-![Burrito](https://www.chipotle.com/content/dam/chipotle/menu/meal-types/burrito/web-desktop/burrito.png)
+DIFFERENT
 
-Burrito
+Our food starts with Real
 
-Order
+Ingredients and are made
 
-![Burrito Bowl](https://www.chipotle.com/content/dam/chipotle/menu/meal-types/burrito-bowl/web-desktop/order.png)
+with no artificial colors,
 
-Burrito Bowl
+flavors, or preservatives.
 
-Order
+And now, so does our music.
 
-![High Protein Menu](https://www.chipotle.com/content/dam/chipotle/menu/meal-types/high-protein/web-desktop/high-protein-meal.png)
+Watch From Ground to
 
-New
+Sound where everything
 
-High Protein Menu
+you hear comes straight
 
-Order
+from the source.
 
-![Quesadilla](https://www.chipotle.com/content/dam/chipotle/menu/meal-types/quesadilla/web-desktop/quesadilla.png)
+REAL INGREDIENTS
 
-Digital Only
+SOUND DIFFERENT
 
-Quesadilla
+Our food starts with Real
 
-Order
+Ingredients and are made with no
 
-![Salad](https://www.chipotle.com/content/dam/chipotle/menu/meal-types/salad/web-desktop/order.png)
+artificial colors, flavors, or
 
-Salad
+preservatives. And now, so does
 
-Order
+our music. Watch From Ground to
 
-![Tacos](https://www.chipotle.com/content/dam/chipotle/menu/meal-types/tacos/soft-taco/web-desktop/three-tacos.png)
+Sound where everything you hear
 
-Tacos
+comes straight from the source.
 
-Order
+[LEARN MORELEARN MORE](https://groundtosound.chipotle.com/)
 
-![Kid's Meal](https://www.chipotle.com/content/dam/chipotle/menu/meal-types/kids-meal/web-desktop/order.png)
+Members of the London Vegetable Orchestra playing instruments made from various vegetables together.
 
-Kid's Meal
-
-Order
-
-![Chips & Sides](https://www.chipotle.com/content/dam/chipotle/menu/meal-types/chips-and-guac/web-desktop/order.png)
-
-Chips & Sides
-
-Order
-
-WE START
-
-WITH 48
-
-PERFECT
-
-AVOCADOS
-
-Our hand-mashed guac starts with whole, ripe avocados and is freshly made all day long so it always adds a little something extra to your bowl.
-
-WE START WITH 48 PERFECT AVOCADOS
-
-Our hand-mashed guac starts with whole, ripe avocados and is freshly made all day long so it always adds a little something extra to your bowl.
-
-[ORDER NOWORDER NOW](https://www.chipotle.com/#menu)
+Members of the London Vegetable Orchestra playing instruments made from various vegetables together.
 
 ![pollo asado chicken bowl with Chipotle chili lime chips](https://www.chipotle.com/content/dam/chipotle/homepage/us/secondary-touts/2026/clc-and-pa/D-Secondary-Tout-Chili-Lime-x-Pollo-2x.jpg)![pollo asado chicken bowl with Chipotle chili lime chips](https://www.chipotle.com/content/dam/chipotle/homepage/us/secondary-touts/2026/clc-and-pa/M-Secondary-Tout-Chili-Lime-x-Pollo-2x.jpg)
 
@@ -149,18 +133,6 @@ Freshly grilled chicken meets hand-seasoned chips for a pairing that’s bright,
 [ORDER NOWORDER NOW](https://www.chipotle.com/#menu)
 
 ![pollo asado chicken bowl with Chipotle chili lime chips](https://www.chipotle.com/content/dam/chipotle/homepage/us/secondary-touts/2026/clc-and-pa/D-Secondary-Tout-Chili-Lime-x-Pollo-2x.jpg)![pollo asado chicken bowl with Chipotle chili lime chips](https://www.chipotle.com/content/dam/chipotle/homepage/us/secondary-touts/2026/clc-and-pa/M-Secondary-Tout-Chili-Lime-x-Pollo-2x.jpg)
-
-![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/4120eb6b-698b-47f8-bdc3-13de963783da/e3700b42-f83d-45a7-85ec-06c134331508.jpg)
-
-Poki's Pollo Asado And Steak Bowl
-
-![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/24f4ed41-7f7c-4eb9-8559-bd2662610c36/c9046315-27d7-452d-95e8-c2b00a6daa90.jpg)
-
-Pollo Asado Burrito Bowl
-
-![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/5c312ce3-3123-4c18-8226-53d61b1bdbdb/e6e59d64-a7db-4404-8c29-d35a51e26618.jpg)
-
-Pollo Asado Burrito
 
 # CROWD PLEASERS
 

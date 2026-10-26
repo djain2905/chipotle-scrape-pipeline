@@ -1,7 +1,7 @@
 ---
-title: CHIPOTLE KICKS OFF 2026 MENU INNOVATION WITH THE ...
+title: CHIPOTLE KICKS OFF 2026 MENU INNOVATION WITH THE RETURN ...
 url: https://newsroom.chipotle.com/2026-01-27-CHIPOTLE-KICKS-OFF-2026-MENU-INNOVATION-WITH-THE-RETURN-OF-CHICKEN-AL-PASTOR,-ONE-OF-ITS-MOST-REQUESTED-ITEMS
-scraped_at: 2026-05-11T09:29:20
+scraped_at: 2026-10-26T12:00:51
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/2026-01-27-CHIPOTLE-KICKS-OFF-2026-MENU-INNOVATION-WITH-THE-RETURN-OF-CHICKEN-AL-PASTOR,-ONE-OF-ITS-MOST-REQUESTED-ITEMS#content)
@@ -110,3 +110,5 @@ Certain statements in this press release are forward-looking statements, as defi
 SOURCE Chipotle Mexican Grill, Inc.
 
 For further information: Erin Wolford, (949) 524-4035, MediaRelations@chipotle.com
+
+(opens in a new window)
