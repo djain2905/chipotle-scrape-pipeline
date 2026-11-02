@@ -1,46 +1,44 @@
 ---
 title: Chipotle — Order Now
 url: https://www.chipotle.com/
-scraped_at: 2026-09-14T11:23:42
+scraped_at: 2026-11-02T14:24:32
 ---
 
 [ENABLE ACCESSIBILITY](https://www.chipotle.com/#)
 
-Chipotle Pollo Asado is Back
+![A Chipotle Boorito floats inside a crystal ball.](https://www.chipotle.com/content/dam/chipotle/menu-item-campaigns/Boorito/2026/US/Homepage%20Hero/CHP__Homepage-Hero_Desktop__2300x520-2x.png)![A Chipotle Boorito floats inside a crystal ball.](https://www.chipotle.com/content/dam/chipotle/menu-item-campaigns/Boorito/2026/US/Homepage%20Hero/CHP__Homepage-Hero_Mobile__800x900-2x.png)
 
-Chipotle Pollo Asado is Back
+USE CODE:BOORITO
 
-ALL-NEW
+HALLOWEEKEND
 
-POLLO ASADO
+DELIVERED
 
-& CHILI LIME CHIPS
+No tricks, just $0 Delivery Fee
 
-**New flavor lineup just dropped: freshly**
+all Halloweekend long\*.
 
-**grilled chicken, hand-seasoned chips,**
+USE CODE:BOORITO
 
-**and real lime bringing bright, bold flavor.**
+HALLOWEEKEND
 
-ALL-NEW
+DELIVERED
 
-**POLLO ASADO**
+No tricks, just $0 Delivery Fee
 
-**& CHILI LIME CHIPS**
-
-**New flavor lineup just dropped: freshly**
-
-**grilled chicken, hand-seasoned chips, and**
-
-**real lime bringing bright, bold flavor.**
+all Halloweekend long\*.
 
 [ORDER NOW](https://www.chipotle.com/#menu) [ORDER NOW](https://www.chipotle.com/#menu)
 
-![Chipotle Pepper medallion](https://www.chipotle.com/adobe/dynamicmedia/deliver/dm-aid--84b9659a-f78f-49bb-9c7d-2f762547479e/medallion-fluted-2x.png?quality=85&preferwebp=true)
+\*Valid 10/31/2026-11/1/2026. Higher menu prices and (except in CA/CO/CT/MA/MN/VA) additional fees apply for delivery. $10 min, excl. tax and fees. 15 entrées max per order. Chipotle.com or Chipotle app only. Terms: [chipotle.com/boorito-2026-zdd](https://www.chipotle.com/boorito-2026-zdd)
 
-JOIN CHIPOTLE REWARDS. UNLOCK FREE CHIPOTLE.
+\*Valid 10/31/2026-11/1/2026. Higher menu prices and (except in CA/CO/CT/MA/MN/VA) additional fees apply for delivery. $10 min, excl. tax and fees. 15 entrées max per order. Chipotle.com or Chipotle app only. Terms: [chipotle.com/boorito-2026-zdd](https://www.chipotle.com/boorito-2026-zdd)
 
-JOIN REWARDS
+![A stylized, ghostly Chipotle pepper logo.](https://www.chipotle.com/adobe/dynamicmedia/deliver/dm-aid--a211e567-8fbe-468f-9b3d-07258fa67597/ghoul-icon-2x.png?quality=85&preferwebp=true)
+
+NOT A REWARDS MEMBER? THAT’S SCARY. JOIN NOW.
+
+CREATE AN ACCOUNT
 
 **OR**
 
@@ -48,11 +46,11 @@ SIGN IN
 
 Navigated to order menu page
 
-![Build-Your-Own](https://www.chipotle.com/content/dam/chipotle/menu/meal-types/byoc/web-desktop/BYOC-crop.png)
+![Family Meals](https://www.chipotle.com/content/dam/chipotle/menu/meal-types/byoc/web-desktop/BYOC.png)
 
 Digital Only
 
-Build-Your-Own
+Family Meals
 
 Serves 4-6 people
 
@@ -110,34 +108,6 @@ Chips & Sides
 
 Order
 
-back to school giftcards Chipotle 2026
-
-back to school giftcards Chipotle 2026
-
-GO BACK TO
-
-SCHOOL WITH
-
-CHIPOTLE
-
-Send them back to school with a Chipotle Gift Card—perfect for powering through lectures, study sessions, and everything after class.
-
-GO BACK TO SCHOOL
-
-WITH CHIPOTLE
-
-Send them back to school with a Chipotle Gift Card—perfect for powering through lectures, study sessions, and everything after class.
-
-[SHOP GIFT CARDSSHOP GIFT CARDS](https://www.chipotle.com/gift-cards)
-
-back to school giftcards Chipotle 2026
-
-back to school giftcards Chipotle 2026
-
-Guacamole at Chipotle
-
-Guacamole at Chipotle
-
 WE START
 
 WITH 48
@@ -154,21 +124,41 @@ Our hand-mashed guac starts with whole, ripe avocados and is freshly made all da
 
 [ORDER NOWORDER NOW](https://www.chipotle.com/#menu)
 
-Guacamole at Chipotle
+![pollo asado chicken bowl with Chipotle chili lime chips](https://www.chipotle.com/content/dam/chipotle/homepage/us/secondary-touts/2026/clc-and-pa/D-Secondary-Tout-Chili-Lime-x-Pollo-2x.jpg)![pollo asado chicken bowl with Chipotle chili lime chips](https://www.chipotle.com/content/dam/chipotle/homepage/us/secondary-touts/2026/clc-and-pa/M-Secondary-Tout-Chili-Lime-x-Pollo-2x.jpg)
 
-Guacamole at Chipotle
+ALL-NEW POLLO
 
-![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/3916248a-68fd-4c0f-87e9-38d794e50d7e/79cd3ae5-9808-460d-910e-f2199e2bd314.jpg)
+ASADO AND
 
-Bardi Bowl with Chili Lime Chips
+CHILI LIME
 
-![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/ead6de63-d046-4795-a80c-490f10c285bd/1c709376-bad9-492f-807b-d99c750e4aeb.jpg)
+CHIPS
 
-Sam's High Protein Tacos
+Freshly grilled chicken meets hand-seasoned chips for a pairing that’s bright, bold, and made fresh. Lime changes everything.
 
-![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/24f4ed41-7f7c-4eb9-8559-bd2662610c36/c9046315-27d7-452d-95e8-c2b00a6daa90.jpg)
+ALL-NEW POLLO
 
-Pollo Asado Burrito Bowl
+ASADO AND CHILI
+
+LIME CHIPS
+
+Freshly grilled chicken meets hand-seasoned chips for a pairing that’s bright, bold, and made fresh. Lime changes everything.
+
+[ORDER NOWORDER NOW](https://www.chipotle.com/#menu)
+
+![pollo asado chicken bowl with Chipotle chili lime chips](https://www.chipotle.com/content/dam/chipotle/homepage/us/secondary-touts/2026/clc-and-pa/D-Secondary-Tout-Chili-Lime-x-Pollo-2x.jpg)![pollo asado chicken bowl with Chipotle chili lime chips](https://www.chipotle.com/content/dam/chipotle/homepage/us/secondary-touts/2026/clc-and-pa/M-Secondary-Tout-Chili-Lime-x-Pollo-2x.jpg)
+
+![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/7a0dc238-0fa6-4aa1-bc72-bb6f1972d08c/8c3d4689-201e-4e55-9646-964df03bbca7.jpg)
+
+Smoked Serrano Steak Burrito Bowl
+
+![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/9fc4ed1c-4627-4d5f-84fa-fce3c8e39c91/19dc3be9-d170-406a-b0da-4d25ef35c15e.jpg)
+
+Smoked Serrano Steak Quesadilla
+
+![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/d2d04bdd-7e47-4db7-be41-2d40bfc0a131/e8d9f890-b8d5-47a0-a028-50386b6b3e47.jpg)
+
+The Lola Bowl
 
 # CROWD PLEASERS
 

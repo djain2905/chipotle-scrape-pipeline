@@ -1,7 +1,7 @@
 ---
 title: CHIPOTLE REVEALS RED CHIMICHURRI AS NEXT STEP IN ...
 url: https://ir.chipotle.com/2025-09-29-CHIPOTLE-REVEALS-RED-CHIMICHURRI-AS-NEXT-STEP-IN-MENU-INNOVATION
-scraped_at: 2026-10-19T11:44:47
+scraped_at: 2026-11-02T14:24:32
 ---
 
 [Back to News Releases](https://ir.chipotle.com/news-releases)

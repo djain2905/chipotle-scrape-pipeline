@@ -1,7 +1,7 @@
 ---
-title: News Releases - Chipotle newsroom
+title: chipotle news releases
 url: https://newsroom.chipotle.com/press-releases?l=100
-scraped_at: 2026-10-26T12:00:51
+scraped_at: 2026-11-02T14:24:32
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases?l=100#content)
@@ -55,6 +55,40 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases?l=100#)
+
+- Oct 28, 2026
+
+
+
+[CHIPOTLE ANNOUNCES THIRD QUARTER 2026 RESULTSOpens in new window](https://newsroom.chipotle.com/2026-10-28-CHIPOTLE-ANNOUNCES-THIRD-QUARTER-2026-RESULTS)
+
+
+
+
+
+COMPARABLE RESTAURANT SALES INCREASE 2.1% AS CHIPOTLE DELIVERS A THIRD CONSECUTIVE QUARTER OF POSITIVE TRANSACTION GROWTH NEWPORT BEACH, Calif., Oct. 28, 2026 /PRNewswire/ -- Chipotle Mexican...
+
+- [![](https://mmx.prnewswire.com/media/MS2020006/1920x1080-PR-Image_Brisket-without-Text.jpg?id=OA3037614&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-10-26-CHIPOTLE-TO-BRING-BACK-MESQUITE-SMOKED-BRISKET-FOR-THE-HEART-OF-FOOTBALL-SEASON)
+
+
+
+Oct 26, 2026
+
+
+
+[CHIPOTLE TO BRING BACK MESQUITE-SMOKED BRISKET FOR THE HEART OF FOOTBALL SEASONOpens in new window](https://newsroom.chipotle.com/2026-10-26-CHIPOTLE-TO-BRING-BACK-MESQUITE-SMOKED-BRISKET-FOR-THE-HEART-OF-FOOTBALL-SEASON)
+
+
+
+
+
+With a history of selling out earlier than anticipated, Smoked Brisket returns to restaurants for a limited time beginning November 5 Smoked Brisket is mesquite-smoked for hours before being...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-10-26-CHIPOTLE-TO-BRING-BACK-MESQUITE-SMOKED-BRISKET-FOR-THE-HEART-OF-FOOTBALL-SEASON#assets_20295_122895-117)
 
 - [![](https://mmx.prnewswire.com/media/MS2016613/1920x1080-PR-Boorito-Skeleton-Hand.jpg?id=OA3028041&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-10-20-BOORITO-RETURNS-CHIPOTLE-TO-OFFER-6-ENTREES-ON-HALLOWEEN-2026)
 
@@ -2036,49 +2070,6 @@ Chipotle is looking to hire 20,000 additional employees for its upcoming "Burrit
 
 FOURTH QUARTER COMPARABLE SALES INCREASE 5.4% DRIVEN BY 4.0% TRANSACTION GROWTH FULL YEAR 2024 COMPARABLE SALES INCREASE 7.4% DRIVEN BY 5.3% TRANSACTION GROWTH NEWPORT BEACH, Calif., Feb. 4, 2025...
 
-- [![](https://mma.prnewswire.com/media/2607440/Chipotle_ExtraSunday_PR_Asset.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2025-01-28-CHIPOTLE-ANSWERS-THE-CALL-FROM-FOOTBALL-FANS-AND-INTRODUCES-EXTRA-SUNDAY-ON-FEBRUARY-10,-FEATURING-FREE-GUAC-AND-QUESO-BLANCO-FOR-CHIPOTLE-REWARDS-MEMBERS)
-
-
-
-Jan 28, 2025
-
-
-
-[CHIPOTLE ANSWERS THE CALL FROM FOOTBALL FANS AND INTRODUCES "EXTRA SUNDAY" ON FEBRUARY 10, FEATURING FREE GUAC AND QUESO BLANCO FOR CHIPOTLE REWARDS MEMBERSOpens in new window](https://newsroom.chipotle.com/2025-01-28-CHIPOTLE-ANSWERS-THE-CALL-FROM-FOOTBALL-FANS-AND-INTRODUCES-EXTRA-SUNDAY-ON-FEBRUARY-10,-FEATURING-FREE-GUAC-AND-QUESO-BLANCO-FOR-CHIPOTLE-REWARDS-MEMBERS)
-
-
-
-
-
-More than 40% of employed Americans think the Monday after the men's professional American football championship should be a national holiday in the U.S.1 In response, Chipotle will give Monday,...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2025-01-28-CHIPOTLE-ANSWERS-THE-CALL-FROM-FOOTBALL-FANS-AND-INTRODUCES-EXTRA-SUNDAY-ON-FEBRUARY-10,-FEATURING-FREE-GUAC-AND-QUESO-BLANCO-FOR-CHIPOTLE-REWARDS-MEMBERS#assets_20295_122787-117)
-
-- [![](https://mma.prnewswire.com/media/2598324/Chipotle_Plantible_Duckweed.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2025-01-15-CHIPOTLES-CULTIVATE-NEXT-FUND-INVESTS-IN-AQUATIC-PLANT-BASED-TECHNOLOGIES-THAT-AIM-TO-EMULATE-ANIMAL-PROTEIN-AND-SCALE-MORE-SUSTAINABLE-CATTLE-FEED)
-
-
-
-Jan 15, 2025
-
-
-
-[CHIPOTLE'S CULTIVATE NEXT FUND INVESTS IN AQUATIC PLANT-BASED TECHNOLOGIES THAT AIM TO EMULATE ANIMAL PROTEIN AND SCALE MORE SUSTAINABLE CATTLE FEEDOpens in new window](https://newsroom.chipotle.com/2025-01-15-CHIPOTLES-CULTIVATE-NEXT-FUND-INVESTS-IN-AQUATIC-PLANT-BASED-TECHNOLOGIES-THAT-AIM-TO-EMULATE-ANIMAL-PROTEIN-AND-SCALE-MORE-SUSTAINABLE-CATTLE-FEED)
-
-
-
-
-
-Plantible is a vertically integrated biology company unlocking the potential of duckweed to create a plant-based protein that emulates the characteristics of animal-based proteins CH4 Global is...
-
-
-
-
-
-  - [Photos2Opens in new window](https://newsroom.chipotle.com/2025-01-15-CHIPOTLES-CULTIVATE-NEXT-FUND-INVESTS-IN-AQUATIC-PLANT-BASED-TECHNOLOGIES-THAT-AIM-TO-EMULATE-ANIMAL-PROTEIN-AND-SCALE-MORE-SUSTAINABLE-CATTLE-FEED#assets_20295_122786-117)
 
 Show
 
