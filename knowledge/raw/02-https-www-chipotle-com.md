@@ -1,54 +1,52 @@
 ---
 title: Chipotle — Order Now
 url: https://www.chipotle.com/
-scraped_at: 2026-10-26T12:00:51
+scraped_at: 2026-11-09T14:50:46
 ---
 
 [ENABLE ACCESSIBILITY](https://www.chipotle.com/#)
 
-A Big Ass Bag being filled up with an entire Bring Your Own Chipotle meal.
+**LIMITED TIME ONLY**
 
-A Big Ass Bag being filled up with an entire Bring Your Own Chipotle meal.
+**SMOKED** BRISKET
 
-SERVES 4-6
+$0 DELIVERY FEE\*
 
-MEET THE
+**Mesquite-smoked with garlic, cumin, and**
 
-CHIPOTLE
+**Mexican peppers. Responsibly Raised** **®**
 
-FAMILY MEAL
+**beef brisket hand-chopped fresh daily.**
 
-**Everyone gets what they want and you**
+**LIMITED TIME ONLY**
 
-**get a chance to win a Big Ass Bag, only**
+SMOKED
 
-**for a limited time\*.**
+BRISKET
 
-ALL-NEW
+$0 DELIVERY FEE\*
 
-**MEET BUILD YOUR**
+**Mesquite-smoked with garlic, cumin, and**
 
-**OWN CHIPOTLE**
+**Mexican peppers. Responsibly Raised** **®**
 
-**Everyone gets what they want and you**
-
-**get a chance to win a Big Ass Bag, only**
-
-**for a limited time\*.**
+**beef brisket hand-chopped fresh daily.**
 
 [ORDER NOW](https://www.chipotle.com/#menu) [ORDER NOW](https://www.chipotle.com/#menu)
 
-\*NoPurchNec. U.S., 13+. Ends 11/10/26. Free entry
+\*Valid 11/5/2026-11/18/2026. Higher menu prices and (except in CA/CO/CT/MA/MN/VA)
 
-method available. Rules: [chipotle.com/giveaway](https://www.chipotle.com/giveaway)
+additional fees apply for delivery. $10 min, excl. tax and fees. 15 entrées max per order.
 
-\*NoPurchNec. U.S., 13+. Ends 11/10/26. Free entry method available. Rules: chipotle.com/giveaway
+Chipotle.com or Chipotle app only. Full Terms: [chipotle.com/smoked-brisket-zdd](https://www.chipotle.com/smoked-brisket-zdd)
 
-![Chipotle Pepper medallion](https://www.chipotle.com/adobe/dynamicmedia/deliver/dm-aid--84b9659a-f78f-49bb-9c7d-2f762547479e/medallion-fluted-2x.png?preferwebp=true&quality=85)
+\*Valid 11/5/2026-11/18/2026. Higher menu prices and (except in CA/CO/CT/MA/MN/VA) additional fees apply for delivery. $10 min, excl. tax and fees. 15 entrées max per order. Chipotle.com or Chipotle app only. Full Terms: [chipotle.com/smoked-brisket-zdd](https://www.chipotle.com/smoked-brisket-zdd)
+
+![Chipotle pepper logo](https://www.chipotle.com/adobe/dynamicmedia/deliver/dm-aid--d775719b-b7f8-4f3d-a930-257cb7522b07/medallion-fluted-2x.png?quality=85&preferwebp=true)
 
 JOIN CHIPOTLE REWARDS. UNLOCK FREE CHIPOTLE.
 
-JOIN REWARDS
+CREATE AN ACCOUNT
 
 **OR**
 
@@ -56,83 +54,55 @@ SIGN IN
 
 Navigated to order menu page
 
-Members of the London Vegetable Orchestra playing instruments made from various vegetables together.
+A video compilation of fresh sliced Smoked Brisket, Smoked Brisket being macerated in Chipotle’s signature sauce, and a Smoked Brisket Burrito Bowl with White Rice, Black Beans, Roasted Corn Chili Salsa, Fresh Tomato Salsa, Fajita Veggies, Monterey Jack Cheese, and hand-mashed Guacamole.
 
-Members of the London Vegetable Orchestra playing instruments made from various vegetables together.
+A video compilation of fresh sliced Smoked Brisket, Smoked Brisket being macerated in Chipotle’s signature sauce, and a Smoked Brisket Burrito Bowl with White Rice, Black Beans, Roasted Corn Chili Salsa, Fresh Tomato Salsa, Fajita Veggies, Monterey Jack Cheese, and hand-mashed Guacamole.
 
-REAL
+SMOKED
 
-INGREDIENTS
+BRISKET IS
 
-SOUND
+BACK FOR A
 
-DIFFERENT
+LIMITED TIME
 
-Our food starts with Real
+Tender, hand-chopped,
 
-Ingredients and are made
+seasoned with authentic
 
-with no artificial colors,
+Mexican spices, and
 
-flavors, or preservatives.
+tossed in a smoky, bold
 
-And now, so does our music.
+sauce made with chipotle
 
-Watch From Ground to
+peppers.
 
-Sound where everything
+SMOKED BRISKET IS BACK FOR A LIMITED TIME
 
-you hear comes straight
-
-from the source.
-
-REAL INGREDIENTS
-
-SOUND DIFFERENT
-
-Our food starts with Real
-
-Ingredients and are made with no
-
-artificial colors, flavors, or
-
-preservatives. And now, so does
-
-our music. Watch From Ground to
-
-Sound where everything you hear
-
-comes straight from the source.
-
-[LEARN MORELEARN MORE](https://groundtosound.chipotle.com/)
-
-Members of the London Vegetable Orchestra playing instruments made from various vegetables together.
-
-Members of the London Vegetable Orchestra playing instruments made from various vegetables together.
-
-![pollo asado chicken bowl with Chipotle chili lime chips](https://www.chipotle.com/content/dam/chipotle/homepage/us/secondary-touts/2026/clc-and-pa/D-Secondary-Tout-Chili-Lime-x-Pollo-2x.jpg)![pollo asado chicken bowl with Chipotle chili lime chips](https://www.chipotle.com/content/dam/chipotle/homepage/us/secondary-touts/2026/clc-and-pa/M-Secondary-Tout-Chili-Lime-x-Pollo-2x.jpg)
-
-ALL-NEW POLLO
-
-ASADO AND
-
-CHILI LIME
-
-CHIPS
-
-Freshly grilled chicken meets hand-seasoned chips for a pairing that’s bright, bold, and made fresh. Lime changes everything.
-
-ALL-NEW POLLO
-
-ASADO AND CHILI
-
-LIME CHIPS
-
-Freshly grilled chicken meets hand-seasoned chips for a pairing that’s bright, bold, and made fresh. Lime changes everything.
+Tender, hand-chopped, seasoned with authentic Mexican spices, and tossed in a smoky, bold sauce made with chipotle peppers.
 
 [ORDER NOWORDER NOW](https://www.chipotle.com/#menu)
 
-![pollo asado chicken bowl with Chipotle chili lime chips](https://www.chipotle.com/content/dam/chipotle/homepage/us/secondary-touts/2026/clc-and-pa/D-Secondary-Tout-Chili-Lime-x-Pollo-2x.jpg)![pollo asado chicken bowl with Chipotle chili lime chips](https://www.chipotle.com/content/dam/chipotle/homepage/us/secondary-touts/2026/clc-and-pa/M-Secondary-Tout-Chili-Lime-x-Pollo-2x.jpg)
+A video compilation of fresh sliced Smoked Brisket, Smoked Brisket being macerated in Chipotle’s signature sauce, and a Smoked Brisket Burrito Bowl with White Rice, Black Beans, Roasted Corn Chili Salsa, Fresh Tomato Salsa, Fajita Veggies, Monterey Jack Cheese, and hand-mashed Guacamole.
+
+A video compilation of fresh sliced Smoked Brisket, Smoked Brisket being macerated in Chipotle’s signature sauce, and a Smoked Brisket Burrito Bowl with White Rice, Black Beans, Roasted Corn Chili Salsa, Fresh Tomato Salsa, Fajita Veggies, Monterey Jack Cheese, and hand-mashed Guacamole.
+
+WE START
+
+WITH 48
+
+PERFECT
+
+AVOCADOS
+
+Our hand-mashed guac starts with whole, ripe avocados and is freshly made all day long so it always adds a little something extra to your bowl.
+
+WE START WITH 48 PERFECT AVOCADOS
+
+Our hand-mashed guac starts with whole, ripe avocados and is freshly made all day long so it always adds a little something extra to your bowl.
+
+[ORDER NOWORDER NOW](https://www.chipotle.com/#menu)
 
 # CROWD PLEASERS
 

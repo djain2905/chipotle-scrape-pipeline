@@ -1,7 +1,7 @@
 ---
 title: chipotle news releases
 url: https://newsroom.chipotle.com/press-releases?l=100
-scraped_at: 2026-11-02T14:24:32
+scraped_at: 2026-11-09T14:50:46
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases?l=100#content)
@@ -10,29 +10,29 @@ scraped_at: 2026-11-02T14:24:32
 
 News releases are archived for three years and are presented in chronological order. Please use the search bar below to search News Releases.
 
-October 2026
+November 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 27 | 28 | 29 | 30 | 1 | 2 | 3 |
-| 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| 11 | 12 | 13 | 14 | 15 | 16 | 17 |
-| 18 | 19 | 20 | 21 | 22 | 23 | 24 |
-| 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| 8 | 9 | 10 | 11 | 12 | 13 | 14 |
+| 15 | 16 | 17 | 18 | 19 | 20 | 21 |
+| 22 | 23 | 24 | 25 | 26 | 27 | 28 |
+| 29 | 30 | 1 | 2 | 3 | 4 | 5 |
+| 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
 Cancel Go
 
-October 2026
+November 2026
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | --- | --- | --- | --- | --- | --- | --- |
-| 27 | 28 | 29 | 30 | 1 | 2 | 3 |
-| 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| 11 | 12 | 13 | 14 | 15 | 16 | 17 |
-| 18 | 19 | 20 | 21 | 22 | 23 | 24 |
-| 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| 8 | 9 | 10 | 11 | 12 | 13 | 14 |
+| 15 | 16 | 17 | 18 | 19 | 20 | 21 |
+| 22 | 23 | 24 | 25 | 26 | 27 | 28 |
+| 29 | 30 | 1 | 2 | 3 | 4 | 5 |
+| 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
 Cancel Go
 
@@ -55,6 +55,28 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases?l=100#)
+
+- [![](https://newsroom.chipotle.com/file.php/181412/10.6Updated-All31200.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-11-04-CHIPOTLE-EXPANDS-ATHLETE-CARD-PROGRAM-TO-MORE-THAN-2,300-COLLEGE-ATHLETES)
+
+
+
+Nov 4, 2026
+
+
+
+[CHIPOTLE EXPANDS ATHLETE CARD PROGRAM TO MORE THAN 2,300 COLLEGE ATHLETESOpens in new window](https://newsroom.chipotle.com/2026-11-04-CHIPOTLE-EXPANDS-ATHLETE-CARD-PROGRAM-TO-MORE-THAN-2,300-COLLEGE-ATHLETES)
+
+
+
+
+
+Florida State joins The Ohio State University, University of Florida and University of Georgia as the fourth athletic department in Chipotle's growing Athlete Card program
+
+
+
+
+
+  - [Photos4Opens in new window](https://newsroom.chipotle.com/2026-11-04-CHIPOTLE-EXPANDS-ATHLETE-CARD-PROGRAM-TO-MORE-THAN-2,300-COLLEGE-ATHLETES#assets_20295_122898-117)
 
 - Oct 28, 2026
 
@@ -2057,19 +2079,6 @@ Chipotle is looking to hire 20,000 additional employees for its upcoming "Burrit
 
 
   - [Photos1Opens in new window](https://newsroom.chipotle.com/2025-02-19-CHIPOTLE-AIMS-TO-HIRE-FUTURE-BILLION-DOLLAR-BUSINESS-LEADERS-IN-NEW-BURRITO-SEASON-HIRING-PUSH#assets_20295_122789-117)
-
-- Feb 4, 2025
-
-
-
-[CHIPOTLE ANNOUNCES FOURTH QUARTER AND FULL YEAR 2024 RESULTSOpens in new window](https://newsroom.chipotle.com/2025-02-04-CHIPOTLE-ANNOUNCES-FOURTH-QUARTER-AND-FULL-YEAR-2024-RESULTS)
-
-
-
-
-
-FOURTH QUARTER COMPARABLE SALES INCREASE 5.4% DRIVEN BY 4.0% TRANSACTION GROWTH FULL YEAR 2024 COMPARABLE SALES INCREASE 7.4% DRIVEN BY 5.3% TRANSACTION GROWTH NEWPORT BEACH, Calif., Feb. 4, 2025...
-
 
 Show
 
