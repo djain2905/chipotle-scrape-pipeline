@@ -1,46 +1,52 @@
 ---
-title: Chipotle Mexican Grill: Mexican Food - Restaurant & Catering
+title: Chipotle — Order Now
 url: https://www.chipotle.com/home
-scraped_at: 2026-08-24T06:40:45
+scraped_at: 2026-11-16T14:26:59
 ---
 
 [ENABLE ACCESSIBILITY](https://www.chipotle.com/#)
 
-A video compilation showing the process of making Chipotle Honey chicken starting with Chipotle’s signature hot honey on a honey dipper, chipotle chili peppers firing on the grill, freshly grilled Chipotle Honey Chicken on the grill, and finished with a Chipotle Honey Chicken Burrito Bowl with White Rice, Black Beans, Fresh Tomato Salsa, Fajita Veggies, Monterey Jack Cheese, and hand-mashed Guacamole.
+**LIMITED TIME ONLY**
 
-A video compilation showing the process of making Chipotle Honey chicken starting with Chipotle’s signature hot honey on a honey dipper, chipotle chili peppers firing on the grill, freshly grilled Chipotle Honey Chicken on the grill, and finished with a Chipotle Honey Chicken Burrito Bowl with White Rice, Black Beans, Fresh Tomato Salsa, Fajita Veggies, Monterey Jack Cheese, and hand-mashed Guacamole.
+**SMOKED** BRISKET
 
-CHIPOTLE HONEY
+$0 DELIVERY FEE\*
 
-CHICKEN
+**Mesquite-smoked with garlic, cumin, and**
 
-CHIPOTLE HEAT WITH A TOUCH OF SWEET
+**Mexican peppers. Responsibly Raised** **®**
 
-**Freshly grilled chicken marinated with**
+**beef brisket hand-chopped fresh daily.**
 
-**chipotle peppers and a touch of pure**
+**LIMITED TIME ONLY**
 
-**honey is back to kick off summer.**
+SMOKED
 
-**CHIPOTLE HONEY**
+BRISKET
 
-CHICKEN
+$0 DELIVERY FEE\*
 
-CHIPOTLE HEAT WITH A TOUCH OF SWEET
+**Mesquite-smoked with garlic, cumin, and**
 
-**Freshly grilled chicken marinated with**
+**Mexican peppers. Responsibly Raised** **®**
 
-**chipotle peppers and a touch of pure**
-
-**honey is back to kick off summer.**
+**beef brisket hand-chopped fresh daily.**
 
 [ORDER NOW](https://www.chipotle.com/#menu) [ORDER NOW](https://www.chipotle.com/#menu)
 
-![Chipotle Summer of Extras](https://www.chipotle.com/adobe/dynamicmedia/deliver/dm-aid--e81826f5-3b5e-4ef7-8748-395f102d50a9/summer-of-extras-2026-logo-340x340.png?quality=85&preferwebp=true)
+\*Valid 11/5/2026-11/18/2026. Higher menu prices and (except in CA/CO/CT/MA/MN/VA)
 
-EARN EXTRA POINTS, EXTRA BADGES, & EXTRA ENTREES
+additional fees apply for delivery. $10 min, excl. tax and fees. 15 entrées max per order.
 
-JOIN REWARDS
+Chipotle.com or Chipotle app only. Full Terms: [chipotle.com/smoked-brisket-zdd](https://www.chipotle.com/smoked-brisket-zdd)
+
+\*Valid 11/5/2026-11/18/2026. Higher menu prices and (except in CA/CO/CT/MA/MN/VA) additional fees apply for delivery. $10 min, excl. tax and fees. 15 entrées max per order. Chipotle.com or Chipotle app only. Full Terms: [chipotle.com/smoked-brisket-zdd](https://www.chipotle.com/smoked-brisket-zdd)
+
+![Chipotle pepper logo](https://www.chipotle.com/adobe/dynamicmedia/deliver/dm-aid--d775719b-b7f8-4f3d-a930-257cb7522b07/medallion-fluted-2x.png?preferwebp=true&quality=85)
+
+JOIN CHIPOTLE REWARDS. UNLOCK FREE CHIPOTLE.
+
+CREATE AN ACCOUNT
 
 **OR**
 
@@ -48,11 +54,11 @@ SIGN IN
 
 Navigated to order menu page
 
-![Build-Your-Own](https://www.chipotle.com/content/dam/chipotle/menu/meal-types/byoc/web-desktop/BYOC-crop.png)
+![Family Meals](https://www.chipotle.com/content/dam/chipotle/menu/meal-types/byoc/web-desktop/BYOC-crop.png)
 
 Digital Only
 
-Build-Your-Own
+Family Meals
 
 Serves 4-6 people
 
@@ -110,65 +116,67 @@ Chips & Sides
 
 Order
 
-back to school giftcards Chipotle 2026
+A video compilation of fresh sliced Smoked Brisket, Smoked Brisket being macerated in Chipotle’s signature sauce, and a Smoked Brisket Burrito Bowl with White Rice, Black Beans, Roasted Corn Chili Salsa, Fresh Tomato Salsa, Fajita Veggies, Monterey Jack Cheese, and hand-mashed Guacamole.
 
-back to school giftcards Chipotle 2026
+A video compilation of fresh sliced Smoked Brisket, Smoked Brisket being macerated in Chipotle’s signature sauce, and a Smoked Brisket Burrito Bowl with White Rice, Black Beans, Roasted Corn Chili Salsa, Fresh Tomato Salsa, Fajita Veggies, Monterey Jack Cheese, and hand-mashed Guacamole.
 
-GO BACK TO
+SMOKED
 
-SCHOOL WITH
+BRISKET IS
 
-CHIPOTLE
+BACK FOR A
 
-Send them back to school with a Chipotle Gift Card—perfect for powering through lectures, study sessions, and everything after class.
+LIMITED TIME
 
-GO BACK TO SCHOOL
+Tender, hand-chopped,
 
-WITH CHIPOTLE
+seasoned with authentic
 
-Send them back to school with a Chipotle Gift Card—perfect for powering through lectures, study sessions, and everything after class.
+Mexican spices, and
 
-[SHOP GIFT CARDSSHOP GIFT CARDS](https://www.chipotle.com/gift-cards)
+tossed in a smoky, bold
 
-back to school giftcards Chipotle 2026
+sauce made with chipotle
 
-back to school giftcards Chipotle 2026
+peppers.
 
-Honey Chicken is back at Chipotle Mexican Grill
+SMOKED BRISKET IS BACK FOR A LIMITED TIME
 
-Honey Chicken is back at Chipotle Mexican Grill
-
-CHIPOTLE
-
-HONEY CHICKEN
-
-IS BACK
-
-Chipotle Honey Chicken is back on the grill. Experience freshly grilled chicken marinated with chipotle peppers and a touch of pure honey just in time for summer.
-
-CHIPOTLE HONEY
-
-CHICKEN IS BACK
-
-Chipotle Honey Chicken is back on the grill. Experience freshly grilled chicken marinated with chipotle peppers and a touch of pure honey just in time for summer.
+Tender, hand-chopped, seasoned with authentic Mexican spices, and tossed in a smoky, bold sauce made with chipotle peppers.
 
 [ORDER NOWORDER NOW](https://www.chipotle.com/#menu)
 
-Honey Chicken is back at Chipotle Mexican Grill
+A video compilation of fresh sliced Smoked Brisket, Smoked Brisket being macerated in Chipotle’s signature sauce, and a Smoked Brisket Burrito Bowl with White Rice, Black Beans, Roasted Corn Chili Salsa, Fresh Tomato Salsa, Fajita Veggies, Monterey Jack Cheese, and hand-mashed Guacamole.
 
-Honey Chicken is back at Chipotle Mexican Grill
+A video compilation of fresh sliced Smoked Brisket, Smoked Brisket being macerated in Chipotle’s signature sauce, and a Smoked Brisket Burrito Bowl with White Rice, Black Beans, Roasted Corn Chili Salsa, Fresh Tomato Salsa, Fajita Veggies, Monterey Jack Cheese, and hand-mashed Guacamole.
 
-![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/02774ed8-f878-4dc2-b6cd-5e86977b4907/7363a28f-6159-4c96-abd1-a8a6035dec62.jpg)
+WE START
 
-The Salish Matter Meal
+WITH 48
 
-![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/ead6de63-d046-4795-a80c-490f10c285bd/1c709376-bad9-492f-807b-d99c750e4aeb.jpg)
+PERFECT
 
-Sam's High Protein Tacos
+AVOCADOS
 
-![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/ec59f2f3-0c3f-4082-82af-ca58727f3e9f/56cdb1e0-b6e0-4020-88f6-cd2ddb1693e5.jpg)
+Our hand-mashed guac starts with whole, ripe avocados and is freshly made all day long so it always adds a little something extra to your bowl.
 
-Josh Hart's High Protein Burrito
+WE START WITH 48 PERFECT AVOCADOS
+
+Our hand-mashed guac starts with whole, ripe avocados and is freshly made all day long so it always adds a little something extra to your bowl.
+
+[ORDER NOWORDER NOW](https://www.chipotle.com/#menu)
+
+![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/7a0dc238-0fa6-4aa1-bc72-bb6f1972d08c/8c3d4689-201e-4e55-9646-964df03bbca7.jpg)
+
+Smoked Serrano Steak Burrito Bowl
+
+![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/8dc43d62-9c8c-4369-9b3a-70bed77d446a/3f38d4d6-bfdb-4692-939f-7f1feb437ab4.jpg)
+
+The Wiz Khalifa Bowl
+
+![Meal Image](https://miinternal-cdn.chipotle.com/assets/menuinnovation/pcms/9fc4ed1c-4627-4d5f-84fa-fce3c8e39c91/19dc3be9-d170-406a-b0da-4d25ef35c15e.jpg)
+
+Smoked Serrano Steak Quesadilla
 
 # CROWD PLEASERS
 
@@ -210,5 +218,3 @@ GROUP ORDER
 - **Order and eat today**
 
 [START A GROUP ORDER](https://www.chipotle.com/order/group/create)
-
-Chipotle — Order Now

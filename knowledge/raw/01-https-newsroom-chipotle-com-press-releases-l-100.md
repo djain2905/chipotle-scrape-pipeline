@@ -1,7 +1,7 @@
 ---
 title: chipotle news releases
 url: https://newsroom.chipotle.com/press-releases?l=100
-scraped_at: 2026-11-09T14:50:46
+scraped_at: 2026-11-16T14:26:59
 ---
 
 [Skip to main content](https://newsroom.chipotle.com/press-releases?l=100#content)
@@ -55,6 +55,28 @@ Asset Types
 PhotosVideoAudioDocumentsEventsStandard
 
 [Basic Search](https://newsroom.chipotle.com/press-releases?l=100#)
+
+- [![](https://mmx.prnewswire.com/media/MS2029697/2611_CMG_Friday13thTattoo26-Wiz_PR-ASSET_WIZ_v1_1920x1080.jpg?id=OA3064320&p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2026-11-09-CHIPOTLE-BRINGS-BACK-RECORD-BREAKING-TATTED-LIKE-A-CHIPOTLE-BAG-BOGO-ON-FRIDAY,-NOVEMBER-13)
+
+
+
+Nov 9, 2026
+
+
+
+[CHIPOTLE BRINGS BACK RECORD-BREAKING "TATTED LIKE A CHIPOTLE BAG" BOGO ON FRIDAY, NOVEMBER 13Opens in new window](https://newsroom.chipotle.com/2026-11-09-CHIPOTLE-BRINGS-BACK-RECORD-BREAKING-TATTED-LIKE-A-CHIPOTLE-BAG-BOGO-ON-FRIDAY,-NOVEMBER-13)
+
+
+
+
+
+Chipotle's Friday the 13th promotion returns Friday, November 13 with a one-hour flash BUY-ONE-GET-ONE (BOGO) entrée offer for tattooed guests from 3 to 4 p.m. local time at participating...
+
+
+
+
+
+  - [Photos1Opens in new window](https://newsroom.chipotle.com/2026-11-09-CHIPOTLE-BRINGS-BACK-RECORD-BREAKING-TATTED-LIKE-A-CHIPOTLE-BAG-BOGO-ON-FRIDAY,-NOVEMBER-13#assets_20295_122899-117)
 
 - [![](https://newsroom.chipotle.com/file.php/181412/10.6Updated-All31200.jpg?thumbnail=144)Opens in new window](https://newsroom.chipotle.com/2026-11-04-CHIPOTLE-EXPANDS-ATHLETE-CARD-PROGRAM-TO-MORE-THAN-2,300-COLLEGE-ATHLETES)
 
@@ -2057,28 +2079,6 @@ Feb 26, 2025
 
 
   - [Photos1Opens in new window](https://newsroom.chipotle.com/2025-02-26-CHIPOTLE-PREMIERES-UNFOLDED-AN-ANIMATED-SHORT-FILM-FEATURING-A-COVER-BY-HALSEY-ALONGSIDE-2-MILLION-DONATION-TO-SUPPORT-SUSTAINABLE-AG#assets_20295_122790-117)
-
-- [![](https://mma.prnewswire.com/media/2622802/Hiring_Announcement.jpg?p=thumbnail)Opens in new window](https://newsroom.chipotle.com/2025-02-19-CHIPOTLE-AIMS-TO-HIRE-FUTURE-BILLION-DOLLAR-BUSINESS-LEADERS-IN-NEW-BURRITO-SEASON-HIRING-PUSH)
-
-
-
-Feb 19, 2025
-
-
-
-[CHIPOTLE AIMS TO HIRE FUTURE BILLION DOLLAR BUSINESS LEADERS IN NEW "BURRITO SEASON" HIRING PUSHOpens in new window](https://newsroom.chipotle.com/2025-02-19-CHIPOTLE-AIMS-TO-HIRE-FUTURE-BILLION-DOLLAR-BUSINESS-LEADERS-IN-NEW-BURRITO-SEASON-HIRING-PUSH)
-
-
-
-
-
-Chipotle is looking to hire 20,000 additional employees for its upcoming "Burrito Season," the company's busiest time of the year running from March to May. Crew members at Chipotle can advance to...
-
-
-
-
-
-  - [Photos1Opens in new window](https://newsroom.chipotle.com/2025-02-19-CHIPOTLE-AIMS-TO-HIRE-FUTURE-BILLION-DOLLAR-BUSINESS-LEADERS-IN-NEW-BURRITO-SEASON-HIRING-PUSH#assets_20295_122789-117)
 
 Show
 
